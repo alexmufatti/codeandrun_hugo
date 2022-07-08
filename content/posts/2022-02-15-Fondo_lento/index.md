@@ -1,0 +1,25 @@
+---
+title: Fondo lento
+categories: 
+  - Sport
+topics: 
+- sport
+- running
+date: 2022-02-15 12:59:38
+images: ["20220215-activity-map.png"]
+activitydata:
+  pace: 5:6min/km
+  elevation: 31mt
+  distance: 10.01km
+  duration: 51:07
+places: []
+
+---
+
+Cielo sereno, 15°C, Percepito 14°C, Umidità 48%, Vento 5m/s da O
+
+<!--more-->
+
+<!-- {{< figure src="20220215-activity-map.png" title="map" >}} -->
+
+[Link all'attività](https://strava.com/activities/6686383453).
