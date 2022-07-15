@@ -12,6 +12,8 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 
+mainSections = ['posts', 'activities']
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 

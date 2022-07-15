@@ -1,0 +1,31 @@
+---
+title: 8km FM + defa
+topics:
+- sport
+- running
+categories:
+  - Sport
+date: 2022-07-13 13:24:57
+images: ["20220713-activity-map.png"]
+activitydata:
+  pace: 4:29min/km
+  elevation: 32mt
+  distance: 8.26km
+  duration: 37:03
+places: []
+
+---
+
+Cielo sereno, 30°C, Percepito 34°C, Umidità 66%, Vento 6m/s da SE - Klimat.app
+
+<!--more-->
+
+
+
+
+{{<  figure src="20220713-activity-map.png" title="map" >}}
+
+
+{{< strava id=7461798580 embedId=bd3303b151aa3260ed84460e360f00ab03af9cd3 >}}
+
+[Link all'attività](https://strava.com/activities/7461798580).

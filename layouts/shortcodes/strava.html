@@ -1,0 +1,14 @@
+
+  {{ $id := .Get "id" }}
+  {{ $embedId := .Get "embedId" }}
+  {{ if and ($id) ($embedId) }}
+  <div class="embed">
+    <iframe loading="lazy"
+            style="height: 405px; width: 100%; min-width: 360px; max-width: 590px; border: none;"
+            allowtransparency="true"
+            scrolling="no"
+            src="https://www.strava.com/activities/{{ $id }}/embed/{{ $embedId }}"></iframe>
+  </div>
+  {{ else }}
+    <div>error</div>
+  {{ end }}
