@@ -13,7 +13,7 @@ enableSearch = true
 enableCodeCopy = false
 
 mainSections = ['posts', 'activities']
-timeout      = 180
+timeout      = 180000
 # mainSections = ["section1", "section2"]
 # robots = ""
 
