@@ -1,5 +1,5 @@
 ---
-title: Corsa pomeridiana 
+title: Fondo lento 
 topics:
 - sport
 - running
