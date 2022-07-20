@@ -1,5 +1,5 @@
 baseURL = 'https://blog.codeandrun.it/'
-languageCode = 'en-us'
+languageCode = 'it-it'
 theme        = "congo"
 paginate     = 10
 timeout      = 180000
