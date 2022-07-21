@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Activities"
+name = "Attività"
 pageRef = "activities"
 weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "Posts"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Topics"
+  name = "Argomenti"
   pageRef = "topics"
   weight = 30
 
