@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-01 12:33:39
-images: ["20220601-activity-map.png"]
+
 activitydata:
   pace: 4:35min/km
   elevation: 11mt
@@ -22,7 +22,7 @@ Cielo sereno, 28°C, Percepito 29°C, Umidità 54%, Vento 3m/s da ESE
 
 Anche oggi gran caldo e fatica,
 
-{{<  figure src="20220601-activity-map.png" title="map" >}}
+{{<  figure src="20220601-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7236745382 embedId=7941a25305025cb4314b8fc6728b9fe1796c71e0 >}}
 

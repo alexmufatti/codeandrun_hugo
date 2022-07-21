@@ -9,6 +9,6 @@ Cielo sereno, 12°C, Percepito 7°C, Umidità 32%, Vento 4m/s da SSO
 
 Corsa tranquilla in compagnia dopo un po' di tempo. Un po' di mal di gola fastidioso ma niente di preoccupante.
 
-<!-- ![image](/images/2021/08/20210310-activity-map_hu3cfe5a30f23b0bbf34e764073832fec2_69679_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20210310-activity-map.png)
 
 #### map

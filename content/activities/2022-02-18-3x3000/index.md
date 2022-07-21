@@ -6,7 +6,7 @@ topics:
 - sport
 - running
 date: 2022-02-18 12:46:04
-images: ["20220218-activity-map.png"]
+
 activitydata:
   pace: 4:52min/km
   elevation: 35mt
@@ -20,6 +20,6 @@ Cielo sereno, 18°C, Percepito 18°C, Umidità 69%, Vento 8m/s da SO
 
 <!--more-->
 
-{{<  figure src="20220218-activity-map.png" title="map" >}}
+{{<  figure src="20220218-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6701406883).

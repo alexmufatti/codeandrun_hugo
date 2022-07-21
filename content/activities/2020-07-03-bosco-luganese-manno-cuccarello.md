@@ -13,4 +13,4 @@ Per curiosità ho voluto confrontare questa corsa con una fatta un paio di mesi 
 
 Ora ho dei dati oggettivi per dire che non sono per nulla in forma!
 
-<!-- ![image](/images/2021/08/20200703-activity-map_hue0b5e4cef963e38ecc2fa27ae480d9c8_80852_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200703-activity-map.png)

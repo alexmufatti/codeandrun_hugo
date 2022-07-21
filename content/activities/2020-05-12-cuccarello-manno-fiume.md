@@ -17,4 +17,4 @@ Duration: 34:23
 
 Visto il tempo a disposizione devido di fare un giro tranquillo. Questa volta però, vito l’orario più tardi del solito, decido di tornare dal fiume al posto che lungo i sentieri. È bello correre un po' in pianura, c’è una bella sensazione di leggerezza :)
 
-<!-- ![image](/images/2021/08/20200512-activity-map_hu3bc7f46d6cba10b44952ae4fce7fc573_74351_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200512-activity-map.png)

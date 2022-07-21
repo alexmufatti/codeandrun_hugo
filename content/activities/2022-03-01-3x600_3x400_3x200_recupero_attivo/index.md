@@ -7,7 +7,7 @@ topics:
 - running
 - ripetute
 date: 2022-03-01 13:16:31
-images: ["20220301-activity-map.png"]
+
 activitydata:
   pace: 4:49min/km
   elevation: 23mt
@@ -21,6 +21,6 @@ Poche nuvole, 15°C, Percepito 15°C, Umidità 66%, Vento 6m/s da E
 
 <!--more-->
 
-{{<  figure src="20220301-activity-map.png" title="map" >}}
+{{<  figure src="20220301-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6755987051).

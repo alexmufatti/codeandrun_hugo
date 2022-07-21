@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-16 13:02:34
-images: ["20220516-activity-map.png"]
+
 activitydata:
   pace: 4:40min/km
   elevation: 14mt
@@ -23,7 +23,7 @@ Ripetute brevi, caldo, poco adattamento. Ho sofferto un poco ma tutto ancora sot
 
 Tempo che tra qualche settimana sarà molto più dura.
 
-{{<  figure src="20220516-activity-map.png" title="map" >}}
+{{<  figure src="20220516-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7151569069 embedId=1f4a0654d6e89b3cc351d3b9b6df344c16236f03 >}}
 

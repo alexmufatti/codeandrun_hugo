@@ -10,7 +10,7 @@ I’ve switched some weeks ago to Linux Mint and Cinnamon from Xfce and in these
 
 I’m used to take screenshot for work, totake some notes and so I installed the [Cinnamon screenshot applet](http://cinnamon-spices.linuxmint.com/applets/view/35 "screenshot applet").
 
-![image](/images/2021/08/screenshot-from-2013-12-20-195253_hua923169b1f3e8ca98fbf4b8c22747995_2440_700x0_resize_box_3.png)
+![image](/images/2021/08/screenshot-from-2013-12-20-195253.png)
 
 After some day using it I was a bit bored by the screenshots saved in Pictures folder by default so I traied to change this behaviur.
 

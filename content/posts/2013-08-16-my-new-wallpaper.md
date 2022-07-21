@@ -8,7 +8,7 @@ date: 2013-08-16 19:47:42
 
 Here is my new desktop wallpaper (and current blog header), one of the best shot I’ve taken during my MTB trips.
 
-![image](/images/2021/08/20130704_195307_hub69c966cc377ee0ce97d6c58a4b6169d_277376_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/20130704_195307.jpg)
 
 Wallpaper Crocione!
 

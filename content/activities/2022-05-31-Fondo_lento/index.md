@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-31 13:17:37
-images: ["20220531-activity-map.png"]
+
 activitydata:
   pace: 5:1min/km
   elevation: 41mt
@@ -23,7 +23,7 @@ Cielo sereno, 26°C, Percepito 25°C, Umidità 38%, Vento 4m/s da ESE
 
 {{< figure src="IMG_5944.jpg" title="golfo" >}}
 
-{{<  figure src="20220531-activity-map.png" title="map" >}}
+{{<  figure src="20220531-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7231525667 embedId=6c8f57f1abb51f85c62a6ee5bbcb4333788580b9 >}}
 

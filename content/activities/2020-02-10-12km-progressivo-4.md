@@ -15,4 +15,4 @@ Distance: 14.16km
 
 Duration: 1:06:59
 
-<!-- ![image](/images/2021/08/20200210-activity-map_hu0e707ea2725972255ce268b9f2e4866b_74656_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200210-activity-map.png)

@@ -6,7 +6,7 @@ topics:
 categories:
   - Sport
 date: 2022-07-15 12:42:51
-images: ["20220715-activity-map.png"]
+
 activitydata:
   pace: 5:0min/km
   elevation: 41mt
@@ -38,7 +38,7 @@ In compenso il paesaggio merita sempre.
 
 
 
-{{<  figure src="20220715-activity-map.png" title=="map" >}}
+{{<  figure src="20220715-activity-map_featured.png" title=="map" >}}
 
 
 {{< strava id=7472759150 embedId=215c9352e424b4c85cc6fe183a84c70652d28d09 >}}

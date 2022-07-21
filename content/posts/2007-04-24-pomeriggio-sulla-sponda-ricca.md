@@ -10,7 +10,7 @@ Domenica pomeriggio siamo andati a fare un giro sulla sponda ovest; del Lago Mag
 
 Siamo partiti da Arona e abbiamo fatto una breve tappa, con salita, al [San Carlone](http://it.wikipedia.org/wiki/Colosso_di_San_Carlo_Borromeo "San Carlone"). Non ero mai arrivato prima d’ora fino in cima… bello, strano, un po' claustrofobico; vi metto una foto anche se non rende molto la sensazione di stare li' dentro (soprattutto il caldo con il sole in una statua di metallo nero!)
 
-![image](/images/2021/08/22042007003_hu21ac5ada756345d892b4467f025e175f_330137_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/22042007003.jpg)
 
 Abbiamo poi continuato la passeggiata lungo la strada che costeggia il lago fino a Stresa. Sulla costa ci sono delle ville veramente stupende, con parchi che in questo periodo hanno dei colori fantastici… dei posti davvero da favola; ma chissà quanto costa una casa lì?? Peccato non aver fatto nemmeno una foto… la macchina digitale scalcinata ha deciso di fare un po' i capricci :-(
 

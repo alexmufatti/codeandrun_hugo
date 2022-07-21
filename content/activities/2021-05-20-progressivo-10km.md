@@ -9,6 +9,6 @@ Cielo sereno, 21°C, Percepito 14°C, Umidità 26%, Vento 6m/s da N
 
 Prima corsa dove riesco a seguire l’allenamento in maniera buona. Anche gli ultimi 2km li ho fatti a buon ritmo, speriamo sia di buon auspicio per le prossime uscite!
 
-<!-- ![image](/images/2021/08/20210520-activity-map_hu56668ce622432710d4b7ef302b24954a_91978_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20210520-activity-map.png)
 
 #### map

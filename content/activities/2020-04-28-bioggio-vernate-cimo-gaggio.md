@@ -17,4 +17,4 @@ Duration: 1:02:14
 
 Priva uscita con pioggia da un po' di tempo ma soprattutto prima uscita in compagnia da 2 mesi!! Giro tranquillo ma l’importante è avere fatto due chiacchiere, si fa meno fatica nonostante tutto!
 
-<!-- ![image](/images/2021/08/20200428-activity-map_hu1c21271456aa7d7161debcffec71a99e_72584_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200428-activity-map.png)

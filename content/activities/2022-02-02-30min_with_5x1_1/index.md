@@ -10,4 +10,4 @@ Primo tentativo di velocità dopo tanto tempo. Grandissima fatica a reggere il r
 <!-- more -->
 ![Image](/images/2022/02/IMG_5434-1-1024x557.jpg)
 
-<!-- ![image](/images/2022/02/20220202-activity-map.png) -->
+ 

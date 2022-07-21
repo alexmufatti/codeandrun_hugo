@@ -13,6 +13,6 @@ Purtroppo già nei primi minuti di corsa sento un po' di dolore al _piriforme_ c
 
 Speriamo che mi passi per l’Engadiner Sommerlauf di domenica.
 
-<!-- ![image](/images/2021/08/20200814-activity-map_hu8c3d9bc3235776fd8a7f4ad85a632a79_85938_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200814-activity-map.png)
 
 #### map

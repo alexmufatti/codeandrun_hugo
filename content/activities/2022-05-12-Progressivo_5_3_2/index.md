@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-12 13:25:17
-images: ["20220512-activity-map.png"]
+
 activitydata:
   pace: 4:46min/km
   elevation: 47mt
@@ -22,7 +22,7 @@ Cielo sereno, 23°C, Percepito 23°C, Umidità 55%, Vento 5m/s da S
 
 Abbastanza impegnativo per il caldo e un po' di vento. Andato però abbastanza bene, tenendo i ritmi.
 
-{{<  figure src="20220512-activity-map.png" title="map" >}}
+{{<  figure src="20220512-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7129979248 embedId=96ccbbf89b8294c6d464c54505009c5cc49ac4f2 >}}
 

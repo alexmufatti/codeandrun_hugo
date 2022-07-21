@@ -12,16 +12,16 @@ Oggi di corsa a trovare Diego che è in visita a Barcellona.
 
 La sorpresa è che c'è la _Barcelona Half Marathon_ e un sacco di strade sono chiuse! Passo per le vie interne e non è niente male.
 
-![Image](/images/2021/10/IMG_4932.heic-1024x768.jpg)
+![Image](/images/2021/10/IMG_4932.heic.jpg)
 
 Ritorno lungo mare con una splendida giornata di sole non troppo calda.
 
-![Image](/images/2021/10/IMG_4934.heic-1024x768.jpg)
+![Image](/images/2021/10/IMG_4934.heic.jpg)
 
 Unico lato negativo dell'uscita è la fatica spropositata sofferta per portarlo a termine.
 
 Probabilmente con il poco allenamento nelle gambe non riesco più a mantenere certi ritmi. Speriamo di riuscire a riprendere in fretta degli allenamenti un po' più strutturati.
 
-<!-- ![image](/images/2021/10/20211017-activity-map.png) -->) -->
-
-<!-- ![image](/images/2021/10/20211017-activity-map-1.png) -->
+![image](/images/2021/10/20211017-activity-map_featured.png)
+ 
+![image](/images/2021/10/20211017-activity-map-1_featured.png)

@@ -6,7 +6,7 @@ topics:
 - sport
 - running
 date: 2022-02-14 12:44:58
-images: ["20220214-activity-map.png"]
+
 activitydata:
   pace: 4:43min/km
   elevation: 25mt
@@ -20,6 +20,6 @@ Nubi sparse, 16°C, Percepito 15°C, Umidità 46%, Vento 7m/s da O
 
 <!--more-->
 
-{{<  figure src="20220214-activity-map.png" title="map" >}}
+{{<  figure src="20220214-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6681584160).

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-27 13:24:29
-images: ["20220627-activity-map.png"]
+
 activitydata:
   pace: 4:56min/km
   elevation: 75mt
@@ -23,7 +23,7 @@ Primo allenamento di qualità dopo una settimana intera di stop a causa del covi
 Andato meglio del previsto, ritmi tenuti decentemente a parte le piccole pause per il caldo.
 
 
-{{<  figure src="20220627-activity-map.png" title="map" >}}
+{{<  figure src="20220627-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7376316592 embedId=ec16352264f3aab98bf6aaeae20bf95877a464cf >}}

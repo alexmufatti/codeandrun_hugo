@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-02 13:21:31
-images: ["20220502-activity-map.png"]
+
 activitydata:
   pace: 4:36min/km
   elevation: 10mt
@@ -23,7 +23,7 @@ Allenamento impegnativo ma portato a termine bene. Pensavo di soffrire molto di 
 
 {{< figure src="grafico.png" title="grafico" >}}
 
-{{<  figure src="20220502-activity-map.png" title="map" >}}
+{{<  figure src="20220502-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7075460913 embedId=0d6928f73b26cdbcb91da79e32184f72ecea2ff4 >}}
 

@@ -19,20 +19,20 @@ Oggi sperimento un nuovo sentiero. Da Bedano percorro la traccia che porta fino 
 
 La salita è veramente tosta, gradini, pendenza, fondo, nulla aiuta. Fortunatamente ci sono degli allunghi in falsopiano che alleggeriscono un po' la salita. L’ambientazione è molto bella, più _selvaggia_ dei sentieri che percorro di solito.
 
-![image](/images/2021/08/IMG_1991_hu30022e430fc6441bfe582e9d5dc1c399_509966_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1991.jpg)
 
 Lungo questo sentiero incrocio anche un percorso di downhill con diverse rampe e salti: chissà se è pericoloso correre su questo sentiero, soprattutto in verso opposto alle bici!
 
-![image](/images/2021/08/IMG_1995_hua96916d41b00fc617f2f094cb74386b1_510616_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1995.jpg)
 
 Arrivo ad Arosio e poi percorro il sentiero a est della cresta verso Cademario. Da lì discesa verso casa.
 
 Un bel giro, quando riuscirò a fare questa salita in tranquillità, senza soste, alora potrò dire di essere in forma!
+![image](/images/2021/08/20200510-activity-map.png)
+ 
 
-<!-- ![image](/images/2021/08/20200510-activity-map_hu89891951a53a5ad8579ca93c15c690df_83918_700x0_resize_box_3.png) -->
+![image](/images/2021/08/IMG_1992.jpg)
 
-![image](/images/2021/08/IMG_1992_hu5af2543dcf3333c23b7df2854a0c026f_510265_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1993.jpg)
 
-![image](/images/2021/08/IMG_1993_hucf6c1c56937d4331bb6dc9d3fac5ca8b_514454_700x0_resize_q75_box.jpg)
-
-![image](/images/2021/08/IMG_1994_hucae706ac5af30bcba92acdaa4e1a913b_449644_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1994.jpg)

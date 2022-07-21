@@ -17,4 +17,4 @@ Prima volta in pianura dopo 2 mesi di salite. Mi aspettavo di soffrire molto di 
 
 Dovrò ricredermi sull’efficacia degli allenamenti in montagna anche per la corsa in pianura!
 
-<!-- ![image](/images/2021/08/20200501-activity-map_hu1ace81d2acd47ba2c0fe05ebf4fcbde9_94615_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200501-activity-map.png)

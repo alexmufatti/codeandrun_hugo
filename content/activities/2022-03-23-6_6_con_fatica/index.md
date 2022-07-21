@@ -7,7 +7,7 @@ topics:
 - running
 - progressivo
 date: 2022-03-23 12:38:26
-images: ["20220323-activity-map.png"]
+
 activitydata:
   pace: 4:54min/km
   elevation: 54mt
@@ -24,6 +24,6 @@ Quarto allenamento di fila, non sono nè abituato nè abbastanza in forma ed inf
 
 Ora giorno di riposo fortunatamente.
 
-{{<  figure src="20220323-activity-map.png" title="map" >}}
+{{<  figure src="20220323-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6869474392).

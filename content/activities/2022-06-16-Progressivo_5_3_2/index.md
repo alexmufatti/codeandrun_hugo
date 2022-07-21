@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-16 12:43:24
-images: ["20220616-activity-map.png"]
+
 activitydata:
   pace: 4:42min/km
   elevation: 32mt
@@ -26,7 +26,7 @@ Giornata senza troppa energia. L'allenamento non è comunque andato male nonosta
 Progressivo tenuto decentemente a tutti e tre i ritmi.
 
 
-{{<  figure src="20220616-activity-map.png" title="map" >}}
+{{<  figure src="20220616-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7317841264 embedId=fef795a5048456a89958adb5bc3e976327a1abb5 >}}

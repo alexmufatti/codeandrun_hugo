@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-22 08:46:10
-images: ["20220522-activity-map.png"]
+
 activitydata:
   pace: 4:39min/km
   elevation: 23mt
@@ -23,7 +23,7 @@ Prima uscita della domenica mattina da un bel po' di tempo. Anticipare l'allenam
 
 Molta fatica, forse anche perchè non mi riescono mai bene gli allenamenti di qualità la mattina. Anche il caldo sicuramente influisce.
 
-{{<  figure src="20220522-activity-map.png" title="map" >}}
+{{<  figure src="20220522-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7182537986 embedId=b13b0651614bc51d75cabc6cf1a9a0f289da073c >}}
 

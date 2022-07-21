@@ -6,7 +6,7 @@ topics:
 categories:
   - Sport
 date: 2022-07-11 12:55:03
-images: ["20220711-activity-map.png"]
+
 activitydata:
   pace: 5:8min/km
   elevation: 34mt
@@ -27,7 +27,7 @@ Fondo lento esplorando la costa in previsione dei prossimi lunghi. Non male il p
 
 
 
-{{<  figure src="20220711-activity-map.png" title="map" >}}
+{{<  figure src="20220711-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7450766001 embedId=958fea63b5789eaecf60a387c82a04de9380ab6f >}}

@@ -14,4 +14,4 @@ Classico progressivo andato abbastanza bene anche le i battiti mi sembrano un po
 
 Ho anche preso un bell'acquazzone proprio a metà del giro; talmente forte da non riuscire più a vedere i palazzi a pochi metri da me!
 
-<!-- ![image](/images/2021/09/20210929-activity-map.png) -->
+![image](/images/2021/09/20210929-activity-map.png)

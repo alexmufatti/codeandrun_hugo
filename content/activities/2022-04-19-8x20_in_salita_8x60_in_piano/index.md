@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-19 13:03:39
-images: ["20220419-activity-map.png"]
+
 activitydata:
   pace: 5:29min/km
   elevation: 72mt
@@ -24,7 +24,7 @@ Seconda sessione di ripetute in salita, questa volta a Barcellona. Qui non ci so
 
 Anche questa volta non male. Più faticose quelle in piano successive fatte sicuramente troppo forte rispetto ai piani.
 
-{{<  figure src="20220419-activity-map.png" title="map" >}}
+{{<  figure src="20220419-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7006641592 embedId=049713373d6389bb32086d37b428e696e804c055 >}}
 

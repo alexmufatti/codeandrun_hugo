@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-05 12:57:17
-images: ["20220505-activity-map.png"]
+
 activitydata:
   pace: 4:24min/km
   elevation: 26mt
@@ -24,7 +24,7 @@ Ho dovuto fare qualche sosta a causa dei semafori visto che il solito percorso e
 
 Bene così!
 
-{{<  figure src="20220505-activity-map.png" title="map" >}}
+{{<  figure src="20220505-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7091552969 embedId=e946d58837c2f78c688675a1f20ffcd46455bd9e >}}
 

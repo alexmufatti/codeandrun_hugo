@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-22 13:16:33
-images: ["20220422-activity-map.png"]
+
 activitydata:
   pace: 4:46min/km
   elevation: 24mt
@@ -25,7 +25,7 @@ Ultimo allenamento della settimana. Quattro allenamenti di fila e nonostante tut
 
 Buon risultato!
 
-{{<  figure src="20220422-activity-map.png" title="map" >}}
+{{<  figure src="20220422-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7022388182 embedId=6f0eaa25c947bad039527e16797ba05aa4f1326f >}}
 

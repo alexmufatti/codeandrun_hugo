@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-07 13:20:15
-images: ["20220607-activity-map.png"]
+
 activitydata:
   pace: 4:29min/km
   elevation: 22mt
@@ -27,7 +27,7 @@ Sofferto un po' nella parte di medio, meno nel HIIT.
 
 Nel complesso un allenamento dignitoso.
 
-{{<  figure src="20220607-activity-map.png" title="map" >}}
+{{<  figure src="20220607-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7269375408 embedId=57666c219408a1d81c4ab6656a4d578b56247ddd >}}
 

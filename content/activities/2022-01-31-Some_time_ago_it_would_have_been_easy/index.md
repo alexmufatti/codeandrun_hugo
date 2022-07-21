@@ -6,7 +6,7 @@ topics:
 - sport
 - running
 date: 2022-01-31 12:52:32
-images: ["20220131-activity-map.png"]
+
 activitydata:
   pace: 4:56min/km
   elevation: 58mt
@@ -19,7 +19,5 @@ places: []
 Poche nuvole, 14°C, Percepito 13°C, Umidità 66%, Vento 2m/s da E
 
 <!--more-->
-
-{{<  figure src="20220131-activity-map.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6609565042).

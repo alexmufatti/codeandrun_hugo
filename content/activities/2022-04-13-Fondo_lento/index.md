@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-13 18:16:44
-images: ["20220413-activity-map.png"]
+
 activitydata:
   pace: 5:2min/km
   elevation: 141mt
@@ -27,7 +27,7 @@ In più ho dovuto fare un paio di salite impreviste a causa della passerella sul
 In compenso ho incontrato qualche nuovo ami o sulla strada.
 {{< figure src="IMG_5705.jpg" title="incontri" >}}
 
-{{<  figure src="20220413-activity-map.png" title="map" >}}
+{{<  figure src="20220413-activity-map_featured.png" title="map" >}}
 
 {{< strava id=6976413529 embedId=c141a5e71e826765f034685008b2a766ae85df07 >}}
 

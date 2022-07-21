@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-03-26 17:08:12
-images: ["20220326-activity-map.png"]
+
 activitydata:
   pace: 5:0min/km
   elevation: 51mt
@@ -24,7 +24,7 @@ Buone sensazioni nonostante un po' di vento; gli ultimi km in progressione lasci
 
 {{< figure src="progressivo.png" title="progressivo" >}}
 
-{{<  figure src="20220326-activity-map.png" title="map" >}}
+{{<  figure src="20220326-activity-map_featured.png" title="map" >}}
 
 {{< strava id=6886897937 embedId=deb7f845726ea6da99658640fdd6b4ece8af6e87 >}}
 

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-03-28 13:20:28
-images: ["20220328-activity-map.png"]
+
 activitydata:
   pace: 5:16min/km
   elevation: 47mt
@@ -27,7 +27,7 @@ Le prime sensazioni sono ottime, vediamo come andrà nelle prossime uscite.
 
 <!--more-->
 
-{{<  figure src="20220328-activity-map.png" title="map" >}}
+{{<  figure src="20220328-activity-map_featured.png" title="map" >}}
 
 {{< strava id=6895893204 embedId=a525f396d597783596f8ba4996dce3da279c5216 >}}
 

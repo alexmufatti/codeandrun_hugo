@@ -11,4 +11,4 @@ Corsa in compagnia sulla salita di Vernate. Questo percorso mi piace perché la 
 
 Rispetto a qualche mese fa si vede ancora la differenza nei tempi, l’ultima volta ero stato 20 s/km più rapido sulla salita.
 
-<!-- ![image](/images/2021/08/20200713-activity-map_hue49170446a55d44e6ebd55e5de3087e7_71062_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200713-activity-map.png)

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-11 14:52:09
-images: ["20220611-activity-map.png"]
+
 activitydata:
   speed: 10.05km/h
   max speed: 18.23km/h
@@ -23,7 +23,7 @@ Cielo sereno, 30°C, Percepito 31°C, Umidità 49%, Vento 6m/s da SSO - Klimat.a
 
 
 
-{{<  figure src="20220611-activity-map.png" title="map" >}}
+{{<  figure src="20220611-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7292357484 embedId=b1932079a322f83e8d8d5b3715e55dd9b953ffd6 >}}

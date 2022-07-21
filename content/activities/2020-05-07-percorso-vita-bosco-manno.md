@@ -19,4 +19,4 @@ Poco tempo a disposizione, giro tranquillo al percorso vita. Ho provato a spinge
 
 Discesa lungo uno dei molti sentieri che dal percorso vita portano a Manno.
 
-<!-- ![image](/images/2021/08/20200507-activity-map_hu5354f15aefbc55c56006c38ba2fa3dec_80300_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200507-activity-map.png)

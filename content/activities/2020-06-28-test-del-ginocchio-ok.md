@@ -11,8 +11,8 @@ Dopo l’ultima uscita ho patito un dolore nel retro del ginocchio destro. Lo sc
 
 Fortunatamente, avendo anche spinto un po' più del solito, il ginocchio ha retto bene.
 
-![image](/images/2021/08/IMG_2248_hu69cf7e9afff27db9dbfafc5577528747_519460_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_2248.jpg)
 
-![image](/images/2021/08/IMG_2249_hud1f5a947b103ecd1e271c7f5abb87611_510592_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_2249.jpg)
 
-<!-- ![image](/images/2021/08/20200628-activity-map_hu193edcc5e139c61f996651ca7853086d_51296_700x0_resize_box_3.png) -->
+ ![image](/images/2021/08/20200628-activity-map.png)

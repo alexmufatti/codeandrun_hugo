@@ -19,6 +19,6 @@ Ha piovuto, sentieri fangosi e poca gente in giro: tempo perfetto per poter prov
 
 È inutile, nonostante tutto, correre in pianura mi sa sempre più soddisfazione!
 
-![image](/images/2021/08/IMG_2010_hue57171bfa33cd599cba67bce71ce5c62_513309_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_2010.jpg)
 
-<!-- ![image](/images/2021/08/20200516-activity-map_hua27a5bd0d4b72eeac43ca312cb282418_112978_700x0_resize_box_3.png) -->
+ ![image](/images/2021/08/20200516-activity-map.png)

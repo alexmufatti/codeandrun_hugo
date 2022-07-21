@@ -7,7 +7,7 @@ topics:
 - running
 - fondo
 date: 2022-03-21 12:36:50
-images: ["20220321-activity-map.png"]
+
 activitydata:
   pace: 4:59min/km
   elevation: 42mt
@@ -30,6 +30,6 @@ Come al solito ho spinto troppo per essere un lento: dovevo stare sui 5:15m/km m
 {{< figure src="IMG_5594.jpg" title="windy" >}}
 {{< figure src="IMG_5595.jpg" title="windy" >}}
 
-{{<  figure src="20220321-activity-map.png" title="map" >}}
+{{<  figure src="20220321-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6858630919).

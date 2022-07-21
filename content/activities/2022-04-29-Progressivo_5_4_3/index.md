@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-29 13:03:52
-images: ["20220429-activity-map.png"]
+
 activitydata:
   pace: 4:43min/km
   elevation: 41mt
@@ -23,7 +23,7 @@ Pessimo allenamento. Alcuni stop per rifiatare. Probabilmente ho sbagliato il gi
 
 Peccato
 
-{{<  figure src="20220429-activity-map.png" title="map" >}}
+{{<  figure src="20220429-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7059183771 embedId=801f63f3b6230540edf367a92bf25606c027dbe9 >}}
 

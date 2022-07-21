@@ -6,7 +6,7 @@ topics:
 categories:
   - Sport
 date: 2022-07-19 13:08:42
-images: ["20220719-activity-map.png"]
+
 activitydata:
   pace: 4:44min/km
   elevation: 31mt
@@ -24,7 +24,7 @@ Nonostante il caldo questo progressivo è andato benino. Sempre il solito patter
 Speriamo sia comunque allenante 😅
 
 
-{{< figure src="20220719-activity-map.png" title="map" >}}
+{{< figure src="20220719-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7493700527 embedId=487c43111168719a831500bd17267ff91f32800d >}}

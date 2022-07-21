@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-12 09:06:16
-images: ["20220612-activity-map.png"]
+
 activitydata:
   pace: 5:14min/km
   elevation: 20mt
@@ -23,7 +23,7 @@ Cielo sereno, 26°C, Percepito 26°C, Umidità 57%, Vento 3m/s da NNO - Klimat.a
 
 Lento in Z2. Senza guardare il passo ma solo la frequenza cardiaca. Andato bene, anche se alla fine la frequenza si era un po' alzata.
 
-{{<  figure src="20220612-activity-map.png" title="map" >}}
+{{<  figure src="20220612-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7294739801 embedId=b54f1d130039413079418949910c6ff38bde6e93 >}}

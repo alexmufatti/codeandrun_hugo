@@ -9,6 +9,6 @@ Cielo sereno, 19°C, Percepito 16°C, Umidità 48%, Vento 3m/s da SSO
 
 Fondo rigenerante. Un po' meglio dell’ultima volta anche se non ai livelli pre COVID.
 
-<!-- ![image](/images/2021/08/20210526-activity-map_hubb38f08b930501719dc91bb95b69cb14_68469_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20210526-activity-map.png)
 
 #### map

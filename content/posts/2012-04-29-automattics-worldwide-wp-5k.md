@@ -10,7 +10,7 @@ So, here we are. Me and my wife went for the _Automattic’s Worldwide WP 5k_ 2
 
 Here is what we have seen at the end of the 5 kilometers (then we continued for a while, also because we have to came back home :-P )
 
-![image](/images/2021/08/img_02491_hu8ebfce3c95f8780a3a7089f0fffd31ca_511733_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/img_02491.jpg)
 
 And here is the GPS track!
 

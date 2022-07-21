@@ -9,6 +9,6 @@ Prevalentemente soleggiato, 3°C, Percepito 2°C, Umidità 45%, Vento 1m/s da NO
 
 Un bel progressivo. Probabilmente un po' troppo tirato visto che la frequenza cardiaca è stata un po' più alta di quella degli ultimi allenamenti simili.
 
-<!-- ![image](/images/2021/08/20210108-activity-map_huccdc80c47bfe82c597e67a0282396cee_84116_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20210108-activity-map.png)
 
 #### map

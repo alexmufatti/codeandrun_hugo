@@ -6,7 +6,7 @@ topics:
 categories:
   - Sport
 date: 2022-07-04 13:06:55
-images: ["20220704-activity-map.png"]
+
 activitydata:
   pace: 5:24min/km
   elevation: 24mt
@@ -23,7 +23,7 @@ Cielo sereno, 29°C, Percepito 29°C, Umidità 47%, Vento 7m/s da SE - Klimat.ap
 
 
 
-{{<  figure src="20220704-activity-map.png" title="map" >}}
+{{<  figure src="20220704-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7413144154 embedId=9f006ea814c9ccb23824dea1d045a842395d8f3f >}}

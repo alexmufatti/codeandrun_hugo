@@ -6,7 +6,7 @@ topics:
 categories:
   - Sport
 date: 2022-07-18 13:22:48
-images: ["20220718-activity-map.png"]
+
 activitydata:
   pace: 5:12min/km
   elevation: 26mt
@@ -28,7 +28,7 @@ Fondo lento tranquillo. L'idea era di stare in Z2 ma con sto caldo la seconda pa
 
 E poi si incontrano sempre cose interessanti quando si corre verso il porto...
 
-{{< figure src="20220718-activity-map.png" title="map" >}}
+{{< figure src="20220718-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7488563324 embedId=729375778489fa0971951fdf80eb50a95f7e46ea >}}

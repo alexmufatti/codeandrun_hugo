@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-06 13:21:44
-images: ["20220406-activity-map.png"]
+
 activitydata:
   pace: 4:46min/km
   elevation: 40mt
@@ -22,7 +22,7 @@ Poche nuvole, 17°C, Percepito 16°C, Umidità 46%, Vento 3m/s da SSO
 
 Primo lavoro dopo la mezza maratona. Tutto fatto a sensazione senza pretese.
 
-{{<  figure src="20220406-activity-map.png" title="map" >}}
+{{<  figure src="20220406-activity-map_featured.png" title="map" >}}
 
 {{< strava id=6939714435 embedId=9f46efdb13ec79859fde478dd89439eb63eaf8f1 >}}
 

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-25 16:20:49
-images: ["20220425-activity-map.png"]
+
 activitydata:
   pace: 5:39min/km
   elevation: 81mt
@@ -23,7 +23,7 @@ Buone sensazioni anche in queste ripetute in salita. Le cose vanno meglio decisa
 
 {{< figure src="grafico.png" title="grafico" >}}
 
-{{<  figure src="20220425-activity-map.png" title="map" >}}
+{{<  figure src="20220425-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7039120283 embedId=1c4d99b6005e34a9510f1571e22e8e02a34467ea >}}
 

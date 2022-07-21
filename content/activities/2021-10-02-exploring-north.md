@@ -10,16 +10,16 @@ Poche nuvole, 24°C, Percepito 25°C, Umidità 75%, Vento 1m/s da O
 <!-- more -->
 Giretto verso nord alla ricerca di qualche salita.
 
-![Image](/images/2021/10/IMG_4830.heic-1024x476.jpg)
+![Image](/images/2021/10/IMG_4830.heic.jpg)
 
 Percorso da rivedere leggermente per evitare le scalinate e le discese troppo "verticali". Per il resto un ottimo giro con dei bei panorami e qualche tratto su sentiero che male non fa.
 
-![Image](/images/2021/10/IMG_4826.heic-1024x768.jpg)
+![Image](/images/2021/10/IMG_4826.heic.jpg)
 
 Nel tratto finale anche un passaggio dalla Sagrada Familia con relativo caos!
 
-![Image](/images/2021/10/IMG_4831.heic-768x1024.jpg)
+![Image](/images/2021/10/IMG_4831.heic.jpg)
 
 {% youtube CRMkZK-HjWY %}
 
-<!-- ![activity map](/images/2021/10/20211002-activity-map.png) -->
+![activity map](/images/2021/10/20211002-activity-map_featured.png)

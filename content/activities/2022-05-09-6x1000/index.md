@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-09 13:20:25
-images: ["20220509-activity-map.png"]
+
 activitydata:
   pace: 4:41min/km
   elevation: 24mt
@@ -24,7 +24,7 @@ Ripetute con recupero attivo. Gran fatica come sempre ma mi pare di aver tenuto 
 
 Speriamo di non pagarle troppo.
 
-{{<  figure src="20220509-activity-map.png" title="map" >}}
+{{<  figure src="20220509-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7112977824 embedId=d05761e55769ef41755d09ec090e52e8014ef46d >}}
 

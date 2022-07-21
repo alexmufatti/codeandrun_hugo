@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-03 13:04:10
-images: ["20220503-activity-map.png"]
+
 activitydata:
   pace: 4:57min/km
   elevation: 23mt
@@ -24,7 +24,7 @@ Pioggerella un po' fastidiosa ma tempo ideale per andare verso il centro senza d
 
 Fondo lento, come al solito non troppo lento!
 
-{{<  figure src="20220503-activity-map.png" title="map" >}}
+{{<  figure src="20220503-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7080687565 embedId=773763934fb8d37d0702135b98ff9e6ab0df1a20 >}}
 

@@ -19,4 +19,4 @@ Terzo sentiero diverso per andare da Manno al percorso vita di Bosco Luganese. Q
 
 Chissà se ci saranno altri percorsi su questo versante della montagna.
 
-<!-- ![image](/images/2021/08/20200505-activity-map_hu8434900c228709b42256e8729193e183_73541_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200505-activity-map.png)

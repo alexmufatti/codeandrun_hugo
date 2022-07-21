@@ -11,14 +11,14 @@ Prima corsa dopo l’isolamento per il COVID-19! Sensazioni non bellissime ma ci
 
 Garmin impietoso…
 
-![image](/images/2021/08/IMG_3851_hua5a4d065bb32ce0b866076e88ad54f74_171839_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_3851.jpg)
 
 #### recupero
 
-![image](/images/2021/08/IMG_3852_hud635360aba86e9f790a19e2815dd26de_179472_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_3852.jpg)
 
 #### training
 
-<!-- ![image](/images/2021/08/20210507-activity-map_hu044714788142cc8a2bb59230a4a8cdd3_93916_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20210507-activity-map.png)
 
 #### map

@@ -7,7 +7,7 @@ topics:
 - running
 - ripetute
 date: 2022-03-22 13:31:00
-images: ["20220322-activity-map.png"]
+
 activitydata:
   pace: 4:47min/km
   elevation: 47mt
@@ -27,6 +27,6 @@ Sapevo che avrei pagato il lento "non lento" ed in effetti è successo. Probabil
 
 In generale non è andata malissimo, a parte un paio di brevi pause durante i riposi, ho tenuto il passo.
 
-{{<  figure src="20220322-activity-map.png" title="map" >}}
+{{<  figure src="20220322-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6864131913).

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-28 13:16:34
-images: ["20220428-activity-map.png"]
+
 activitydata:
   pace: 5:33min/km
   elevation: 16mt
@@ -23,7 +23,7 @@ Fatte un po' troppo forte, probabilmente pagate nel progressivo del giorno succe
 
 {{< figure src="grafico.png" title="grafico" >}}
 
-{{<  figure src="20220428-activity-map.png" title="map" >}}
+{{<  figure src="20220428-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7054127715 embedId=ed58ba55566c82db0d2f806d0ab4b8d606cf5359 >}}
 

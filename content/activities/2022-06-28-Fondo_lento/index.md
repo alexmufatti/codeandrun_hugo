@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-28T13:24:36
-images: ["20220628-activity-map.png"]
+
 activitydata:
   pace: 5:13min/km
   elevation: 30mt
@@ -26,7 +26,7 @@ Fondo lento con l'obbiettivo di stare in Z2. Obbiettivo fallito nella seconda pa
 Con questo caldo e lo stop di settimana scorsa forse non potevo fare meglio.
 
 
-{{<  figure src="20220628-activity-map.png" title="map" >}}
+{{<  figure src="20220628-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7381471871 embedId=ba09aa256c84675bf97198b4fe3811410627fd40 >}}

@@ -7,7 +7,7 @@ topics:
 - running
 - ripetute
 date: 2022-03-20 10:20:31
-images: ["20220320-activity-map.png"]
+
 activitydata:
   pace: 4:44min/km
   elevation: 60mt
@@ -24,6 +24,6 @@ Allenamento recuperato da venerdì. Fortunatamente il vento è un po' calato e h
 
 Sono soddisfatto del risultato, ho tenuto i passi che erano previsti con un pochino di margine. Certo, la velocità non è quella di un anno fa ma per il momento va bene così!
 
-{{<  figure src="20220320-activity-map.png" title="map" >}}
+{{<  figure src="20220320-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6852579176).

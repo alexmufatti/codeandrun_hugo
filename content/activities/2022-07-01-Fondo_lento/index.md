@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-07-01 13:06:12
-images: ["20220701-activity-map.png"]
+
 activitydata:
   pace: 4:55min/km
   elevation: 48mt
@@ -28,7 +28,7 @@ In generale è andata molto bene fino a quando ho curvato a 90 gradi. Da lì il 
 Portato a casa.
 
 
-{{<  figure src="20220701-activity-map.png" title="map" >}}
+{{<  figure src="20220701-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7397488873 embedId=3860719fe2134648b53ffb0900bca286a3f90a8d >}}

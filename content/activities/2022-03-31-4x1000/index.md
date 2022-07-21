@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-03-31 18:52:32
-images: ["20220331-activity-map.png"]
+
 activitydata:
   pace: 4:51min/km
   elevation: 35mt
@@ -25,7 +25,7 @@ Ora solo un corto lento e poi... via!
 
 <!--more-->
 
-{{<  figure src="20220331-activity-map.png" title="map" >}}
+{{<  figure src="20220331-activity-map_featured.png" title="map" >}}
 
 {{< strava id=6912305874 embedId=8d6035bc43d23fdff574834d8982c452458e518f >}}
 

@@ -5,7 +5,7 @@ id: '2122'
 date: 2020-08-10 12:00:00
 ---
 
-![image](/images/2021/08/mic_hubbddcd721c387dc24ac2b34bd10320d4_50448_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/mic.jpg)
 
 Utilizzando Linux come sistema operativo di base a volte capita di dover avviare delle macchine virtuali Windows per eseguire quei programmi che su linux non esistono o hanno funzionalità limitate. Esempi tipici sono _Skype for Business_ che non esiste in linux o _Teams_ che non ha tutte le funzionalità della versione nativa.
 
@@ -15,7 +15,7 @@ Dopo un po' di prove e molte ricerche ho trovato un modo, assolutamente contro-i
 
 Per prima cosa installate i VmWareTools se non lo avete ancora fatto e assicuratevi che nella macchina virtuale sia configurata una scheda audio in modalità `auto detect`.
 
-![image](/images/2021/08/setup_huc6c43e475ac7664216668e100a79a9fe_14147_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/setup.jpg)
 
 A questo punto spegnete la macchina virtuale ed editate il corrispettivo file `.vmx`.
 
@@ -25,12 +25,12 @@ Al riavvio della macchina virtuale noterete che non viene rilevato nessun hardwa
 
 Ora aprite il `Device Manager`; troverete una periferica multimediale non riconosciuta. Scegliete di aggiornare il driver e, invece di farlo cercare automaticamente dal sistema operativo, scegliete di indicare voi dove trovarlo.
 
-![image](/images/2021/08/browse_huafe1f78090b7e6a550eb516993d38114_41283_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/browse.jpg)
 
 Come percorso scegliete quello dove avete scompattato i vmware Tools e poi navigate nelle sotto cartelle `vmware/drivers/audio/vista`.
 
-![image](/images/2021/08/folders_hu09fb0d367359419a9f0e548146f603d2_19797_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/folders.jpg)
 
 Verrà quindi installato il driver corretto e da quel momento non dovreste avere più problemi di disturbi nell’uso del microfono all’interno di Windows 10 in vmware!
 
-![image](/images/2021/08/done_hufefc188c5d244b13f147ccfa35a60a15_22581_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/done.jpg)

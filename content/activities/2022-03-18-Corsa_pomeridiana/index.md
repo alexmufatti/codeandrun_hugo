@@ -6,7 +6,7 @@ topics:
 - sport
 - running
 date: 2022-03-18 13:02:11
-images: ["20220318-activity-map.png"]
+
 activitydata:
   pace: 4:45min/km
   elevation: 21mt
@@ -28,6 +28,6 @@ Ho provato a fare la prima ripetuta ma appena ho girato controvento è stato chi
 
 Ci riproveremo.
 
-{{<  figure src="20220318-activity-map.png" title="map" >}}
+{{<  figure src="20220318-activity-map_featured.png" title="map" >}}
 
 [Link all'attività](https://strava.com/activities/6842650893).

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-04-03 08:34:59
-images: ["20220403-activity-map.png"]
+
 activitydata:
   pace: 4:27min/km
   elevation: 39mt
@@ -43,7 +43,7 @@ Alla fine chiudo in 1:35 minuti, un ottimo risultato visto il periodo di forma n
 
 {{< figure src="IMG_5684.jpg" title="pettorale" >}}
 
-{{<  figure src="20220403-activity-map.png" title="map" >}}
+{{<  figure src="20220403-activity-map_featured.png" title="map" >}}
 
 {{< strava id=6925303353 embedId=909c7f5d70c70d3f6848506ecc86fdfd8974f4bf >}}
 

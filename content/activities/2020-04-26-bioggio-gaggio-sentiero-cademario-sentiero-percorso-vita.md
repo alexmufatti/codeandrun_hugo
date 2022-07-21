@@ -13,7 +13,7 @@ Salita da Bioggio a Gaggio tagliando per i 2 sentieri, mai fatti prima ma che fo
 
 Giro divertente ma faticoso, con un po' più di condizione forse più godibile ma comunque ne vale la pena.
 
-<!-- ![image](/images/2021/08/20200426-activity-map_hua11a6a1d6164f479aec7318933c558e3_70110_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20200426-activity-map.png)
 
 Pace: 5:32min/km
 
@@ -23,12 +23,12 @@ Distance: 10.46km
 
 Duration: 57:57
 
-![image](/images/2021/08/IMG_1942_hu7916cc02a1e70c34e88bf0a5af7c9f63_510673_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1942.jpg)
 
-![image](/images/2021/08/IMG_1943_huce680e2045f558971c4c163b9b1d0150_508750_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1943.jpg)
 
-![image](/images/2021/08/IMG_1944_hu8a417729a68129aec85511aeba8d7e3c_191418_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1944.jpg)
 
-![image](/images/2021/08/IMG_1945_hu64311f5018a1d8d87c96921d355b2b23_512714_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1945.jpg)
 
-![image](/images/2021/08/IMG_1946_hu4f1ec40dbe9be1415b437ab076907d62_452062_700x0_resize_q75_box.jpg)
+![image](/images/2021/08/IMG_1946.jpg)

@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-06-14 09:02:14
-images: ["20220614-activity-map.png"]
+
 activitydata:
   pace: 4:57min/km
   elevation: 3mt
@@ -25,7 +25,7 @@ Purtroppo la strada è piena di semafori e non è facile tenere un ritmo. In gen
 
 
 
-{{<  figure src="20220614-activity-map.png" title="map" >}}
+{{<  figure src="20220614-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7305813511 embedId=b11d9a2407935949f675e20ad29d52510b248a41 >}}

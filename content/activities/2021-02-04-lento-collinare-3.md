@@ -7,6 +7,6 @@ date: 2021-02-04 13:24:09
 
 Per lo più soleggiato, 10°C, Percepito 10°C, Umidità 71%, Vento 1m/s da SSO
 
-<!-- ![image](/images/2021/08/20210204-activity-map_huf4f4abc1ba339b284df43451e790d8e4_84102_700x0_resize_box_3.png) -->
+![image](/images/2021/08/20210204-activity-map.png)
 
 #### map

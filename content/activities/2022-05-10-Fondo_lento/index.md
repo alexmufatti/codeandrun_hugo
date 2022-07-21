@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-10 13:23:19
-images: ["20220510-activity-map.png"]
+
 activitydata:
   pace: 5:20min/km
   elevation: 30mt
@@ -23,7 +23,7 @@ Fondo lento concentrandomi a restare in Z2 bassa. Mi pare di esserci riuscito be
 
 Inizia a fare molto caldo, sono molto preoccupato per quello che potrebbe succedere tra un paio di settimane.
 
-{{<  figure src="20220510-activity-map.png" title="map" >}}
+{{<  figure src="20220510-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7118820396 embedId=79f8b391808718a5567af6b5f9a8a68d81d2ad1b >}}
 

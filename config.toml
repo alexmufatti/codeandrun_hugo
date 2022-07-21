@@ -2,4 +2,4 @@ baseURL = 'https://blog.codeandrun.it/'
 languageCode = 'it-it'
 theme        = "congo"
 paginate     = 10
-timeout      = 180000
+timeout      = 300000

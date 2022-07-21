@@ -6,7 +6,6 @@ topics:
 categories:
   - Sport
 date: 2022-07-20 13:21:29
-images: ["20220720-activity-map.png"]
 activitydata:
   pace: 4:56min/km
   elevation: 26mt
@@ -24,7 +23,7 @@ Fondo lento in Z2. Periodo di costruzione aerobica nel quale non forzare troppo.
 Percorso nuovo, per cercare ombra. Non male ma con un sacco di pause ai semafori.
 
 
-{{< figure src="20220720-activity-map.png" title="map" >}}
+{{< figure src="20220720-activity-map_featured.png" title="map" >}}
 
 
 {{< strava id=7499071060 embedId=78383e7128a7d3054cd3a77f670fcb7849351547 >}}

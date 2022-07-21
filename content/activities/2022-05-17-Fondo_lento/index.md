@@ -6,7 +6,7 @@ topics:
 categories: 
   - Sport
 date: 2022-05-17 13:07:38
-images: ["20220517-activity-map.png"]
+
 activitydata:
   pace: 5:11min/km
   elevation: 38mt
@@ -28,7 +28,7 @@ Lento rigenerante tranquillo stando attento a non superare i 140 battiti. Non è
 
 Purtroppo il percorso che faccio è sempre lo stesso perchè, con l'arrivo dei turisti, il lato sud della costa è troppo affollato.
 
-{{<  figure src="20220517-activity-map.png" title="map" >}}
+{{<  figure src="20220517-activity-map_featured.png" title="map" >}}
 
 {{< strava id=7156942320 embedId=d6b26f614cd74b9c50c54a13f15749381b69d918 >}}
 
