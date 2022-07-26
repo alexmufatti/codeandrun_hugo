@@ -15,7 +15,7 @@ activitydata:
 places: []
 ---
 
-Cielo sereno, 27°C, Percepito 27°C, Umidità 45%, Vento 4m/s da NO - Klimat.app
+Cielo sereno, 27°C, Percepito 27°C, Umidità 45%, Vento 4m/s da NO
 
 <!--more-->
 

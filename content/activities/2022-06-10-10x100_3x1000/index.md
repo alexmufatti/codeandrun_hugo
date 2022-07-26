@@ -15,7 +15,7 @@ activitydata:
 places: []
 ---
 
-Nubi sparse, 25°C, Percepito 26°C, Umidità 75%, Vento 5m/s da S - Klimat.app
+Nubi sparse, 25°C, Percepito 26°C, Umidità 75%, Vento 5m/s da S
 
 <!--more-->
 

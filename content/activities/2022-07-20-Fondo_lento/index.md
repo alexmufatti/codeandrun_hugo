@@ -14,7 +14,7 @@ activitydata:
 places: []
 ---
 
-Poche nuvole, 30°C, Percepito 36°C, Umidità 72%, Vento 6m/s da E - Klimat.app
+Poche nuvole, 30°C, Percepito 36°C, Umidità 72%, Vento 6m/s da E
 
 <!--more-->
 

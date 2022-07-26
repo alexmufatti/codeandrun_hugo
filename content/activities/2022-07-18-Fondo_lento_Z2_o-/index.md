@@ -15,7 +15,7 @@ activitydata:
 places: []
 ---
 
-Cielo sereno, 30°C, Percepito 34°C, Umidità 68%, Vento 6m/s da ESE - Klimat.app
+Cielo sereno, 30°C, Percepito 34°C, Umidità 68%, Vento 6m/s da ESE
 
 {{< figure src="IMG_6143.jpg" title="W" >}}
 

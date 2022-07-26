@@ -14,7 +14,6 @@ activitydata:
   duration: 1:19:31
 places: []
 
-draft: true
 ---
 
 Poche nuvole, 22°C, Percepito 22°C, Umidità 78%, Vento 3m/s da OSO

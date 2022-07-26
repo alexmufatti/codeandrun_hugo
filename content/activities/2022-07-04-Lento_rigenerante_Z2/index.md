@@ -16,7 +16,7 @@ places: []
 
 ---
 
-Cielo sereno, 29°C, Percepito 29°C, Umidità 47%, Vento 7m/s da SE - Klimat.app
+Cielo sereno, 29°C, Percepito 29°C, Umidità 47%, Vento 7m/s da SE
 
 <!--more-->
 

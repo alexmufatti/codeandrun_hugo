@@ -16,7 +16,7 @@ places: []
 
 ---
 
-Cielo sereno, 32°C, Percepito 34°C, Umidità 49%, Vento 6m/s da SE - Klimat.app
+Cielo sereno, 32°C, Percepito 34°C, Umidità 49%, Vento 6m/s da SE
 
 {{< figure src="IMG_6135.jpg" title="Montgat" >}}
 

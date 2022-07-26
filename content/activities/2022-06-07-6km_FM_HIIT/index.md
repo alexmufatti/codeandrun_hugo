@@ -16,7 +16,7 @@ places: []
 
 ---
 
-Poche nuvole, 26°C, Percepito 26°C, Umidità 66%, Vento 6m/s da S - Klimat.app
+Poche nuvole, 26°C, Percepito 26°C, Umidità 66%, Vento 6m/s da S
 
 {{< figure src="IMG_5958.jpg" title="map" >}}
 

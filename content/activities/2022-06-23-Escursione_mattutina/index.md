@@ -17,7 +17,7 @@ places: []
 draft: true
 ---
 
-Cielo sereno, 24°C, Percepito 23°C, Umidità 17%, Vento 8m/s da SSO - Klimat.app
+Cielo sereno, 24°C, Percepito 23°C, Umidità 17%, Vento 8m/s da SSO
 
 <!--more-->
 

@@ -16,7 +16,7 @@ places: []
 
 ---
 
-Cielo sereno, 29°C, Percepito 30°C, Umidità 52%, Vento 7m/s da SE - Klimat.app
+Cielo sereno, 29°C, Percepito 30°C, Umidità 52%, Vento 7m/s da SE
 
 {{< figure src="IMG_6122.jpg" title="Badalona" >}}
 <!--more-->

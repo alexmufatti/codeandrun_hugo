@@ -15,7 +15,7 @@ activitydata:
 places: []
 ---
 
-Cielo sereno, 26°C, Percepito 26°C, Umidità 57%, Vento 3m/s da NNO - Klimat.app
+Cielo sereno, 26°C, Percepito 26°C, Umidità 57%, Vento 3m/s da NNO
 
 {{< figure src="IMG_6006.jpg" title="WTC" >}}
 

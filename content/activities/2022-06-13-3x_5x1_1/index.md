@@ -14,10 +14,9 @@ activitydata:
   duration: 52:29
 places: []
 
-draft: true
 ---
 
-Poche nuvole, 29°C, Percepito 30°C, Umidità 52%, Vento 5m/s da SE - Klimat.app
+Poche nuvole, 29°C, Percepito 30°C, Umidità 52%, Vento 5m/s da SE
 
 <!--more-->
 

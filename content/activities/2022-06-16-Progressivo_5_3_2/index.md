@@ -14,10 +14,9 @@ activitydata:
   duration: 49:29
 places: []
 
-draft: true
 ---
 
-Cielo sereno, 33°C, Percepito 33°C, Umidità 38%, Vento 3m/s da SSO - Klimat.app
+Cielo sereno, 33°C, Percepito 33°C, Umidità 38%, Vento 3m/s da SSO
 
 <!--more-->
 

@@ -19,7 +19,7 @@ places: []
 draft: true
 ---
 
-Cielo sereno, 30°C, Percepito 32°C, Umidità 54%, Vento 7m/s da SO - Klimat.app
+Cielo sereno, 30°C, Percepito 32°C, Umidità 54%, Vento 7m/s da SO
 
 
 
