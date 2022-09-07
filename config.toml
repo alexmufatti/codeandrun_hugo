@@ -1,4 +1,5 @@
 baseURL = 'https://blog.codeandrun.it/'
+canonifyURLs = true
 languageCode = 'it-it'
 theme        = "congo"
 paginate     = 10
