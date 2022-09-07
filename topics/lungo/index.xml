@@ -2,12 +2,7 @@
 &lt;figure >
 &lt;img
 class="my-0 rounded-md"
-srcset="
-/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_330x0_resize_box_3.png 330w,
-/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_660x0_resize_box_3.png 660w,
-/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_1024x0_resize_box_3.png 1024w,
-/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_1320x0_resize_box_3.png 2x"
-src="https://blog.codeandrun.it/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_660x0_resize_box_3.png"
+src="https://blog.codeandrun.it/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_1280x0_resize_box_3.png"
 alt=""
 />
 &lt;/figure>
