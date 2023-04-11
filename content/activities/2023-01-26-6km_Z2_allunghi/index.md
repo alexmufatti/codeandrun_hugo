@@ -7,7 +7,7 @@ categories:
   - Sport
 date: 2023-01-26 12:56:11
 images: ["20230126-activity-map.png"]
-thumb: ["20230126-activity-map.png"]
+thumbnail: "20230126-activity-map.png"
 activitydata:
   pace: 5:37min/km
   elevation: 33mt

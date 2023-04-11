@@ -7,7 +7,7 @@ categories:
   - Sport
 date: 2023-02-28 17:10:34
 images: ["20230228-activity-map.png"]
-thumb: ["20230228-activity-map.png"]
+thumbnail: "20230228-activity-map.png"
 activitydata:
   speed: 14.06km/h
   max speed: 24.69km/h
