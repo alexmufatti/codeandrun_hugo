@@ -14,7 +14,6 @@ activitydata:
   duration: 43:35
 places: []
 
-draft: true
 ---
 
 Cielo sereno, 26°C, Percepito 26°C, Umidità 74%, Vento 2m/s da NO - Klimat.app

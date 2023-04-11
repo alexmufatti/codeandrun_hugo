@@ -14,7 +14,6 @@ activitydata:
   duration: 1:01:53
 places: []
 
-draft: true
 ---
 
 Foschia, 25°C, Percepito 26°C, Umidità 71%, Vento 2m/s da SE - Klimat.app

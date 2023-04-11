@@ -14,7 +14,6 @@ activitydata:
   duration: 47:17
 places: []
 
-draft: true
 ---
 
 Nubi sparse, 28°C, Percepito 31°C, Umidità 71%, Vento 3m/s da E - Klimat.app

@@ -14,7 +14,6 @@ activitydata:
   duration: 1:01:19
 places: []
 
-draft: true
 ---
 
 Nubi sparse, 25°C, Percepito 25°C, Umidità 50%, Vento 0m/s da ESE - Klimat.app

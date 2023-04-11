@@ -14,7 +14,6 @@ activitydata:
   duration: 49:15
 places: []
 
-draft: true
 ---
 
 Poche nuvole, 26°C, Percepito 26°C, Umidità 90%, Vento 2m/s da N - Klimat.app

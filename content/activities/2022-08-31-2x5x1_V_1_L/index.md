@@ -14,7 +14,6 @@ activitydata:
   duration: 42:38
 places: []
 
-draft: true
 ---
 
 Cielo coperto, 28°C, Percepito 32°C, Umidità 74%, Vento 2m/s da O - Klimat.app

@@ -14,7 +14,6 @@ activitydata:
   duration: 1:12:59
 places: []
 
-draft: true
 ---
 
 Poche nuvole, 31°C, Percepito 33°C, Umidità 53%, Vento 4m/s da SSO - Klimat.app

@@ -14,7 +14,6 @@ activitydata:
   duration: 1:00:27
 places: []
 
-draft: true
 ---
 
 Poche nuvole, 29°C, Percepito 33°C, Umidità 68%, Vento 4m/s da SSE - Klimat.app

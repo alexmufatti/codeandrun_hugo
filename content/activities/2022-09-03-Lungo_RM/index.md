@@ -14,7 +14,6 @@ activitydata:
   duration: 1:23:30
 places: []
 
-draft: true
 ---
 
 Nubi sparse, 24°C, Percepito 25°C, Umidità 86%, Vento 2m/s da N - Klimat.app
