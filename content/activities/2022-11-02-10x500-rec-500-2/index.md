@@ -7,7 +7,7 @@ tags:
   - "sport"
 ---
 
-![](images/IMG_0600-1024x768.jpg)
+![](images/IMG_0600.jpg)
 
 Ripetute brevi. Credevo di faticare parecchio invece sono andate abbastanza bene. Unico lavoro di qualità della settimana portato a casa, d'ora in avanti tutto in discesa fino alla mezza di domenica! 🤩
 

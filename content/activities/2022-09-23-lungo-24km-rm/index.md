@@ -9,17 +9,17 @@ tags:
 
 Cielo sereno, 19°C, Percepito 19°C, Umidità 80%, Vento 4m/s da NNO
 
-![](images/IMG_0353-1024x333.jpeg)
+![](images/IMG_0353.jpeg)
 
 Primo lungo serio della preparazione. Grande ansia prima perché è tanto che non mi spingo oltre la mezza, oltretutto dopo una settimana di _carico_.
 
 Le sensazioni sono state buone. Qualche dolorino e un po' di fatica verso la fine. Alcune pause: due per mangiare qualcosa, due per bere e una per fare una foto. Tutte molto brevi.
 
-[![](images/IMG_0347-1024x768.jpeg)](https://codeandrun.it/?attachment_id=14976)
+[![](images/IMG_0347.jpeg)](https://codeandrun.it/?attachment_id=14976)
 
-[![](images/IMG_0352-1024x768.jpeg)](https://codeandrun.it/?attachment_id=14977)
+[![](images/IMG_0352.jpeg)](https://codeandrun.it/?attachment_id=14977)
 
-[![](images/IMG_0354-768x1024.jpeg)](https://codeandrun.it/?attachment_id=14975)
+[![](images/IMG_0354.jpeg)](https://codeandrun.it/?attachment_id=14975)
 
 Uno dei timori più grandi era l'alimentazione partendo da casa sostanzialmente a digiuno. Da questo punto di vista non ho avuto troppi problemi: ho bevuto il mio solito _beverone_ di carboidrati prima di partire, una barretta dopo 5km (avevo i crampi per la fame) e un gel dopo 1h15m. Da tenere in considerazione per le prossime uscite.
 

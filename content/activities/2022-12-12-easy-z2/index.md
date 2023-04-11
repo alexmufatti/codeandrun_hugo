@@ -8,7 +8,7 @@ categories:
   - Sport
 ---
 
-![](images/IMG_0842-1024x768.jpg)
+![](images/IMG_0842.jpg)
 
 ![](images/20221212-activity-map.png)
 

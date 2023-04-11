@@ -8,15 +8,15 @@ categories:
   - Sport
 ---
 
-![](images/IMG_0691-1024x768.jpg)
+![](images/IMG_0691.jpg)
 
 Gran bell'alba ma corsa poco brillante.
 
 Una delle poche volte in cui non sono soddisfatto delle variazioni di ritmo, probabilmente non ho ancora recuperato bene il lunghissimo di lunedì.
 
-![](images/IMG_0690-1024x768.jpg)
+![](images/IMG_0690.jpg)
 
-![](images/IMG_0695-1024x768.jpg)
+![](images/IMG_0695.jpg)
 
 ![](images/20221117-activity-map.png)
 

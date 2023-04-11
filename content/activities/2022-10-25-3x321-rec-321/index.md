@@ -7,11 +7,11 @@ tags:
   - "variazioni"
 ---
 
-![](images/IMG_0552-1024x768.jpg)
+![](images/IMG_0552.jpg)
 
 Oggi ottima uscita con cambi di ritmo. Era un po' di tempo che non facevo un lavoro "veloce" sentendomi alla fine soddisfatto.
 
-![](images/IMG_0554-1024x476.jpg)
+![](images/IMG_0554.jpg)
 
 Molto bene; questa settimana però ha ancora un bel punto interrogativo, il lunghissimo di venerdì!
 

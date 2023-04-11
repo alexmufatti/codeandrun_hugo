@@ -7,7 +7,7 @@ tags:
   - "sport"
 ---
 
-![](images/IMG_0586-1024x768.jpg)
+![](images/IMG_0586.jpg)
 
 Settimana di "scarico" e fondo lento in Z2. Tutto tranquillo, buone sensazioni nonostante il poco sonno!
 

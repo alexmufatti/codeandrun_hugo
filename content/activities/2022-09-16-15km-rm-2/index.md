@@ -9,13 +9,13 @@ tags:
 
 Poche nuvole, 22°C, Percepito 23°C, Umidità 82%, Vento 5m/s da NO
 
-![](images/IMG_0299-Large-1024x768.jpeg)
+![](images/IMG_0299-Large.jpeg)
 
 Lungo settimanale a ritmo maratona andato abbastanza bene. Un po' affaticato verso la fine come mi succede spesso quando corro al mattino a digiuno.
 
 Bellissimi i pesaggi all'alba, tra poco probabilmente non li vedrò più con l'accorciarsi delle giornate.
 
-![](images/IMG_0302-Large-1024x768.jpeg)
+![](images/IMG_0302-Large.jpeg)
 
 ![](images/20220916-activity-map.png)
 

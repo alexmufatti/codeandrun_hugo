@@ -8,15 +8,15 @@ categories:
   - Sport
 ---
 
-![](images/IMG_0686-1024x768.jpg)
+![](images/IMG_0686.jpg)
 
 Fondo lento con FC bassa. Una delle volte in cui sono riuscito a tenerla più sotto controllo, bene!
 
-![](images/IMG_0684-1024x768.jpg)
+![](images/IMG_0684.jpg)
 
-![](images/IMG_0688-1024x768.jpg)
+![](images/IMG_0688.jpg)
 
-![](images/IMG_0689-768x1024.jpg)
+![](images/IMG_0689-rotated.jpg)
 
 ![](images/20221116-activity-map.png)
 

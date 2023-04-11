@@ -7,17 +7,17 @@ tags:
   - "sport"
 ---
 
-![](images/IMG_0545-1024x768.jpg)
+![](images/IMG_0545.jpg)
 
 Fondo lento tranquillo. Un po' di pesantezza ai quadricipiti dati dal potenziamento di settimana scorsa.
 
 Finalmente la frequenza cardiaca sembra restare sotto controllo per tutto l'allenamento.
 
-![](images/IMG_0543-1024x768.jpg)
+![](images/IMG_0543.jpg)
 
-![](images/IMG_0541-1024x768.jpg)
+![](images/IMG_0541.jpg)
 
-![](images/IMG_0536-1-1024x768.jpg)
+![](images/IMG_0536-1.jpg)
 
 ![](images/20221024-activity-map.png)
 

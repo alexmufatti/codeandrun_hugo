@@ -9,7 +9,7 @@ tags:
 
 Cielo sereno, 19°C, Percepito 18°C, Umidità 68%, Vento 6m/s da NNO
 
-![](images/IMG_0453-1024x312.jpg)
+![](images/IMG_0453.jpg)
 
 Super easy run del lunedì spostata alla domenica. Tutto tranquillo, bel panorama come sempre.
 

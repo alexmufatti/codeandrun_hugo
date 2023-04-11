@@ -9,7 +9,7 @@ tags:
 
 Poche nuvole, 15°C, Percepito 15°C, Umidità 75%, Vento 5m/s da NNO
 
-![](images/IMG_0449-1024x768.jpg)
+![](images/IMG_0449.jpg)
 
 Ero molto preoccupato per questo lungo a ritmo un po' allegro ed invece è una delle migliori uscite del periodo. La forma forse sta tornando veramente.
 

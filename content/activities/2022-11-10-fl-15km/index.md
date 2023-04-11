@@ -8,7 +8,7 @@ categories:
   - Sport
 ---
 
-![](images/IMG_0619-1024x402.jpg)
+![](images/IMG_0619.jpg)
 
 Uscita lenta in vista del lunghissimo tra 2 giorni, senza guardare il ritmo ma solo la frequenza cardiaca.
 

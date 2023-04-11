@@ -9,7 +9,7 @@ tags:
 
 Poche nuvole, 25°C, Percepito 26°C, Umidità 87%, Vento 3m/s da NNO
 
-![](images/IMG_0274-Large-1024x768.jpeg)
+![](images/IMG_0274-Large.jpeg)
 
 Attimo variato 1'+1'. Ultima serie con un po' di fatica ma in generale molto bene!
 

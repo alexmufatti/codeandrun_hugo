@@ -6,9 +6,10 @@ topics:
 - running
 categories:
   - Sport
+thumbnail: images/IMG_1203.jpg
 ---
 
-![](images/IMG_1203-1-1024x768.jpg)
+![](images/IMG_1203.jpg)
 
 ![](images/20230118-activity-map.png)
 

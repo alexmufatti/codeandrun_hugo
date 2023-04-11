@@ -7,9 +7,9 @@ tags:
   - "sport"
 ---
 
-![](images/IMG_0525-1024x768.jpg)
+![](images/IMG_0525.jpg)
 
-![](images/IMG_0523-1024x768.jpg)
+![](images/IMG_0523.jpg)
 
 ![](images/20221018-activity-map.png)
 

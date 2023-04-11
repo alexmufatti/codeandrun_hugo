@@ -7,11 +7,11 @@ tags:
   - "sport"
 ---
 
-![](images/IMG_0604-1024x768.jpg)
+![](images/IMG_0604.jpg)
 
 Il cardio al polso ha fatto qualche scherzo in questa uscita salendo all'improvviso fino in Z5 senza nessun motivo. Una buona uscita con gambe non proprio fresche dopo il potenziamento di ieri.
 
-![](images/IMG_0602-1024x768.jpg)
+![](images/IMG_0602.jpg)
 
 ![](images/20221104-activity-map.png)
 

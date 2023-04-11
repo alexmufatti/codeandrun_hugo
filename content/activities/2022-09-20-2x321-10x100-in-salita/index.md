@@ -9,7 +9,7 @@ tags:
 
 Nubi sparse, 21°C, Percepito 21°C, Umidità 72%, Vento 4m/s da ENE
 
-![](images/IMG_0328-1024x446.jpeg)
+![](images/IMG_0328.jpeg)
 
 Variato più ripetute in salita. Un po' di fatica questa mattina forse a causa della notte non particolarmente riposante.
 
@@ -17,9 +17,9 @@ Il vero test sarà domattina con i 14km di FL, vediamo che succederà.
 
 Sicuramente lo spettacolo dell'alba vale sempre il prezzo della fatica!
 
-![](images/IMG_0326-1024x768.jpeg)
+![](images/IMG_0326.jpeg)
 
-![](images/IMG_0330-1024x768.jpeg)
+![](images/IMG_0330.jpeg)
 
 ![](images/20220920-activity-map.png)
 

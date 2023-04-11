@@ -9,7 +9,7 @@ tags:
 
 Poche nuvole, 21°C, Percepito 21°C, Umidità 85%, Vento 4m/s da NNO
 
-![](images/IMG_0342-1024x768.jpeg)
+![](images/IMG_0342.jpeg)
 
 Lunghetto di metà settimana dopo due giorni di lavori. Più faticoso di quello che il passo avrebbe richiesto ma ci più stare.
 
@@ -17,9 +17,9 @@ Tra 2 giorni primo lungo _serio_ da 24km, lì probabilmente si capirà se riesco
 
 La grande incognita è l'alimentazione: come fare a non avere problemi durante un lungo partendo mezz'ora dopo essermi alzato??
 
-![](images/IMG_0337-1024x768.jpeg)
+![](images/IMG_0337.jpeg)
 
-![](images/IMG_0340-1024x768.jpeg)
+![](images/IMG_0340.jpeg)
 
 ![](images/20220921-activity-map.png)
 

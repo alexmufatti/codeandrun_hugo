@@ -9,7 +9,7 @@ tags:
 
 Pioggia leggera, 23°C, Percepito 23°C, Umidità 79%, Vento 5m/s da NNO
 
-![](images/IMG_0295-Large-1024x768.jpeg)
+![](images/IMG_0295-Large.jpeg)
 
 Non avevo ancora ben recuperato il variato del giorno precedente quindi è stato parecchio faticoso fare queste ripetute in salita. Sicuramente non ho spinto al massimo proprio perchè non mi sentivo particolarmente fresco.
 

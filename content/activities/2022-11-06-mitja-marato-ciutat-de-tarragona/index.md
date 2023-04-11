@@ -7,7 +7,7 @@ tags:
   - "sport"
 ---
 
-![](images/6D1E3CB7-7C2E-4F6D-B8BF-3C7BF34DA785-1024x576.jpg)
+![](images/6D1E3CB7-7C2E-4F6D-B8BF-3C7BF34DA785.jpg)
 
 Mezza maratona di Tarragona, prima gara da un sacco di tempo. Situazione un po' strana perchè la devo correre piano per non compromettere gli allenamenti della prossima settimana che sono più importanti in vista della Maratona di Valencia. Purtroppo l'infortunio al ginocchio mi ha fermato per una settimana e ha complicato i piani.
 
@@ -15,7 +15,7 @@ Come temevo sono partito troppo forte ma comunque in controllo. Fila tutto lisci
 
 Alla fine la chiudo con un buon tempo anche se molto lontano dai miei migliori.
 
-![](images/IMG_0609-1024x768.jpg)
+![](images/IMG_0609-rotated.jpg)
 
 ![](images/20221106-activity-map.png)
 

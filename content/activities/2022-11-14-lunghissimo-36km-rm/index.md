@@ -8,7 +8,7 @@ categories:
   - Sport
 ---
 
-![](images/IMG_0669-1024x768.jpg)
+![](images/IMG_0669.jpg)
 
 Ultimo lunghissimo. In poche parole una grande fatica come da programma ma almeno sono arrivato alla fine. Ho avuto una bella crisi di fame verso il 27km, probabilmente dovrei mangiare di più a colazione e portarmi una barretta oltre ai gel.
 

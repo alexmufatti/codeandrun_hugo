@@ -9,7 +9,7 @@ tags:
 
 Poche nuvole, 29°C, Percepito 33°C, Umidità 75%, Vento 4m/s da SSO
 
-![](images/IMG_0228-Large-1-768x1024.jpeg)
+![](images/IMG_0228-Large.jpeg)
 
 Grande umidità... l'ideale per delle delle ripetute in salita?
 

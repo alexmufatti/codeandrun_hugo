@@ -8,9 +8,9 @@ categories:
   - Sport
 ---
 
-![](images/IMG_0726-1024x768.jpg)
+![](images/IMG_0726.jpg)
 
-![](images/IMG_0725-1024x768.jpg)
+![](images/IMG_0725.jpg)
 
 ![](images/20221123-activity-map.png)
 

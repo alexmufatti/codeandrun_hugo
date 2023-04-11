@@ -9,13 +9,13 @@ tags:
 
 Poche nuvole, 16°C, Percepito 15°C, Umidità 79%, Vento 6m/s da N
 
-![](images/IMG_0377-1024x303.jpeg)
+![](images/IMG_0377.jpeg)
 
-![](images/IMG_0373-1024x768.jpeg)
+![](images/IMG_0373.jpeg)
 
-![](images/IMG_0375-1024x768.jpeg)
+![](images/IMG_0375.jpeg)
 
-![](images/IMG_0376-1024x768.jpeg)
+![](images/IMG_0376.jpeg)
 
 Uscita in trasferta a Cadaqués. Bel trail fino al Far de Cala Nans, doveva essere un lento rigenerante ma ho sottovalutato le salite per arrivarci, brevi ma con una bella pendenza. Alla fine è stato abbastanza faticoso ma ne è valsa la pena!
 

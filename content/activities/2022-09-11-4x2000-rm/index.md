@@ -9,7 +9,7 @@ tags:
 
 Cielo sereno, 24°C, Percepito 25°C, Umidità 87%, Vento 3m/s da NNO
 
-![](images/IMG_0264-1024x338.jpeg)
+![](images/IMG_0264.jpeg)
 
 Ripetute lunghe a ritmo maratona. Buone sensazioni anche se alla fine un po' di fame.
 
