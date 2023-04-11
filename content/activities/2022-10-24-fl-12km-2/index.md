@@ -1,0 +1,26 @@
+---
+title: "FL 12km"
+date: 2022-10-24 00:00:00
+tags: 
+  - "fondo-lento"
+  - "running"
+  - "sport"
+---
+
+![](images/IMG_0545-1024x768.jpg)
+
+Fondo lento tranquillo. Un po' di pesantezza ai quadricipiti dati dal potenziamento di settimana scorsa.
+
+Finalmente la frequenza cardiaca sembra restare sotto controllo per tutto l'allenamento.
+
+![](images/IMG_0543-1024x768.jpg)
+
+![](images/IMG_0541-1024x768.jpg)
+
+![](images/IMG_0536-1-1024x768.jpg)
+
+![](images/20221024-activity-map.png)
+
+{{< strava id=8010642250 embedId=01aa686b038e31ae714920b35aee775eb6dbbd02 >}}
+
+[Link all'attività](https://strava.com/activities/8010642250)

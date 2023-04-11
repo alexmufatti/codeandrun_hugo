@@ -1,0 +1,27 @@
+---
+title: "FL"
+date: 2022-11-07 00:00:00
+topics:
+- sport
+- running
+categories:
+  - Sport
+---
+
+![](images/IMG_0613-1024x768.jpg)
+
+Belle foto, pessimo allenamento. Per la prima volta sono dovuto tornare a casa camminando perchè non sono riuscito a finire un allenamento. Purtroppo dopo 4km ho iniziato ad avere un forte mal di pancia che non mi permetteva di correre. Poco male, era un lento di recupero dopo la gara.
+
+Le foto sono sicuramente la cosa migliore di questa uscita!
+
+![](images/IMG_0612-1024x768.jpg)
+
+![](images/IMG_0616-1024x449.jpg)
+
+![](images/IMG_0614-1024x768.jpg)
+
+![](images/20221107-activity-map.png)
+
+{{< strava id=8080857196 embedId=d8959c930b3354237a499111f1bcc0ad7735bbc1 >}}
+
+[Link all'attività](https://strava.com/activities/8080857196)
