@@ -26,6 +26,4 @@ Buone sensazioni nonostante un po' di vento; gli ultimi km in progressione lasci
 
 {{<  figure src="20220326-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6886897937 embedId=deb7f845726ea6da99658640fdd6b4ece8af6e87 >}}
-
-[Link all'attività](https://strava.com/activities/6886897937).
+{{< strava id=6886897937 embedId=deb7f845726ea6da99658640fdd6b4ece8af6e87 >}} all'attività](https://strava.com/activities/6886897937).

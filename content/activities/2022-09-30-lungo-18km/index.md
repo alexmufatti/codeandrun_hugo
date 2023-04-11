@@ -17,6 +17,4 @@ Inizia però a fare freddo, dovrò organizzarmi con qualcosa!
 
 ![](images/20220930-activity-map.png)
 
-{{< strava id=7888295243 embedId=eb75ba90b6e8344a1e6204dad06054297d172934 >}}
-
-[Link all'attività](https://strava.com/activities/7888295243)
+{{< strava id=7888295243 embedId=eb75ba90b6e8344a1e6204dad06054297d172934 >}} all'attività](https://strava.com/activities/7888295243)

@@ -29,6 +29,4 @@ Le prime sensazioni sono ottime, vediamo come andrà nelle prossime uscite.
 
 {{<  figure src="20220328-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6895893204 embedId=a525f396d597783596f8ba4996dce3da279c5216 >}}
-
-[Link all'attività](https://strava.com/activities/6895893204).
+{{< strava id=6895893204 embedId=a525f396d597783596f8ba4996dce3da279c5216 >}} all'attività](https://strava.com/activities/6895893204).

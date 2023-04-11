@@ -26,6 +26,4 @@ Poco tempo a disposizione e poca voglia. Parto un po' a casaccio e ne viene fuor
 {{<  figure src="20220709-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7439251999 embedId=5715a2100adf1348fd5dfa0b9bb165364bbe1d9b >}}
-
-[Link all'attività](https://strava.com/activities/7439251999).
+{{< strava id=7439251999 embedId=5715a2100adf1348fd5dfa0b9bb165364bbe1d9b >}} all'attività](https://strava.com/activities/7439251999).

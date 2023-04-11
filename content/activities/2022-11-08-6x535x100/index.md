@@ -14,6 +14,4 @@ Gli ultimi 5x100 dovevano essere in salita ma ho sentito un dolore al ginocchio 
 
 ![](images/20221108-activity-map.png)
 
-{{< strava id=8086960392 embedId=46a2193de79b9da67e87d2894946623758a989ae >}}
-
-[Link all'attività](https://strava.com/activities/8086960392)
+{{< strava id=8086960392 embedId=46a2193de79b9da67e87d2894946623758a989ae >}} all'attività](https://strava.com/activities/8086960392)

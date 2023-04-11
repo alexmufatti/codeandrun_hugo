@@ -27,6 +27,4 @@ Giro esplorativo in cerca di percorsi ombreggiati. Non male la temperatura ma pu
 {{< figure src="20220726-activity-map.png" title="map" >}}
 
 
-{{< strava id=7531310639 embedId=57741f9eeccf784b3fe3068d806b38130739c488 >}}
-
-[Link all'attività](https://strava.com/activities/7531310639).
+{{< strava id=7531310639 embedId=57741f9eeccf784b3fe3068d806b38130739c488 >}} all'attività](https://strava.com/activities/7531310639).

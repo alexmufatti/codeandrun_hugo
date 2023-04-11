@@ -27,6 +27,4 @@ Buon risultato!
 
 {{<  figure src="20220422-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7022388182 embedId=6f0eaa25c947bad039527e16797ba05aa4f1326f >}}
-
-[Link all'attività](https://strava.com/activities/7022388182).
+{{< strava id=7022388182 embedId=6f0eaa25c947bad039527e16797ba05aa4f1326f >}} all'attività](https://strava.com/activities/7022388182).

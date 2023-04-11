@@ -21,6 +21,4 @@ Finalmente la frequenza cardiaca sembra restare sotto controllo per tutto l'alle
 
 ![](images/20221024-activity-map.png)
 
-{{< strava id=8010642250 embedId=01aa686b038e31ae714920b35aee775eb6dbbd02 >}}
-
-[Link all'attività](https://strava.com/activities/8010642250)
+{{< strava id=8010642250 embedId=01aa686b038e31ae714920b35aee775eb6dbbd02 >}} all'attività](https://strava.com/activities/8010642250)

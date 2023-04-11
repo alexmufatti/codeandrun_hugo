@@ -26,6 +26,4 @@ Percorso nuovo, per cercare ombra. Non male ma con un sacco di pause ai semafori
 {{< figure src="20220720-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7499071060 embedId=78383e7128a7d3054cd3a77f670fcb7849351547 >}}
-
-[Link all'attività](https://strava.com/activities/7499071060).
+{{< strava id=7499071060 embedId=78383e7128a7d3054cd3a77f670fcb7849351547 >}} all'attività](https://strava.com/activities/7499071060).

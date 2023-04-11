@@ -45,6 +45,4 @@ Alla fine chiudo in 1:35 minuti, un ottimo risultato visto il periodo di forma n
 
 {{<  figure src="20220403-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6925303353 embedId=909c7f5d70c70d3f6848506ecc86fdfd8974f4bf >}}
-
-[Link all'attività](https://strava.com/activities/6925303353).
+{{< strava id=6925303353 embedId=909c7f5d70c70d3f6848506ecc86fdfd8974f4bf >}} all'attività](https://strava.com/activities/6925303353).

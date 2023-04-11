@@ -21,6 +21,4 @@ Uscita in trasferta a Cadaqués. Bel trail fino al Far de Cala Nans, doveva esse
 
 ![](images/20220925-activity-map.png)
 
-{{< strava id=7862834844 embedId=d31ac8ec8acff99548fca029506210f48d3f27d0 >}}
-
-[Link all'attività](https://strava.com/activities/7862834844)
+{{< strava id=7862834844 embedId=d31ac8ec8acff99548fca029506210f48d3f27d0 >}} all'attività](https://strava.com/activities/7862834844)

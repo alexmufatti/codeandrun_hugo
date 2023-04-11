@@ -26,6 +26,4 @@ Cielo sereno, 30°C, Percepito 32°C, Umidità 54%, Vento 7m/s da SO
 {{<  figure src="20220612-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7297929973 embedId=814e188961dc4df61d1583321cf2aad149cfcea2 >}}
-
-[Link all'attività](https://strava.com/activities/7297929973).
+{{< strava id=7297929973 embedId=814e188961dc4df61d1583321cf2aad149cfcea2 >}} all'attività](https://strava.com/activities/7297929973).

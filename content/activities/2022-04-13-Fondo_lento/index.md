@@ -29,6 +29,4 @@ In compenso ho incontrato qualche nuovo ami o sulla strada.
 
 {{<  figure src="20220413-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6976413529 embedId=c141a5e71e826765f034685008b2a766ae85df07 >}}
-
-[Link all'attività](https://strava.com/activities/6976413529).
+{{< strava id=6976413529 embedId=c141a5e71e826765f034685008b2a766ae85df07 >}} all'attività](https://strava.com/activities/6976413529).

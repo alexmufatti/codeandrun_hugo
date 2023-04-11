@@ -27,6 +27,4 @@ Ora solo un corto lento e poi... via!
 
 {{<  figure src="20220331-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6912305874 embedId=8d6035bc43d23fdff574834d8982c452458e518f >}}
-
-[Link all'attività](https://strava.com/activities/6912305874).
+{{< strava id=6912305874 embedId=8d6035bc43d23fdff574834d8982c452458e518f >}} all'attività](https://strava.com/activities/6912305874).

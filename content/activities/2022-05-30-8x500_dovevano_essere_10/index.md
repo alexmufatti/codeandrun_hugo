@@ -24,6 +24,4 @@ Il caldo inizia a farsi sentire. Nonostante pulsazioni sempre sotto controllo ho
 
 {{<  figure src="20220530-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7226256846 embedId=b45773ef6422dbc09a7fa17466949821cef947e0 >}}
-
-[Link all'attività](https://strava.com/activities/7226256846).
+{{< strava id=7226256846 embedId=b45773ef6422dbc09a7fa17466949821cef947e0 >}} all'attività](https://strava.com/activities/7226256846).

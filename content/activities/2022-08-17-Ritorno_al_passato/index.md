@@ -27,6 +27,4 @@ Foschia, 25°C, Percepito 26°C, Umidità 71%, Vento 2m/s da SE - Klimat.app
 {{< figure src="20220817-activity-map.png" title="map" >}}
 
 
-{{< strava id=7652962871 embedId=bf7cd4711a46f1968f10730531a025f954189cb6 >}}
-
-[Link all'attività](https://strava.com/activities/7652962871).
+{{< strava id=7652962871 embedId=bf7cd4711a46f1968f10730531a025f954189cb6 >}} all'attività](https://strava.com/activities/7652962871).

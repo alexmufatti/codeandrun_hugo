@@ -17,6 +17,4 @@ Ottima uscita!
 
 ![](images/20220927-activity-map.png)
 
-{{< strava id=7873241953 embedId=3ed3bc485bae5fab243ec01235a623b6c73f368e >}}
-
-[Link all'attività](https://strava.com/activities/7873241953)
+{{< strava id=7873241953 embedId=3ed3bc485bae5fab243ec01235a623b6c73f368e >}} all'attività](https://strava.com/activities/7873241953)

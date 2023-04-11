@@ -15,6 +15,4 @@ Molto bene, si inizia a sperare!
 
 ![](images/20220919-activity-map.png)
 
-{{< strava id=7832812971 embedId=df7def39806e4662f7060ed6571b36b4c7f57677 >}}
-
-[Link all'attività](https://strava.com/activities/7832812971)
+{{< strava id=7832812971 embedId=df7def39806e4662f7060ed6571b36b4c7f57677 >}} all'attività](https://strava.com/activities/7832812971)

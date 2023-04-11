@@ -28,6 +28,4 @@ Dormito poco, mangiato troppo: quello che doveva essere un lungo lento è divent
 {{< figure src="20220729-activity-map.png" title="map" >}}
 
 
-{{< strava id=7547876882 embedId=d8fa7648511855a97e0c5ffb783819d6fff0725d >}}
-
-[Link all'attività](https://strava.com/activities/7547876882).
+{{< strava id=7547876882 embedId=d8fa7648511855a97e0c5ffb783819d6fff0725d >}} all'attività](https://strava.com/activities/7547876882).

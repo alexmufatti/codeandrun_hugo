@@ -29,6 +29,4 @@ Con questo caldo e lo stop di settimana scorsa forse non potevo fare meglio.
 {{<  figure src="20220628-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7381471871 embedId=ba09aa256c84675bf97198b4fe3811410627fd40 >}}
-
-[Link all'attività](https://strava.com/activities/7381471871).
+{{< strava id=7381471871 embedId=ba09aa256c84675bf97198b4fe3811410627fd40 >}} all'attività](https://strava.com/activities/7381471871).

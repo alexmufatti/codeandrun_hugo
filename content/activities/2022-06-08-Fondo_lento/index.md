@@ -25,6 +25,4 @@ Poche nuvole, 26°C, Percepito 26°C, Umidità 72%, Vento 6m/s da SSO
 {{<  figure src="20220608-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7274790122 embedId=80ddb316e5168e75e57f14c7026294b5d23a82ab >}}
-
-[Link all'attività](https://strava.com/activities/7274790122).
+{{< strava id=7274790122 embedId=80ddb316e5168e75e57f14c7026294b5d23a82ab >}} all'attività](https://strava.com/activities/7274790122).

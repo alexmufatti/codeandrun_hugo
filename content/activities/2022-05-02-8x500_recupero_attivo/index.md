@@ -25,6 +25,4 @@ Allenamento impegnativo ma portato a termine bene. Pensavo di soffrire molto di 
 
 {{<  figure src="20220502-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7075460913 embedId=0d6928f73b26cdbcb91da79e32184f72ecea2ff4 >}}
-
-[Link all'attività](https://strava.com/activities/7075460913).
+{{< strava id=7075460913 embedId=0d6928f73b26cdbcb91da79e32184f72ecea2ff4 >}} all'attività](https://strava.com/activities/7075460913).

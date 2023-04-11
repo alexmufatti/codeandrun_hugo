@@ -25,6 +25,4 @@ Buone sensazioni anche in queste ripetute in salita. Le cose vanno meglio decisa
 
 {{<  figure src="20220425-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7039120283 embedId=1c4d99b6005e34a9510f1571e22e8e02a34467ea >}}
-
-[Link all'attività](https://strava.com/activities/7039120283).
+{{< strava id=7039120283 embedId=1c4d99b6005e34a9510f1571e22e8e02a34467ea >}} all'attività](https://strava.com/activities/7039120283).

@@ -26,6 +26,4 @@ Fatte sulla salita per San Biagio, tutta ciottoli, buona per la propriocettivit�
 
 {{<  figure src="20220411-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6964165149 embedId=3ae579880484711704e50c79984c6f381b924e32 >}}
-
-[Link all'attività](https://strava.com/activities/6964165149).
+{{< strava id=6964165149 embedId=3ae579880484711704e50c79984c6f381b924e32 >}} all'attività](https://strava.com/activities/6964165149).

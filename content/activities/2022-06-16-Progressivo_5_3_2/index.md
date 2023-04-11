@@ -28,6 +28,4 @@ Progressivo tenuto decentemente a tutti e tre i ritmi.
 {{<  figure src="20220616-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7317841264 embedId=fef795a5048456a89958adb5bc3e976327a1abb5 >}}
-
-[Link all'attività](https://strava.com/activities/7317841264).
+{{< strava id=7317841264 embedId=fef795a5048456a89958adb5bc3e976327a1abb5 >}} all'attività](https://strava.com/activities/7317841264).

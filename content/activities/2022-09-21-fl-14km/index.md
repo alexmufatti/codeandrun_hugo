@@ -23,6 +23,4 @@ La grande incognita è l'alimentazione: come fare a non avere problemi durante u
 
 ![](images/20220921-activity-map.png)
 
-{{< strava id=7842347591 embedId=9a23b22ce657327650d9d4098a3a67ed29a9bbc7 >}}
-
-[Link all'attività](https://strava.com/activities/7842347591)
+{{< strava id=7842347591 embedId=9a23b22ce657327650d9d4098a3a67ed29a9bbc7 >}} all'attività](https://strava.com/activities/7842347591)

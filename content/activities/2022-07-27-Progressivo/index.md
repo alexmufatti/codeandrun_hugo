@@ -27,6 +27,4 @@ Finalmente un po' di fresco e gli effetti si vedono: buon progressivo senza trop
 {{< figure src="20220727-activity-map.png" title="map" >}}
 
 
-{{< strava id=7536939251 embedId=1cebb1b85efdb24ec82f099459001bffb0d295ee >}}
-
-[Link all'attività](https://strava.com/activities/7536939251).
+{{< strava id=7536939251 embedId=1cebb1b85efdb24ec82f099459001bffb0d295ee >}} all'attività](https://strava.com/activities/7536939251).

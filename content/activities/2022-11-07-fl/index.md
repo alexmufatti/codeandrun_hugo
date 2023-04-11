@@ -22,6 +22,4 @@ Le foto sono sicuramente la cosa migliore di questa uscita!
 
 ![](images/20221107-activity-map.png)
 
-{{< strava id=8080857196 embedId=d8959c930b3354237a499111f1bcc0ad7735bbc1 >}}
-
-[Link all'attività](https://strava.com/activities/8080857196)
+{{< strava id=8080857196 embedId=d8959c930b3354237a499111f1bcc0ad7735bbc1 >}} all'attività](https://strava.com/activities/8080857196)

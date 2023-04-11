@@ -20,6 +20,4 @@ Fondo lento con FC bassa. Una delle volte in cui sono riuscito a tenerla più so
 
 ![](images/20221116-activity-map.png)
 
-{{< strava id=8124847852 embedId=343fe27a24a12cab586123032bda51cc1fada5c4 >}}
-
-[Link all'attività](https://strava.com/activities/8124847852)
+{{< strava id=8124847852 embedId=343fe27a24a12cab586123032bda51cc1fada5c4 >}} all'attività](https://strava.com/activities/8124847852)

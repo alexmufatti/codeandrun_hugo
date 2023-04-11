@@ -24,6 +24,4 @@ Ripetute lunghe con recupero da fermo. Abbastanza facile, il problema è sempre 
 
 {{<  figure src="20220421-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7016963845 embedId=36b32f6559d527c3bc06f43064ae85637a40781f >}}
-
-[Link all'attività](https://strava.com/activities/7016963845).
+{{< strava id=7016963845 embedId=36b32f6559d527c3bc06f43064ae85637a40781f >}} all'attività](https://strava.com/activities/7016963845).

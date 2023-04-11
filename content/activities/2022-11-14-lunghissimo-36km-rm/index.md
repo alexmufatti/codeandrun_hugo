@@ -16,6 +16,4 @@ Ci penserò per la maratona!
 
 ![](images/20221114-activity-map.png)
 
-{{< strava id=8116098098 embedId=201cd0b5f5f1475b37995f1bf29c1a32fe0f119d >}}
-
-[Link all'attività](https://strava.com/activities/8116098098)
+{{< strava id=8116098098 embedId=201cd0b5f5f1475b37995f1bf29c1a32fe0f119d >}} all'attività](https://strava.com/activities/8116098098)

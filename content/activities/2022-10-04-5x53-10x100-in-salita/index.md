@@ -15,6 +15,4 @@ Unico punto dolente, un fastidio al ginocchio destro da subito, speriamo bene.
 
 ![](images/20221004-activity-map.png)
 
-{{< strava id=7908428605 embedId=bbe50a8cd7da2bb0be2f26e70e73fe1e51614457 >}}
-
-[Link all'attività](https://strava.com/activities/7908428605)
+{{< strava id=7908428605 embedId=bbe50a8cd7da2bb0be2f26e70e73fe1e51614457 >}} all'attività](https://strava.com/activities/7908428605)

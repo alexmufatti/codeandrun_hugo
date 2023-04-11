@@ -30,6 +30,4 @@ Purtroppo il percorso che faccio è sempre lo stesso perchè, con l'arrivo dei t
 
 {{<  figure src="20220517-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7156942320 embedId=d6b26f614cd74b9c50c54a13f15749381b69d918 >}}
-
-[Link all'attività](https://strava.com/activities/7156942320).
+{{< strava id=7156942320 embedId=d6b26f614cd74b9c50c54a13f15749381b69d918 >}} all'attività](https://strava.com/activities/7156942320).

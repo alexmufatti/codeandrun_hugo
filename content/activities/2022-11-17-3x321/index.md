@@ -20,6 +20,4 @@ Una delle poche volte in cui non sono soddisfatto delle variazioni di ritmo, pro
 
 ![](images/20221117-activity-map.png)
 
-{{< strava id=8129409310 embedId=68db4a2338497bca94411ef4e49caca0af0ca31a >}}
-
-[Link all'attività](https://strava.com/activities/8129409310)
+{{< strava id=8129409310 embedId=68db4a2338497bca94411ef4e49caca0af0ca31a >}} all'attività](https://strava.com/activities/8129409310)

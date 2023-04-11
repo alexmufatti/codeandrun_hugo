@@ -26,6 +26,4 @@ Speriamo di non pagarle troppo.
 
 {{<  figure src="20220509-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7112977824 embedId=d05761e55769ef41755d09ec090e52e8014ef46d >}}
-
-[Link all'attività](https://strava.com/activities/7112977824).
+{{< strava id=7112977824 embedId=d05761e55769ef41755d09ec090e52e8014ef46d >}} all'attività](https://strava.com/activities/7112977824).

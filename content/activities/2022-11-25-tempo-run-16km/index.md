@@ -10,6 +10,4 @@ categories:
 
 ![](images/20221125-activity-map.png)
 
-{{< strava id=8165329526 embedId=800e2d84035f6b0fe9e0f34b66b3cc574816dd5f >}}
-
-[Link all'attività](https://strava.com/activities/8165329526)
+{{< strava id=8165329526 embedId=800e2d84035f6b0fe9e0f34b66b3cc574816dd5f >}} all'attività](https://strava.com/activities/8165329526)

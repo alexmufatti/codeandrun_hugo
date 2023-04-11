@@ -24,6 +24,4 @@ Un lungo dopo un po' di tempo. Fatto finalmente al mattino, al fresco. Ho dovuto
 
 {{<  figure src="20220605-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7257182447 embedId=8ec3775a138bb4ad9c52036c21294801f4b616eb >}}
-
-[Link all'attività](https://strava.com/activities/7257182447).
+{{< strava id=7257182447 embedId=8ec3775a138bb4ad9c52036c21294801f4b616eb >}} all'attività](https://strava.com/activities/7257182447).

@@ -15,6 +15,4 @@ Super easy run del lunedì spostata alla domenica. Tutto tranquillo, bel panoram
 
 ![](images/20221002-activity-map.png)
 
-{{< strava id=7897771877 embedId=0f4b7dc46d2d820df8ee91e6ec3cc78c32bbf56b >}}
-
-[Link all'attività](https://strava.com/activities/7897771877)
+{{< strava id=7897771877 embedId=0f4b7dc46d2d820df8ee91e6ec3cc78c32bbf56b >}} all'attività](https://strava.com/activities/7897771877)

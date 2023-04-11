@@ -19,6 +19,4 @@ Bellissimi i pesaggi all'alba, tra poco probabilmente non li vedrò più con l'a
 
 ![](images/20220916-activity-map.png)
 
-{{< strava id=7815941339 embedId=1ff05cbc1512326b773e971dd043f54c0db19ca0 >}}
-
-[Link all'attività](https://strava.com/activities/7815941339)
+{{< strava id=7815941339 embedId=1ff05cbc1512326b773e971dd043f54c0db19ca0 >}} all'attività](https://strava.com/activities/7815941339)

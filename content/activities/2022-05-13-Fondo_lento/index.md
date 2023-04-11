@@ -26,6 +26,4 @@ Sono riuscito per una folta a tenere il passo corretto.
 
 {{<  figure src="20220513-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7135070195 embedId=ca1a74bf9a4d21fcc7a27df5b6a9ad50e11f42ce >}}
-
-[Link all'attività](https://strava.com/activities/7135070195).
+{{< strava id=7135070195 embedId=ca1a74bf9a4d21fcc7a27df5b6a9ad50e11f42ce >}} all'attività](https://strava.com/activities/7135070195).

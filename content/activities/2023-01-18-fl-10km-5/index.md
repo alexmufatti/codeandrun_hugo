@@ -13,6 +13,4 @@ thumbnail: images/IMG_1203.jpg
 
 ![](images/20230118-activity-map.png)
 
-{{< strava id=8410439226 embedId=dc6e5ad4be39e6285e0b65a4872519f17082b7b5 >}}
-
-[Link all'attività](https://strava.com/activities/8410439226)
+{{< strava id=8410439226 embedId=dc6e5ad4be39e6285e0b65a4872519f17082b7b5 >}} all'attività](https://strava.com/activities/8410439226)

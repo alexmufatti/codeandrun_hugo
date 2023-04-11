@@ -9,6 +9,9 @@
             scrolling="no"
             src="https://www.strava.com/activities/{{ $id }}/embed/{{ $embedId }}"></iframe>
   </div>
+  <p>
+    <a href="https://strava.com/activities/{{ $id }}" target="_blank" rel="noreferrer noopener">Link all’attività</a>
+  </p>
   {{ else }}
     <div>error</div>
   {{ end }}

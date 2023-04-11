@@ -27,6 +27,4 @@ Poche nuvole, 26°C, Percepito 26°C, Umidità 90%, Vento 2m/s da N - Klimat.app
 {{< figure src="20220829-activity-map.png" title="map" >}}
 
 
-{{< strava id=7718576747 embedId=2d726c98efdda070a0221455bbed5262572862f4 >}}
-
-[Link all'attività](https://strava.com/activities/7718576747).
+{{< strava id=7718576747 embedId=2d726c98efdda070a0221455bbed5262572862f4 >}} all'attività](https://strava.com/activities/7718576747).

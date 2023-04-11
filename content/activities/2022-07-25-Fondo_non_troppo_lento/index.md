@@ -29,6 +29,4 @@ Da quando non ho una tabella ben definita mi capita spesso di uscire con le idee
 {{< figure src="20220725-activity-map.png" title="map" >}}
 
 
-{{< strava id=7525807799 embedId=9f39197d20d2407daeafc4237d9a18ee60666c63 >}}
-
-[Link all'attività](https://strava.com/activities/7525807799).
+{{< strava id=7525807799 embedId=9f39197d20d2407daeafc4237d9a18ee60666c63 >}} all'attività](https://strava.com/activities/7525807799).

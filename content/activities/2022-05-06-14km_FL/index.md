@@ -23,6 +23,4 @@ Lunghetto easy andato bene, senza troppo sforzo anche se probabilmente troppo fo
 
 {{<  figure src="20220506-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7097070186 embedId=e0e2ccdb20e47d32e381325b15f0662ee3d314bd >}}
-
-[Link all'attività](https://strava.com/activities/7097070186).
+{{< strava id=7097070186 embedId=e0e2ccdb20e47d32e381325b15f0662ee3d314bd >}} all'attività](https://strava.com/activities/7097070186).

@@ -25,6 +25,4 @@ Tempo che tra qualche settimana sarà molto più dura.
 
 {{<  figure src="20220516-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7151569069 embedId=1f4a0654d6e89b3cc351d3b9b6df344c16236f03 >}}
-
-[Link all'attività](https://strava.com/activities/7151569069).
+{{< strava id=7151569069 embedId=1f4a0654d6e89b3cc351d3b9b6df344c16236f03 >}} all'attività](https://strava.com/activities/7151569069).

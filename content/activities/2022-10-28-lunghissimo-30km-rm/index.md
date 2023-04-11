@@ -19,6 +19,4 @@ Ora una settimana di "scarico" dove farò la [Mitija de Tarragona](https://www.m
 
 ![](images/20221028-activity-map.png)
 
-{{< strava id=8030862423 embedId=47d2306406f27ff84e07e91f873a87b85fdf38f7 >}}
-
-[Link all'attività](https://strava.com/activities/8030862423)
+{{< strava id=8030862423 embedId=47d2306406f27ff84e07e91f873a87b85fdf38f7 >}} all'attività](https://strava.com/activities/8030862423)

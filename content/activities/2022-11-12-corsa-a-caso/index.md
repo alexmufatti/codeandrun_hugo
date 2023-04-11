@@ -18,6 +18,4 @@ Alla fine ho corso a sensazione senza guardare l'orologio.
 
 ![](images/20221112-activity-map.png)
 
-{{< strava id=8104764493 embedId=27622e85593a351e4d9c667ac623dade5759c3d2 >}}
-
-[Link all'attività](https://strava.com/activities/8104764493)
+{{< strava id=8104764493 embedId=27622e85593a351e4d9c667ac623dade5759c3d2 >}} all'attività](https://strava.com/activities/8104764493)

@@ -17,6 +17,4 @@ Si ricomincia a sperare in bene per Valencia.
 
 ![](images/20221021-activity-map.png)
 
-{{< strava id=7995770330 embedId=496caff54ee8fd2608e69cebc0cc705ca1908fcd >}}
-
-[Link all'attività](https://strava.com/activities/7995770330)
+{{< strava id=7995770330 embedId=496caff54ee8fd2608e69cebc0cc705ca1908fcd >}} all'attività](https://strava.com/activities/7995770330)

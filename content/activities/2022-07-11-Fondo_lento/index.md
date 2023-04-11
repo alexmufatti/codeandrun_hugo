@@ -30,6 +30,4 @@ Fondo lento esplorando la costa in previsione dei prossimi lunghi. Non male il p
 {{<  figure src="20220711-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7450766001 embedId=958fea63b5789eaecf60a387c82a04de9380ab6f >}}
-
-[Link all'attività](https://strava.com/activities/7450766001).
+{{< strava id=7450766001 embedId=958fea63b5789eaecf60a387c82a04de9380ab6f >}} all'attività](https://strava.com/activities/7450766001).

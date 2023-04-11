@@ -41,6 +41,4 @@ In compenso il paesaggio merita sempre.
 {{<  figure src="20220715-activity-map_featured.png" title=="map" >}}
 
 
-{{< strava id=7472759150 embedId=215c9352e424b4c85cc6fe183a84c70652d28d09 >}}
-
-[Link all'attività](https://strava.com/activities/7472759150).
+{{< strava id=7472759150 embedId=215c9352e424b4c85cc6fe183a84c70652d28d09 >}} all'attività](https://strava.com/activities/7472759150).

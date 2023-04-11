@@ -25,6 +25,4 @@ Fatte un po' troppo forte, probabilmente pagate nel progressivo del giorno succe
 
 {{<  figure src="20220428-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7054127715 embedId=ed58ba55566c82db0d2f806d0ab4b8d606cf5359 >}}
-
-[Link all'attività](https://strava.com/activities/7054127715).
+{{< strava id=7054127715 embedId=ed58ba55566c82db0d2f806d0ab4b8d606cf5359 >}} all'attività](https://strava.com/activities/7054127715).

@@ -19,6 +19,4 @@ Alla fine la chiudo con un buon tempo anche se molto lontano dai miei migliori.
 
 ![](images/20221106-activity-map.png)
 
-{{< strava id=8075894130 embedId=cb79bc832e04fe2c5c8b924cec3e2b6e74331bd3 >}}
-
-[Link all'attività](https://strava.com/activities/8075894130)
+{{< strava id=8075894130 embedId=cb79bc832e04fe2c5c8b924cec3e2b6e74331bd3 >}} all'attività](https://strava.com/activities/8075894130)
