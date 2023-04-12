@@ -7,7 +7,7 @@ categories:
   - Sport
 date: 2023-03-03 13:21:27
 images: ["20230303-activity-map.png"]
-thumbnail: "20230303-activity-map.png"
+feature: "20230303-activity-map.png"
 activitydata:
   pace: 4:52min/km
   elevation: 38mt
@@ -21,9 +21,7 @@ places: []
 
 
 
-{{< figure src="20230303-activity-map.png" title="map" >}}
+[//]: # ({{< figure src="20230303-activity-map.png" title="map" >}})
 
 
-{{< strava id=8652565991 embedId=fb8ccb033f089b4701128cba16deaf6ff48ed745 >}}
-
-[Link all'attività](https://strava.com/activities/8652565991).
+{{< strava id=8652565991 embedId=fb8ccb033f089b4701128cba16deaf6ff48ed745 >}} all'attività](https://strava.com/activities/8652565991).

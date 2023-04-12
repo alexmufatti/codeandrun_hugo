@@ -7,7 +7,7 @@ categories:
   - Sport
 date: 2023-03-21 17:13:47
 images: ["20230321-activity-map.png"]
-thumbnail: "20230321-activity-map.png"
+feature: "20230321-activity-map.png"
 activitydata:
   speed: 15.88km/h
   max speed: 24.85km/h
@@ -24,9 +24,7 @@ draft: true
 
 
 
-{{< figure src="20230321-activity-map.png" title="map" >}}
+[//]: # ({{< figure src="20230321-activity-map.png" title="map" >}})
 
 
-{{< strava id=8753754448 embedId=1efa5ecd9a53c6c4d94fcb2b1e2d39d0cd8ebafd >}}
-
-[Link all'attività](https://strava.com/activities/8753754448).
+{{< strava id=8753754448 embedId=1efa5ecd9a53c6c4d94fcb2b1e2d39d0cd8ebafd >}} all'attività](https://strava.com/activities/8753754448).
