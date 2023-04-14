@@ -21,7 +21,7 @@ places: []
 
 
 
-
+[//]: # ({{< figure src="20230404-activity-map.png" title="map" >}})
 
 
 {{< strava id=8830030366 embedId=b169a508cca838c4198e6c2b68c7fd5eb2bb1345 >}} all'attività](https://strava.com/activities/8830030366).

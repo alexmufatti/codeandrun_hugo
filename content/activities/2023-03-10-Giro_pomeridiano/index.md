@@ -24,7 +24,7 @@ draft: true
 
 
 
-
+[//]: # ({{< figure src="20230310-activity-map.png" title="map" >}})
 
 
 {{< strava id=8692025898 embedId=430d340cdf8abdc107e8aefe560484eb1c5095ef >}} all'attività](https://strava.com/activities/8692025898).
