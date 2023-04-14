@@ -26,4 +26,4 @@ Andato meglio del previsto, ritmi tenuti decentemente a parte le piccole pause p
 {{<  figure src="20220627-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7376316592 embedId=ec16352264f3aab98bf6aaeae20bf95877a464cf >}} all'attività](https://strava.com/activities/7376316592).
+{{< strava id=7376316592 embedId=ec16352264f3aab98bf6aaeae20bf95877a464cf >}}

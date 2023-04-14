@@ -27,4 +27,4 @@ Cielo coperto, 22°C, Percepito 22°C, Umidità 62%, Vento 2m/s da S - Klimat.ap
 {{< figure src="20220807-activity-map.png" title="map" >}}
 
 
-{{< strava id=7597902251 embedId=8417d193ee60e40d615afd7c8ace7bfccb331c9e >}} all'attività](https://strava.com/activities/7597902251).
+{{< strava id=7597902251 embedId=8417d193ee60e40d615afd7c8ace7bfccb331c9e >}}

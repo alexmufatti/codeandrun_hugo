@@ -26,4 +26,4 @@ Nubi sparse, 24°C, Percepito 25°C, Umidità 86%, Vento 2m/s da N - Klimat.app
 {{< figure src="20220903-activity-map.png" title="map" >}}
 
 
-{{< strava id=7745838036 embedId=f8e463e7f257d42904858c6a96edd888b45305f6 >}} all'attività](https://strava.com/activities/7745838036).
+{{< strava id=7745838036 embedId=f8e463e7f257d42904858c6a96edd888b45305f6 >}}

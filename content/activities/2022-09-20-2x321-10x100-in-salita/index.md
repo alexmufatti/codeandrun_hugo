@@ -23,4 +23,4 @@ Sicuramente lo spettacolo dell'alba vale sempre il prezzo della fatica!
 
 ![](images/20220920-activity-map.png)
 
-{{< strava id=7836713139 embedId=f798bda355fe5e236e7f78c249571aa980f6e327 >}} all'attività](https://strava.com/activities/7836713139)
+{{< strava id=7836713139 embedId=f798bda355fe5e236e7f78c249571aa980f6e327 >}}

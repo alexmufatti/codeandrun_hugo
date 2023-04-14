@@ -34,4 +34,4 @@ Ma il panorama vale lo sforzo!
 {{< figure src="20220722-activity-map.png" title="map" >}}
 
 
-{{< strava id=7509903418 embedId=4f74fddc1cfc67e9722bc39d3b89fa46e305d304 >}} all'attività](https://strava.com/activities/7509903418).
+{{< strava id=7509903418 embedId=4f74fddc1cfc67e9722bc39d3b89fa46e305d304 >}}

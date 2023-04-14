@@ -16,4 +16,4 @@ Tutto bene sembra anche se ho avuto un paio di fitte al ginocchio, speriamo bene
 
 ![](images/20221110-activity-map.png)
 
-{{< strava id=8096602611 embedId=b65fcf079593f02c67e4b2f7ac4863f253a06259 >}} all'attività](https://strava.com/activities/8096602611)
+{{< strava id=8096602611 embedId=b65fcf079593f02c67e4b2f7ac4863f253a06259 >}}

@@ -26,4 +26,4 @@ Cielo sereno, 26°C, Percepito 26°C, Umidità 74%, Vento 2m/s da NO - Klimat.ap
 {{< figure src="20220825-activity-map.png" title="map" >}}
 
 
-{{< strava id=7696329894 embedId=6df2640a8e6c693d0a09c33d2c2699b8a4ea4d9a >}} all'attività](https://strava.com/activities/7696329894).
+{{< strava id=7696329894 embedId=6df2640a8e6c693d0a09c33d2c2699b8a4ea4d9a >}}

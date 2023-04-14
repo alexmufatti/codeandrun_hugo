@@ -25,4 +25,4 @@ Molta fatica, forse anche perchè non mi riescono mai bene gli allenamenti di qu
 
 {{<  figure src="20220522-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7182537986 embedId=b13b0651614bc51d75cabc6cf1a9a0f289da073c >}} all'attività](https://strava.com/activities/7182537986).
+{{< strava id=7182537986 embedId=b13b0651614bc51d75cabc6cf1a9a0f289da073c >}}

@@ -26,4 +26,4 @@ Allenamento duro e portato a termine con qualche pausa.
 {{<  figure src="20220610-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7285248026 embedId=96b390ab9f3d1d0e34877832688bc3e4d8f6e771 >}} all'attività](https://strava.com/activities/7285248026).
+{{< strava id=7285248026 embedId=96b390ab9f3d1d0e34877832688bc3e4d8f6e771 >}}

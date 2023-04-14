@@ -23,4 +23,4 @@ Un fondo lento tranquillo per riprendere dopo qualche giorno di febbre. Non è a
 
 {{<  figure src="20220527-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7210643228 embedId=4a6e98bf68ad66ed6a907b8a390ab873e91c8457 >}} all'attività](https://strava.com/activities/7210643228).
+{{< strava id=7210643228 embedId=4a6e98bf68ad66ed6a907b8a390ab873e91c8457 >}}

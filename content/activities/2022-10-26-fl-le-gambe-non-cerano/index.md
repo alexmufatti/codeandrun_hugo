@@ -17,4 +17,4 @@ Speriamo 🤞🏻
 
 ![](images/20221026-activity-map.png)
 
-{{< strava id=8020538022 embedId=f6e6a2b711d969f4b2f14f35fb3d2a1100b0680a >}} all'attività](https://strava.com/activities/8020538022)
+{{< strava id=8020538022 embedId=f6e6a2b711d969f4b2f14f35fb3d2a1100b0680a >}}

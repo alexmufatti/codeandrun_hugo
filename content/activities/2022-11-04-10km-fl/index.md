@@ -15,4 +15,4 @@ Il cardio al polso ha fatto qualche scherzo in questa uscita salendo all'improvv
 
 ![](images/20221104-activity-map.png)
 
-{{< strava id=8065757697 embedId=46850d0e6e43c02d4a217af9630fda5fa493c8a1 >}} all'attività](https://strava.com/activities/8065757697)
+{{< strava id=8065757697 embedId=46850d0e6e43c02d4a217af9630fda5fa493c8a1 >}}

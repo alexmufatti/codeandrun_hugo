@@ -22,4 +22,4 @@ Cielo sereno, 21°C, Percepito 20°C, Umidità 44%, Vento 8m/s da O
 
 {{<  figure src="20220408-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6948937691 embedId=5d65ed9f8cc04ec543fbe8123c7472b66d02e1ac >}} all'attività](https://strava.com/activities/6948937691).
+{{< strava id=6948937691 embedId=5d65ed9f8cc04ec543fbe8123c7472b66d02e1ac >}}

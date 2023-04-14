@@ -27,4 +27,4 @@ Pioggia moderata, 24°C, Percepito 24°C, Umidità 80%, Vento 2m/s da NO - Klima
 {{< figure src="20220807-activity-map.png" title="map" >}}
 
 
-{{< strava id=7601213766 embedId=115f92822fd874887f7c87851bb22b8dd849fce2 >}} all'attività](https://strava.com/activities/7601213766).
+{{< strava id=7601213766 embedId=115f92822fd874887f7c87851bb22b8dd849fce2 >}}

@@ -13,4 +13,4 @@ Settimana di "scarico" e fondo lento in Z2. Tutto tranquillo, buone sensazioni n
 
 ![](images/20221031-activity-map.png)
 
-{{< strava id=8046234022 embedId=0a5cadcb72d7ebb4e2619b9e66b6dd2259815e5f >}} all'attività](https://strava.com/activities/8046234022)
+{{< strava id=8046234022 embedId=0a5cadcb72d7ebb4e2619b9e66b6dd2259815e5f >}}

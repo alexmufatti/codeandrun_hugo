@@ -13,4 +13,4 @@ Ripetute brevi. Credevo di faticare parecchio invece sono andate abbastanza bene
 
 ![](images/20221102-activity-map.png)
 
-{{< strava id=8057473593 embedId=191de5f4b83307137cd47efec561ddb562006829 >}} all'attività](https://strava.com/activities/8057473593)
+{{< strava id=8057473593 embedId=191de5f4b83307137cd47efec561ddb562006829 >}}

@@ -25,4 +25,4 @@ Allenamento HIIT. Molto impegnativo, soprattutto per il caldo. Anche qui qualche
 {{<  figure src="20220613-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7301318631 embedId=0f4537e9ee0bdca2b625842256533c4d7b6e596a >}} all'attività](https://strava.com/activities/7301318631).
+{{< strava id=7301318631 embedId=0f4537e9ee0bdca2b625842256533c4d7b6e596a >}}

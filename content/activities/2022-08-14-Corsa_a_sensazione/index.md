@@ -26,4 +26,4 @@ Nubi sparse, 25°C, Percepito 25°C, Umidità 50%, Vento 0m/s da ESE - Klimat.ap
 {{< figure src="20220814-activity-map.png" title="map" >}}
 
 
-{{< strava id=7635455852 embedId=ec513de33258efc46b344408a712c56b8660da4f >}} all'attività](https://strava.com/activities/7635455852).
+{{< strava id=7635455852 embedId=ec513de33258efc46b344408a712c56b8660da4f >}}

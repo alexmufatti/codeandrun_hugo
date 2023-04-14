@@ -24,4 +24,4 @@ Primo lavoro dopo la mezza maratona. Tutto fatto a sensazione senza pretese.
 
 {{<  figure src="20220406-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6939714435 embedId=9f46efdb13ec79859fde478dd89439eb63eaf8f1 >}} all'attività](https://strava.com/activities/6939714435).
+{{< strava id=6939714435 embedId=9f46efdb13ec79859fde478dd89439eb63eaf8f1 >}}

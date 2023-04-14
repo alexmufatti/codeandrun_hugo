@@ -11,4 +11,4 @@ Poche nuvole, 30°C, Percepito 36°C, Umidità 72%, Vento 7m/s da SO
 
 ![](images/20220906-activity-map.png)
 
-{{< strava id=7765184927 embedId=23918a5a5e5854f238b009499833750d11686cd2 >}} all'attività](https://strava.com/activities/7765184927)
+{{< strava id=7765184927 embedId=23918a5a5e5854f238b009499833750d11686cd2 >}}

@@ -25,4 +25,4 @@ Il fondo medio è andato discretamente ma poi i 10x30" son stati faticosissimi e
 
 {{<  figure src="20220518-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7162688756 embedId=9b8de523e34cda9068ffee8fcec0a4b82ff852a4 >}} all'attività](https://strava.com/activities/7162688756).
+{{< strava id=7162688756 embedId=9b8de523e34cda9068ffee8fcec0a4b82ff852a4 >}}

@@ -26,4 +26,4 @@ Fondo lento, come al solito non troppo lento!
 
 {{<  figure src="20220503-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7080687565 embedId=773763934fb8d37d0702135b98ff9e6ab0df1a20 >}} all'attività](https://strava.com/activities/7080687565).
+{{< strava id=7080687565 embedId=773763934fb8d37d0702135b98ff9e6ab0df1a20 >}}

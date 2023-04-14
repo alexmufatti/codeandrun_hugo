@@ -25,4 +25,4 @@ Cielo sereno, 26°C, Percepito 25°C, Umidità 38%, Vento 4m/s da ESE
 
 {{<  figure src="20220531-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7231525667 embedId=6c8f57f1abb51f85c62a6ee5bbcb4333788580b9 >}} all'attività](https://strava.com/activities/7231525667).
+{{< strava id=7231525667 embedId=6c8f57f1abb51f85c62a6ee5bbcb4333788580b9 >}}

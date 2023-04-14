@@ -31,4 +31,4 @@ Portato a casa.
 {{<  figure src="20220701-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7397488873 embedId=3860719fe2134648b53ffb0900bca286a3f90a8d >}} all'attività](https://strava.com/activities/7397488873).
+{{< strava id=7397488873 embedId=3860719fe2134648b53ffb0900bca286a3f90a8d >}}

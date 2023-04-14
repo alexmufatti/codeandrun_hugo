@@ -11,4 +11,4 @@ tags:
 
 ![](images/20221013-activity-map.png)
 
-{{< strava id=7956340007 embedId=e2d571541aee73b71b0efbd53c250a5c480f3e3a >}} all'attività](https://strava.com/activities/7956340007)
+{{< strava id=7956340007 embedId=e2d571541aee73b71b0efbd53c250a5c480f3e3a >}}

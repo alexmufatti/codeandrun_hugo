@@ -26,4 +26,4 @@ Lento in Z2. Senza guardare il passo ma solo la frequenza cardiaca. Andato bene,
 {{<  figure src="20220612-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7294739801 embedId=b54f1d130039413079418949910c6ff38bde6e93 >}} all'attività](https://strava.com/activities/7294739801).
+{{< strava id=7294739801 embedId=b54f1d130039413079418949910c6ff38bde6e93 >}}

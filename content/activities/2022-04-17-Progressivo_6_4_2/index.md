@@ -30,4 +30,4 @@ Bellissima giornata per una corsa tra i campi.
 
 {{<  figure src="20220417-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6994941582 embedId=99681ebe5c7b83b1ae753782eb63aaa1991199b2 >}} all'attività](https://strava.com/activities/6994941582).
+{{< strava id=6994941582 embedId=99681ebe5c7b83b1ae753782eb63aaa1991199b2 >}}

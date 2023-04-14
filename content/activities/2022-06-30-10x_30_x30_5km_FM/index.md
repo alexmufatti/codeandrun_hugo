@@ -26,4 +26,4 @@ Allenamento bello impegnativo. Caldo poco gradevole. Ho dovuto fare qualche paus
 {{<  figure src="20220630-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7392268136 embedId=e2bab0b7f488f732860ba07d25117540a513c024 >}} all'attività](https://strava.com/activities/7392268136).
+{{< strava id=7392268136 embedId=e2bab0b7f488f732860ba07d25117540a513c024 >}}

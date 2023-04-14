@@ -18,11 +18,9 @@ places: []
 draft: true
 ---
 
+<!--more--> 
+
+ [//]: # ({{< figure src="20230407-activity-map.png" title="map" >}})
 
 
-
-
-[//]: # ({{< figure src="20230407-activity-map.png" title="map" >}})
-
-
-{{< strava id=8847287161 embedId=fde1f24f2eb161414c459ec7e8d4e418c9aa46d8 >}} all'attività](https://strava.com/activities/8847287161).
+{{< strava id=8847287161 embedId=fde1f24f2eb161414c459ec7e8d4e418c9aa46d8 >}}

@@ -25,4 +25,4 @@ Primo test post Mezza.
 
 {{<  figure src="20220414-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6979881730 embedId=d6e14367ff66608457556f91218f7b871bfb38ea >}} all'attività](https://strava.com/activities/6979881730).
+{{< strava id=6979881730 embedId=d6e14367ff66608457556f91218f7b871bfb38ea >}}

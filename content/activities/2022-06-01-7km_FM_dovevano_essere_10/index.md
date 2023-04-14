@@ -24,4 +24,4 @@ Anche oggi gran caldo e fatica,
 
 {{<  figure src="20220601-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7236745382 embedId=7941a25305025cb4314b8fc6728b9fe1796c71e0 >}} all'attività](https://strava.com/activities/7236745382).
+{{< strava id=7236745382 embedId=7941a25305025cb4314b8fc6728b9fe1796c71e0 >}}

@@ -21,4 +21,4 @@ Poche nuvole, 11°C, Percepito 10°C, Umidità 54%, Vento 6m/s da E
 
 {{<  figure src="20220404-activity-map_featured.png" title="map" >}}
 
-{{< strava id=6929908448 embedId=9a6977c1326a9de0ff78a17911bce62e6d09b94c >}} all'attività](https://strava.com/activities/6929908448).
+{{< strava id=6929908448 embedId=9a6977c1326a9de0ff78a17911bce62e6d09b94c >}}

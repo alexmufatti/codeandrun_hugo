@@ -27,4 +27,4 @@ Oggi gran vento! Un po' di fatica anche con per un semplice lento.
 {% youtube 6syPSVD2m7c %}
 {{<  figure src="20220420-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7011840559 embedId=d4d610d2b1f6881c127962c5f054ea10e0bad909 >}} all'attività](https://strava.com/activities/7011840559).
+{{< strava id=7011840559 embedId=d4d610d2b1f6881c127962c5f054ea10e0bad909 >}}

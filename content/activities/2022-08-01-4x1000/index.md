@@ -28,4 +28,4 @@ Proviamo a rimettere un po' di velocità nelle gambe. Purtroppo il giorno non è
 {{< figure src="20220801-activity-map.png" title="map" >}}
 
 
-{{< strava id=7563908669 embedId=6c3ac462f448a08028e46bbc99c259f407aaaaf1 >}} all'attività](https://strava.com/activities/7563908669).
+{{< strava id=7563908669 embedId=6c3ac462f448a08028e46bbc99c259f407aaaaf1 >}}

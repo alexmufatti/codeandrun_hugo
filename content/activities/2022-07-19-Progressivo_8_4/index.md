@@ -27,4 +27,4 @@ Speriamo sia comunque allenante 😅
 {{< figure src="20220719-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7493700527 embedId=487c43111168719a831500bd17267ff91f32800d >}} all'attività](https://strava.com/activities/7493700527).
+{{< strava id=7493700527 embedId=487c43111168719a831500bd17267ff91f32800d >}}

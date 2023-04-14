@@ -26,4 +26,4 @@ Anche questa volta non male. Più faticose quelle in piano successive fatte sicu
 
 {{<  figure src="20220419-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7006641592 embedId=049713373d6389bb32086d37b428e696e804c055 >}} all'attività](https://strava.com/activities/7006641592).
+{{< strava id=7006641592 embedId=049713373d6389bb32086d37b428e696e804c055 >}}

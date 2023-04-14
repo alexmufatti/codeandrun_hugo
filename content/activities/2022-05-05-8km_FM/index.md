@@ -26,4 +26,4 @@ Bene così!
 
 {{<  figure src="20220505-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7091552969 embedId=e946d58837c2f78c688675a1f20ffcd46455bd9e >}} all'attività](https://strava.com/activities/7091552969).
+{{< strava id=7091552969 embedId=e946d58837c2f78c688675a1f20ffcd46455bd9e >}}

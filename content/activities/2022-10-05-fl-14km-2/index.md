@@ -19,4 +19,4 @@ Fastidio al ginocchio ancora presente e un po' in aumento. Forse è il caso di p
 
 ![](images/20221005-activity-map.png)
 
-{{< strava id=7913777386 embedId=d295c1cc77406a72f0ce70a3d382009d11ce1d8b >}} all'attività](https://strava.com/activities/7913777386)
+{{< strava id=7913777386 embedId=d295c1cc77406a72f0ce70a3d382009d11ce1d8b >}}

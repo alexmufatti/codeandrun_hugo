@@ -25,4 +25,4 @@ Peccato
 
 {{<  figure src="20220429-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7059183771 embedId=801f63f3b6230540edf367a92bf25606c027dbe9 >}} all'attività](https://strava.com/activities/7059183771).
+{{< strava id=7059183771 embedId=801f63f3b6230540edf367a92bf25606c027dbe9 >}}

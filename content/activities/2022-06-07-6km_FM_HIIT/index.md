@@ -29,4 +29,4 @@ Nel complesso un allenamento dignitoso.
 
 {{<  figure src="20220607-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7269375408 embedId=57666c219408a1d81c4ab6656a4d578b56247ddd >}} all'attività](https://strava.com/activities/7269375408).
+{{< strava id=7269375408 embedId=57666c219408a1d81c4ab6656a4d578b56247ddd >}}

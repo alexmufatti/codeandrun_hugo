@@ -24,4 +24,4 @@ Abbastanza impegnativo per il caldo e un po' di vento. Andato però abbastanza b
 
 {{<  figure src="20220512-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7129979248 embedId=96ccbbf89b8294c6d464c54505009c5cc49ac4f2 >}} all'attività](https://strava.com/activities/7129979248).
+{{< strava id=7129979248 embedId=96ccbbf89b8294c6d464c54505009c5cc49ac4f2 >}}

@@ -24,4 +24,4 @@ Il caldo inizia a farsi sentire!
 
 {{<  figure src="20220520-activity-map_featured.png" title="map" >}}
 
-{{< strava id=7173589231 embedId=e1181cb119c525317e1795cec339312845b49467 >}} all'attività](https://strava.com/activities/7173589231).
+{{< strava id=7173589231 embedId=e1181cb119c525317e1795cec339312845b49467 >}}

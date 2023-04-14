@@ -26,4 +26,4 @@ Cielo sereno, 29°C, Percepito 29°C, Umidità 47%, Vento 7m/s da SE
 {{<  figure src="20220704-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7413144154 embedId=9f006ea814c9ccb23824dea1d045a842395d8f3f >}} all'attività](https://strava.com/activities/7413144154).
+{{< strava id=7413144154 embedId=9f006ea814c9ccb23824dea1d045a842395d8f3f >}}

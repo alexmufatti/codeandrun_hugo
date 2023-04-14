@@ -19,4 +19,4 @@ Non può andare sempre bene, speriamo meglio per il lungo _veloce_ di venerdì.
 
 ![](images/20220928-activity-map.png)
 
-{{< strava id=7878485483 embedId=8dd1bf07ee148353d0dbe0819ee98f80d0579848 >}} all'attività](https://strava.com/activities/7878485483)
+{{< strava id=7878485483 embedId=8dd1bf07ee148353d0dbe0819ee98f80d0579848 >}}

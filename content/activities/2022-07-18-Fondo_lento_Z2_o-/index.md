@@ -31,4 +31,4 @@ E poi si incontrano sempre cose interessanti quando si corre verso il porto...
 {{< figure src="20220718-activity-map_featured.png" title="map" >}}
 
 
-{{< strava id=7488563324 embedId=729375778489fa0971951fdf80eb50a95f7e46ea >}} all'attività](https://strava.com/activities/7488563324).
+{{< strava id=7488563324 embedId=729375778489fa0971951fdf80eb50a95f7e46ea >}}

@@ -26,4 +26,4 @@ Me ne ricorderò la prossima volta 🤞
 
 ![](images/20220909-activity-map.png)
 
-{{< strava id=7778471137 embedId=999b6f3adc6404cd1abda5251c7b21791dfeb6b3 >}} all'attività](https://strava.com/activities/7778471137)
+{{< strava id=7778471137 embedId=999b6f3adc6404cd1abda5251c7b21791dfeb6b3 >}}

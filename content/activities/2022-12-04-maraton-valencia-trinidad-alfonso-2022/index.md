@@ -12,4 +12,4 @@ categories:
 
 ![](images/20221204-activity-map.png)
 
-{{< strava id=8205716317 embedId=c5277752dd0b722e81243dab0c4cf26603a88ea7 >}} all'attività](https://strava.com/activities/8205716317)
+{{< strava id=8205716317 embedId=c5277752dd0b722e81243dab0c4cf26603a88ea7 >}}
