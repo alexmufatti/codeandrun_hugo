@@ -20,6 +20,6 @@ Nel tratto finale anche un passaggio dalla Sagrada Familia con relativo caos!
 
 ![Image](/images/2021/10/IMG_4831.heic.jpg)
 
-{% youtube CRMkZK-HjWY %}
+{{< youtube id="CRMkZK-HjWY" >}}
 
 ![activity map](/images/2021/10/20211002-activity-map_featured.png)

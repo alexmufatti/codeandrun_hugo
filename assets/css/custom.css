@@ -19,3 +19,21 @@ header > h1 {
 header > h1:hover {
     border-color: rgba(var(--color-primary-500),1);
 }
+
+.training > div {
+    display: flex;
+    flex-direction: row;
+}
+
+.training  li {
+    display: inline;
+}
+.training  span {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+.training  ul {
+    flex-grow: 1;
+    flex-basis: 0;
+    display: inline;
+}

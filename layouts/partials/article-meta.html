@@ -27,20 +27,24 @@
   {{ if and (.Params.showReadingTime | default (.Site.Params.article.showReadingTime | default true)) (ne .ReadingTime 0) }}
     {{ $meta.Add "partials" (slice (partial "meta/reading-time.html" .)) }}
   {{ end }}
-
-  <ul>
-  {{range $index, $element := .Params.trainingType}}
-    {{ if eq $element "red" }}
-      🔴
-    {{ end }}
-    {{ if eq $element "yellow" }}
-      🟡
-    {{ end }}
-    {{ if eq $element "green" }}
-      🟢
-    {{ end }}
-  {{end}}
-  </ul>
+<div class="training">
+  <div>
+    <span>Tipo:</span>
+    <ul>
+      {{range $index, $element := .Params.trainingTypes}}
+        <li>{{$element}}</li>
+      {{end}}
+    </ul>
+  </div>
+  <div>
+    <span>Sensazioni:</span>
+    <ul>
+      {{range $index, $element := .Params.trainingFeelings}}
+        <li>{{$element}}</li>
+      {{end}}
+    </ul>
+  </div>
+</div>
 
   {{ if and (eq $scope "single") (.Params.showEdit | default (.Site.Params.article.showEdit | default false)) }}
     {{ $meta.Add "partials" (slice (partial "meta/edit.html" .)) }}
