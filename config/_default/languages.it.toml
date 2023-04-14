@@ -8,13 +8,13 @@ rtl = false
 title = "Code And Run"
 # logo = "logo.png"
 description = "Blog of a running developer"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Code And Run"
-  image = "logo.png"
+  image = "avatar.png"
   headline = "Blog of a running developer"
   bio = ""
   links = [
@@ -39,7 +39,7 @@ dateFormat = "2 January 2006"
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
      { linkedin = "https://linkedin.com/in/amufatti" },
-  #   { mastodon = "https://mastodon.instance/@username" },
+     { mastodon = "https://mastodon.uno/@alexmufatti" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },

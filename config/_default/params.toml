@@ -48,7 +48,7 @@ timeout      = 300000
   showTaxonomies = true
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
