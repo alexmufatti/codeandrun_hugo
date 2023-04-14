@@ -14,6 +14,7 @@ activitydata:
   distance: 10.00km
   duration: 52:03
 places: []
+trainingType: ["red","green"]
 
 ---
 
