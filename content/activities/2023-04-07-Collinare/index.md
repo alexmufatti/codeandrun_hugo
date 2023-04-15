@@ -1,5 +1,5 @@
 ---
-title: Corsa dell'ora di pranzo
+title: Collinare
 topics:
 - sport
 - running
@@ -14,8 +14,9 @@ activitydata:
   distance: 11.73km
   duration: 59:16
 places: []
-
-draft: true
+# 🔴,🟢,🟡,😀,😭,☠️
+trainingTypes: [🟡]
+trainingFeelings: [😐]
 ---
 
 <!--more--> 

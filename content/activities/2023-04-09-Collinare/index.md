@@ -13,6 +13,9 @@ activitydata:
   elevation: 111mt
   distance: 10.01km
   duration: 49:21
+# 🔴,🟢,🟡,😀,😭,☠️
+trainingTypes: [🟡]
+trainingFeelings: [😐]
 places: []
 
 ---

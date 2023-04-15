@@ -14,7 +14,9 @@ activitydata:
   distance: 7.37km
   duration: 54:23
 places: []
-
+# 🔴,🟢,🟡,😀,😭,☠️
+trainingTypes: [🟡]
+trainingFeelings: [😭]
 ---
 
 <!--more--> 

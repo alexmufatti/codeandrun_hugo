@@ -10,7 +10,14 @@
             src="https://www.strava.com/activities/{{ $id }}/embed/{{ $embedId }}"></iframe>
   </div>
   <div>
-    <a href="https://strava.com/activities/{{ $id }}" target="_blank" rel="noreferrer noopener">Link all’attività</a>
+    <a href="https://strava.com/activities/{{ $id }}" target="_blank" rel="noreferrer noopener">
+      {{ $icon := resources.Get "icons/strava.svg" }}
+        {{ if $icon }}
+          <span class="relative inline-block align-text-bottom icon">
+            {{ $icon.Content | safeHTML }}
+          </span>
+        {{ end }}
+      Link all’attività</a>
   </div>
   {{ else }}
     <div>error</div>
