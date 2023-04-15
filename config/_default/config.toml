@@ -11,8 +11,9 @@ disableLanguages = ['en']
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 10
+googleAnalytics = "G-VEM98WVRQT"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-googleAnalytics = "G-VEM98WVRQT"
+
