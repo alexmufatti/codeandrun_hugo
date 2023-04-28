@@ -15,12 +15,13 @@ activitydata:
   duration: 44:29
 places: []
 # 🔴,🟢,🟡,😀,😭,☠️
-trainingTypes: [🟡]
-trainingFeelings: [😭]
-draft: true
+trainingTypes: [🟢]
+trainingFeelings: [😀]
 ---
+
+Tranquilla corsetta in Z2.
 <!--more--> 
 [//]: # ({{< figure src="20230427-activity-map.png" title="map" >}})
-
+Nulla di particolare da segnalare. Sensazioni abbastanza buone, solo mal di gambe dovuto al potenziamento di ieri.
 
 {{< strava id=8965873031 embedId=d5c5e69adadbae00251601be814cb3f317ec7b10 >}}

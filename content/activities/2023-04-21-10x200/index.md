@@ -15,12 +15,14 @@ activitydata:
   duration: 40:47
 places: []
 # 🔴,🟢,🟡,😀,😭,☠️
-trainingTypes: [🟡]
-trainingFeelings: [😭]
-draft: true
+trainingTypes: [🔴]
+trainingFeelings: [😀]
 ---
-<!--more--> 
-[//]: # ({{< figure src="20230421-activity-map.png" title="map" >}})
 
+Allenamento rosso!
+<!--more-->
+
+Un po' di velocità dopo tanto tanto tempo.
+Abbastanza bene il risultato anche se gli ultimi recuperi li ho fatti parzialmente da fermo per recuperare un pochino.
 
 {{< strava id=8930044041 embedId=11d4cb1fdd2d46690b8a6cf99023169ba2127028 >}}

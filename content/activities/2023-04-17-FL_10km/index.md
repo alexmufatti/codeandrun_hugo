@@ -15,12 +15,12 @@ activitydata:
   duration: 45:20
 places: []
 # 🔴,🟢,🟡,😀,😭,☠️
-trainingTypes: [🟡]
-trainingFeelings: [😭]
-draft: true
+trainingTypes: [🟢]
+trainingFeelings: [😐]
 ---
+
+Senza infamia e senza lode.
 <!--more--> 
 [//]: # ({{< figure src="20230417-activity-map.png" title="map" >}})
-
 
 {{< strava id=8906142009 embedId=3d2c62295eb503a372f3864d517871895892ed39 >}}
