@@ -1,5 +1,5 @@
 ---
-title: FL 10km
+title: Rigenerante
 topics:
 - sport
 - running

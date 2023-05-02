@@ -1,5 +1,5 @@
 ---
-title: Corsa dell'ora di pranzo
+title: 5x5'
 topics:
 - sport
 - running
