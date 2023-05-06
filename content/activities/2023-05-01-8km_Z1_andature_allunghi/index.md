@@ -24,13 +24,13 @@ Corsa in Z1. Mi pare di migliorare leggermente ma secondo me siamo ancora lontan
 
 La Z1 è sempre _faticosa_. Andando piano mi pare sempre che le gambe mi si affatichino più del dovuto. Forse perché corro "pesante" e con un tempo di contatto molto alto.
 
-{{< figure src="IMG_1615.jpg" title="map" >}}
+{{< figure src="IMG_1615.jpg" title="Fiume" >}}
 
-{{< figure src="IMG_1618.jpg" title="map" >}}
+{{< figure src="IMG_1618.jpg" title="Piramide" >}}
 
 In compenso correre di mattino è tutta un'altra storia: poca gente, caldo accettabile.
 
-{{< figure src="IMG_1619.jpg" title="map" >}}
+{{< figure src="IMG_1619.jpg" title="Io" >}}
 
 {{< figure src="20230501-activity-map.png" title="map" >}}
 
