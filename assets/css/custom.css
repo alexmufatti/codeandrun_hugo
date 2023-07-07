@@ -25,6 +25,6 @@ header > h1:hover {
 }
 
 .trainings div:not(:last-child):after {
-    content: ' ·';
+    content: ' · ';
     color: rgba(var(--color-primary-500),var(--tw-text-opacity));
 }
