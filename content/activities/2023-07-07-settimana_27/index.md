@@ -1,5 +1,5 @@
 ---
-title: Settimana 27 (prima settimana di post stop)
+title: Settimana 27 (prima settimana post stop)
 topics:
 - sport
 - running

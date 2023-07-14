@@ -1,16 +1,18 @@
 languageCode = "it"
 languageName = "Italian"
-displayName = "IT"
-isoCode = "it"
 weight = 1
+
+
+[params]
+isoCode = "it"
 rtl = false
+description = "Blog of a running developer"
+displayName = "IT"
+dateFormat = "2 January 2006"
 
 title = "Code And Run"
 # logo = "logo.png"
-description = "Blog of a running developer"
 copyright = '<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.'
-
-dateFormat = "2 January 2006"
 
 [author]
   name = "Code And Run"
