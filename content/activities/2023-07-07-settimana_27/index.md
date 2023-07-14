@@ -6,8 +6,7 @@ topics:
 categories:
   - Sport
 date: 2023-07-07 13:19:45
-images: ["IMG_1957.jpg"]
-feature: "IMG_1957.jpg"
+feature: "IMG_1957-feature.jpg"
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
 trainingTypes: [🟢,🔴,🟢]
