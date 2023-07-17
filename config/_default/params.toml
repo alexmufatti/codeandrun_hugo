@@ -47,7 +47,7 @@ timeout      = 300000
   showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
-  showComments = false
+  showComments = true
   sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
