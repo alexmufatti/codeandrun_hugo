@@ -3,20 +3,24 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://codeandrun.it/"
+
 defaultContentLanguage = "it"
-
-
 disableLanguages = ['en']
+languageCode = 'it-it'
 
 enableRobotsTXT = true
+
 paginate = 10
 summaryLength = 10
-googleAnalytics = "G-2LGG1T7GGB"
+
 canonifyURLs = true
-languageCode = 'it-it'
+
 theme        = "congo"
 timeout      = 300000
+rssLimit     = 100
+
 disqusShortname = "alexmufatti"
+googleAnalytics = "G-2LGG1T7GGB"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
