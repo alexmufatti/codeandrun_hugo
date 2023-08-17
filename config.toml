@@ -1,7 +1,0 @@
-baseURL = 'https://codeandrun.it/'
-canonifyURLs = true
-languageCode = 'it-it'
-theme        = "congo"
-paginate     = 10
-timeout      = 300000
-disqusShortname = "alexmufatti"
