@@ -28,3 +28,8 @@ header > h1:hover {
     content: ' · ';
     color: rgba(var(--color-primary-500),var(--tw-text-opacity));
 }
+
+.embed {
+    display: flex;
+    justify-content: center;
+}
