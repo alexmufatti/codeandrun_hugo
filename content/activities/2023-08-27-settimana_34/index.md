@@ -1,5 +1,5 @@
 ---
-title: Settimana 35
+title: Settimana 34
 topics: ['sport', 'running']
 categories:
   - Sport
