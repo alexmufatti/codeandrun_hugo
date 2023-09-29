@@ -6,8 +6,8 @@ categories:
 date: 2023-09-25 16:03:00
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟡,🟡,🟡]
-trainingFeelings: [😭,😭,😭]
+trainingTypes: [🟢,🔴,🟢]
+trainingFeelings: [😀,😀,🙂]
 ---
 Prima settimana full dopo la _Cursa de la Mercé_!
 
