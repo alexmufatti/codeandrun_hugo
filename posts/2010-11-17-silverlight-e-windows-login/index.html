@@ -16,15 +16,15 @@
 </span></span><span class=line><span class=cl>  <span class=p>...</span>
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>  <span class=p>...</span>
-</span></span></code></pre></div><p>Lato Silverlight leggiamo, quando ci occorre, il volore del tag <em>input</em>:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-csharp data-lang=csharp><span class=line><span class=cl><span class=k>public</span> <span class=kt>string</span> <span class=n>GetUser</span><span class=p>()</span>
+</span></span></code></pre></div><p>Lato Silverlight leggiamo, quando ci occorre, il volore del tag <em>input</em>:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-csharp data-lang=csharp><span class=line><span class=cl><span class=kd>public</span> <span class=kt>string</span> <span class=n>GetUser</span><span class=p>()</span>
 </span></span><span class=line><span class=cl><span class=p>{</span>
 </span></span><span class=line><span class=cl>  <span class=n>HtmlDocument</span> <span class=n>doc</span> <span class=p>=</span> <span class=n>HtmlPage</span><span class=p>.</span><span class=n>Document</span><span class=p>;</span>
-</span></span><span class=line><span class=cl>  <span class=k>if</span> <span class=p>(</span><span class=n>doc</span> <span class=p>==</span> <span class=k>null</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>  <span class=k>if</span> <span class=p>(</span><span class=n>doc</span> <span class=p>==</span> <span class=kc>null</span><span class=p>)</span>
 </span></span><span class=line><span class=cl>  <span class=p>{</span>
 </span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=kt>string</span><span class=p>.</span><span class=n>Empty</span><span class=p>;</span>
 </span></span><span class=line><span class=cl>  <span class=p>}</span>
 </span></span><span class=line><span class=cl>  <span class=n>HtmlElement</span> <span class=n>elm</span> <span class=p>=</span> <span class=n>doc</span><span class=p>.</span><span class=n>GetElementById</span><span class=p>(</span><span class=s>&#34;UserField&#34;</span><span class=p>);</span>
-</span></span><span class=line><span class=cl>  <span class=k>if</span> <span class=p>(</span><span class=n>elm</span> <span class=p>==</span> <span class=k>null</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>  <span class=k>if</span> <span class=p>(</span><span class=n>elm</span> <span class=p>==</span> <span class=kc>null</span><span class=p>)</span>
 </span></span><span class=line><span class=cl>  <span class=p>{</span>
 </span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=kt>string</span><span class=p>.</span><span class=n>Empty</span><span class=p>;</span>
 </span></span><span class=line><span class=cl>  <span class=p>}</span>
