@@ -6,8 +6,8 @@ categories:
 date: 2023-09-25 16:03:00
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟢,🔴,🟢]
-trainingFeelings: [😀,😀,🙂]
+trainingTypes: [🟢,🔴,🟢, 🟡]
+trainingFeelings: [😀,😀,🙂, 😀]
 ---
 Prima settimana full dopo la _Cursa de la Mercé_!
 
@@ -51,3 +51,16 @@ E il giorno dopo giallo lungo!
 {{< figure src="20230926-activity-map.png" title="map" >}}
 
 {{< strava id=9922079805 embedId=3b79520d46cf9ae958448733b057c9ef06d8152f >}}
+
+## Quarta uscita
+
+Lungo con ripetute a ritmo medio 3x2000 + 3x1000 Z3. Il paio di 🍻 bevute ieri sera  non mi facevano ben sperare invece l'allenamento è andato discretamente bene. Ho seguito il consiglio di dare un'occhiata anche alla FC per la Z3 ma questa volta non c'è stato bisogno di rallentare perché era già abbastanza in linea. 
+
+{{< figure src="IMG_2393.jpg" >}}
+
+Solo un po' di Z4 nell'ultima ripetuta su una "salita".
+Nonostante questo, pensare che la Z3 sia il ritmo maratona, mi terrorizza! 😜
+
+{{< figure src="20230930-activity-map.png" title="map" >}}
+
+{{< strava id=9947596435 embedId=3cafaf4e06c26060f7d5fab501e83680946edf5d >}}
