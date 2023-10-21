@@ -51,6 +51,8 @@ Tutto tranquillo, ritmo buono, sempre in miglioramento e pochissimo tempo in Z3,
 
 ## Quarta uscita
 
+{{< youtube id="Bg2iRZWWXGo" >}}
+
 16km Z2, ultimo allenamento della settimana.
 
 {{< figure src="IMG_2479-EDIT.jpg" >}}
