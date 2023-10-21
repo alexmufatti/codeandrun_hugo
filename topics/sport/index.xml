@@ -109,6 +109,9 @@ src="https://www.strava.com/activities/10053113298/embed/e077481f06cff4590b3c344
 Link all’attività&lt;/a>
 &lt;/div>
 &lt;h2 id="quarta-uscita" class="relative group">Quarta uscita &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#quarta-uscita" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Bg2iRZWWXGo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
 &lt;p>16km Z2, ultimo allenamento della settimana.&lt;/p>
 &lt;figure >
 &lt;img
