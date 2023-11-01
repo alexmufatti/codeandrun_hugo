@@ -6,9 +6,8 @@ categories:
 date: 2023-10-23 17:48:59
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟢,🟡,🟢]
-trainingFeelings: [🙂,😀,🙂]
-draft: true
+trainingTypes: [🟢,🟡,🟢,🟡]
+trainingFeelings: [🙂,😀,🙂,😀]
 ---
 
 Ancora una settimana tranquilla senza troppi chilometri!
@@ -50,3 +49,16 @@ Detto questo mi son divertito!
 {{< figure src="20231026-activity-map.png" title="map" >}}
 
 {{< strava id=10106124420 embedId=5f69d2af4eb0493e4ee01ba58e08825628e70d93 >}}
+
+## Quarta uscita
+{{< figure src="IMG_4888.jpg" >}}
+
+Ultima uscita della settimana con un bel ritmo medio di 10km. 
+
+Per una volta sono in compagnia e questo aiuta a non fare per nulla fatica.
+
+Sicuramente un po' troppo forti gli ultimi 2km che mi hanno fatto sforare in Z4.
+
+{{< figure src="20231029-activity-map.png" title="map" >}}
+
+{{< strava id=10122990668 embedId=2bc8dd47c90b7543590f355510154f056078493e >}}
