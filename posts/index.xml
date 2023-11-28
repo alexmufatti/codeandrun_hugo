@@ -2,16 +2,7 @@
 on</description><generator>Hugo -- gohugo.io</generator><language>it</language><lastBuildDate>Fri, 20 Dec 2013 21:54:50 +0000</lastBuildDate><atom:link href="https://codeandrun.it/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Cinnamon screenshot applet default folder</title><link>https://codeandrun.it/posts/2013-12-20-cinnamon-screenshot-applet-default-folder/</link><pubDate>Fri, 20 Dec 2013 21:54:50 +0000</pubDate><guid>https://codeandrun.it/posts/2013-12-20-cinnamon-screenshot-applet-default-folder/</guid><description>&lt;p>I’ve switched some weeks ago to Linux Mint and Cinnamon from Xfce and in these days I’m a kind of exploring the new desktop.&lt;/p>
 &lt;p>I’m used to take screenshot for work, totake some notes and so I installed the &lt;a href="http://cinnamon-spices.linuxmint.com/applets/view/35" title="screenshot applet" target="_blank" rel="noreferrer">Cinnamon screenshot applet&lt;/a>.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="354"
-srcset="https://codeandrun.it/images/2021/08/screenshot-from-2013-12-20-195253_hu964c4469ab7e9a6118d1b493923c3ed5_5443_330x0_resize_box_3.png 330w,/images/2021/08/screenshot-from-2013-12-20-195253_hu964c4469ab7e9a6118d1b493923c3ed5_5443_660x0_resize_box_3.png 660w,/images/2021/08/screenshot-from-2013-12-20-195253_hu964c4469ab7e9a6118d1b493923c3ed5_5443_1024x0_resize_box_3.png 1024w,/images/2021/08/screenshot-from-2013-12-20-195253_hu964c4469ab7e9a6118d1b493923c3ed5_5443_1320x0_resize_box_3.png 2x"
-src="https://codeandrun.it/images/2021/08/screenshot-from-2013-12-20-195253_hu964c4469ab7e9a6118d1b493923c3ed5_5443_660x0_resize_box_3.png"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/screenshot-from-2013-12-20-195253.png" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>After some day using it I was a bit bored by the screenshots saved in Pictures folder by default so I traied to change this behaviur.&lt;/p>
@@ -31,16 +22,7 @@ loading="lazy"
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>that is far more elegant.&lt;/p>
 &lt;p>This is only a quick tip. Maybe I’ll write a more detailed post an JS-Silverlight interaction in the future.&lt;/p></description></item><item><title>Xfce loses theme settings</title><link>https://codeandrun.it/posts/2013-10-10-xfce-loses-theme-settings/</link><pubDate>Thu, 10 Oct 2013 22:01:59 +0000</pubDate><guid>https://codeandrun.it/posts/2013-10-10-xfce-loses-theme-settings/</guid><description>&lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="700"
-srcset="https://codeandrun.it/images/2021/08/xfce-logo_hu4831d929ff713a57c1798195048322fa_42117_330x0_resize_q75_box.jpg 330w,/images/2021/08/xfce-logo_hu4831d929ff713a57c1798195048322fa_42117_660x0_resize_q75_box.jpg 660w,/images/2021/08/xfce-logo_hu4831d929ff713a57c1798195048322fa_42117_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/xfce-logo_hu4831d929ff713a57c1798195048322fa_42117_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/xfce-logo_hu4831d929ff713a57c1798195048322fa_42117_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/xfce-logo.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Today I started my xfce desktop and it looks like …“different”. No theme loaded, default icons, no background. I tried to change theme from Xfce Settings but nothing, it doesn’t work.&lt;/p>
@@ -95,16 +77,7 @@ loading="lazy"
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fi
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>I decided to apply the patches so that I can update the whole system.&lt;/p></description></item><item><title>My new wallpaper</title><link>https://codeandrun.it/posts/2013-08-16-my-new-wallpaper/</link><pubDate>Fri, 16 Aug 2013 19:47:42 +0000</pubDate><guid>https://codeandrun.it/posts/2013-08-16-my-new-wallpaper/</guid><description>&lt;p>Here is my new desktop wallpaper (and current blog header), one of the best shot I’ve taken during my MTB trips.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/20130704_195307_hu3823feaf470d082ac5e5c1c07b8f79c8_84483_330x0_resize_q75_box.jpg 330w,/images/2021/08/20130704_195307_hu3823feaf470d082ac5e5c1c07b8f79c8_84483_660x0_resize_q75_box.jpg 660w,/images/2021/08/20130704_195307_hu3823feaf470d082ac5e5c1c07b8f79c8_84483_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/20130704_195307_hu3823feaf470d082ac5e5c1c07b8f79c8_84483_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/20130704_195307_hu3823feaf470d082ac5e5c1c07b8f79c8_84483_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/20130704_195307.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Wallpaper Crocione!&lt;/p>
@@ -141,60 +114,24 @@ loading="lazy"
 &lt;p>It’s definitely my choice! :-D&lt;/p></description></item><item><title>Automattic’s Worldwide WP 5k</title><link>https://codeandrun.it/posts/2012-04-29-automattics-worldwide-wp-5k/</link><pubDate>Sun, 29 Apr 2012 20:10:17 +0000</pubDate><guid>https://codeandrun.it/posts/2012-04-29-automattics-worldwide-wp-5k/</guid><description>&lt;p>So, here we are. Me and my wife went for the &lt;em>Automattic’s Worldwide WP 5k&lt;/em> 2012 from lake &lt;em>Maggiore&lt;/em> in northern Italy_!!_&lt;/p>
 &lt;p>Here is what we have seen at the end of the 5 kilometers (then we continued for a while, also because we have to came back home :-P )&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/img_02491_hu4fef9813572031a6126e9b912ce1912e_57928_330x0_resize_q75_box.jpg 330w,/images/2021/08/img_02491_hu4fef9813572031a6126e9b912ce1912e_57928_660x0_resize_q75_box.jpg 660w,/images/2021/08/img_02491_hu4fef9813572031a6126e9b912ce1912e_57928_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/img_02491_hu4fef9813572031a6126e9b912ce1912e_57928_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/img_02491_hu4fef9813572031a6126e9b912ce1912e_57928_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/img_02491.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>And here is the GPS track!&lt;/p>
 &lt;h2 id="laveno-cerrohttpconnectgarmincomactivity172503706" class="relative group">&lt;a href="http://connect.garmin.com/activity/172503706" target="_blank" rel="noreferrer">Laveno Cerro&lt;/a> &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#laveno-cerrohttpconnectgarmincomactivity172503706" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h2>&lt;p>Vía &lt;a href="http://connect.garmin.com/explore?owner=alexmufatti" target="_blank" rel="noreferrer">Garmin Connect - alexmufatti&lt;/a>&lt;/p></description></item><item><title>San Clemente</title><link>https://codeandrun.it/posts/2012-04-28-san-clemente/</link><pubDate>Sat, 28 Apr 2012 18:58:22 +0000</pubDate><guid>https://codeandrun.it/posts/2012-04-28-san-clemente/</guid><description>&lt;p>Breve escursione a San Clemente.&lt;/p>
 &lt;p>Per variare un po&amp;rsquo; il solito percorso decido di salire dalla cava di Caravate. Prima faccio però tappa alla chiesetta dei frati che è lungo la strada, appena prima dell’inizio del sentiero.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="933"
-srcset="https://codeandrun.it/images/2021/08/img_02381_huee1b7a27bddb4fc0092208bfa587f2ca_93938_330x0_resize_q75_box.jpg 330w,/images/2021/08/img_02381_huee1b7a27bddb4fc0092208bfa587f2ca_93938_660x0_resize_q75_box.jpg 660w,/images/2021/08/img_02381_huee1b7a27bddb4fc0092208bfa587f2ca_93938_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/img_02381_huee1b7a27bddb4fc0092208bfa587f2ca_93938_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/img_02381_huee1b7a27bddb4fc0092208bfa587f2ca_93938_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/img_02381.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Appena lasciata la chiesetta mi avventuro nel bosco. Non ricordo bene la strada ma fortunatamente non ci sono diramazioni particolari. La salita è inizialmente facile ma poi abbastanza impegnativa, soprattutto per via del fondo ghiaioso con molti sassi smossi.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="933"
-srcset="https://codeandrun.it/images/2021/08/img_02441_hud4a5bf221a70530fd0f420cf5b7e0bed_183380_330x0_resize_q75_box.jpg 330w,/images/2021/08/img_02441_hud4a5bf221a70530fd0f420cf5b7e0bed_183380_660x0_resize_q75_box.jpg 660w,/images/2021/08/img_02441_hud4a5bf221a70530fd0f420cf5b7e0bed_183380_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/img_02441_hud4a5bf221a70530fd0f420cf5b7e0bed_183380_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/img_02441_hud4a5bf221a70530fd0f420cf5b7e0bed_183380_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/img_02441.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Scendendo alcune volte dalla sella riesco ad arrivare fino alla Balconata Picuz dalla quale si gode davvero di una bella vista!!&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="186"
-srcset="https://codeandrun.it/images/2021/08/img_0240_hu960396227986fca7f989f85102ea3c22_30761_330x0_resize_q75_box.jpg 330w,/images/2021/08/img_0240_hu960396227986fca7f989f85102ea3c22_30761_660x0_resize_q75_box.jpg 660w,/images/2021/08/img_0240_hu960396227986fca7f989f85102ea3c22_30761_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/img_0240_hu960396227986fca7f989f85102ea3c22_30761_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/img_0240_hu960396227986fca7f989f85102ea3c22_30761_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/img_0240.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Decido di non salire fino al paesello ma di avventurarmi in discesa per un percorso mai fatto prima. Il sentiero è divertente e ben tenuto, ci sono parecchie diramazioni; di volta in volta scelgo la via che mi pare più percorribile.&lt;/p>
@@ -240,31 +177,13 @@ loading="lazy"
 &lt;p>La salita per l’alpe non è troppo impegnativa: senza strappi ma tutta all’ombra che con queste temperature non è il massimo. Nonostante il Cuvignone nelle gambe, salgo abbastanza bene. Arrivato al passo San Michele trovo il bivio per il Monte Colonna, magari proverò quel sentiero in una prossima uscita.&lt;/p>
 &lt;p>Dopo aver scollinato si arriva alla frazione di San Michele dove si trova il ristoro e la chiesetta la cui vista sul lago é però coperta dalla troppa vegetazione, peccato.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="700"
-srcset="https://codeandrun.it/images/2021/08/img_02311_hu4cca4c8b369933ded0e86df14b943a3a_70701_330x0_resize_q75_box.jpg 330w,/images/2021/08/img_02311_hu4cca4c8b369933ded0e86df14b943a3a_70701_660x0_resize_q75_box.jpg 660w,/images/2021/08/img_02311_hu4cca4c8b369933ded0e86df14b943a3a_70701_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/img_02311_hu4cca4c8b369933ded0e86df14b943a3a_70701_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/img_02311_hu4cca4c8b369933ded0e86df14b943a3a_70701_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/img_02311.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Chiesetta di San Michele!&lt;/p>
 &lt;p>Consultando la cartina che si trova poco sotto la chiesa scopro dove inizia il sentiero per Brissago/Muceno; basta proseguire pochi metri sulla strada asfaltata, ignorando i cartelli per il sentiero &lt;em>pedonale&lt;/em> e lo si trova sulla sinistra ben indicato. La prima parte del sentiero é in leggera salita ma il fondo è compatto e salgo con facilità. Passo vicino all’eliporto e poi, sempre in salita, arrivo alla &lt;em>balconata,&lt;/em> attrezzata con area pic-nic e griglia da dove di gode di una bella vista sul lago.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="140"
-srcset="https://codeandrun.it/images/2021/08/IMG_0235_hu9845f8ba491a6897e9b06cc199d68c91_11373_330x0_resize_q75_box.jpg 330w,/images/2021/08/IMG_0235_hu9845f8ba491a6897e9b06cc199d68c91_11373_660x0_resize_q75_box.jpg 660w,/images/2021/08/IMG_0235_hu9845f8ba491a6897e9b06cc199d68c91_11373_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/IMG_0235_hu9845f8ba491a6897e9b06cc199d68c91_11373_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/IMG_0235_hu9845f8ba491a6897e9b06cc199d68c91_11373_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/IMG_0235.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Balconata San Michele!&lt;/p>
@@ -352,42 +271,15 @@ loading="lazy"
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="n">elm&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">GetAttribute&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;value&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>IIS errore 0x8ffe2740</title><link>https://codeandrun.it/posts/2010-11-15-iis-errore-0x8ffe2740/</link><pubDate>Mon, 15 Nov 2010 19:09:36 +0000</pubDate><guid>https://codeandrun.it/posts/2010-11-15-iis-errore-0x8ffe2740/</guid><description>&lt;p>Questo errore si verifica se la porta sulla quale si sta cercando di far girare un &lt;em>Web Site&lt;/em> é già in uso (Skype, Visual Studio, etc.). Ci voleva così tanto a scriverlo?&lt;/p></description></item><item><title>Che affetto</title><link>https://codeandrun.it/posts/2010-11-14-che-affetto/</link><pubDate>Sun, 14 Nov 2010 15:27:16 +0000</pubDate><guid>https://codeandrun.it/posts/2010-11-14-che-affetto/</guid><description>&lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/20101114-0224181_hu565c2dda60a1ed98ff8db66353aa667a_50448_330x0_resize_q75_box.jpg 330w,/images/2021/08/20101114-0224181_hu565c2dda60a1ed98ff8db66353aa667a_50448_660x0_resize_q75_box.jpg 660w,/images/2021/08/20101114-0224181_hu565c2dda60a1ed98ff8db66353aa667a_50448_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/20101114-0224181_hu565c2dda60a1ed98ff8db66353aa667a_50448_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/20101114-0224181_hu565c2dda60a1ed98ff8db66353aa667a_50448_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/20101114-0224181.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>!&lt;/p></description></item><item><title>Tale padrone...</title><link>https://codeandrun.it/posts/2010-11-13-tale-padrone/</link><pubDate>Sat, 13 Nov 2010 20:51:07 +0000</pubDate><guid>https://codeandrun.it/posts/2010-11-13-tale-padrone/</guid><description>&lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/20101113-0745131_hu132dbc73fe9721287d1939abb7ded875_50207_330x0_resize_q75_box.jpg 330w,/images/2021/08/20101113-0745131_hu132dbc73fe9721287d1939abb7ded875_50207_660x0_resize_q75_box.jpg 660w,/images/2021/08/20101113-0745131_hu132dbc73fe9721287d1939abb7ded875_50207_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/20101113-0745131_hu132dbc73fe9721287d1939abb7ded875_50207_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/20101113-0745131_hu132dbc73fe9721287d1939abb7ded875_50207_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/20101113-0745131.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>!&lt;/p></description></item><item><title>Siesta</title><link>https://codeandrun.it/posts/2010-11-12-siesta/</link><pubDate>Fri, 12 Nov 2010 17:17:57 +0000</pubDate><guid>https://codeandrun.it/posts/2010-11-12-siesta/</guid><description>&lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/20101112-0416331_huaec04cb8dc6cdb16fe1c11cfd67a08c6_43108_330x0_resize_q75_box.jpg 330w,/images/2021/08/20101112-0416331_huaec04cb8dc6cdb16fe1c11cfd67a08c6_43108_660x0_resize_q75_box.jpg 660w,/images/2021/08/20101112-0416331_huaec04cb8dc6cdb16fe1c11cfd67a08c6_43108_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/20101112-0416331_huaec04cb8dc6cdb16fe1c11cfd67a08c6_43108_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/20101112-0416331_huaec04cb8dc6cdb16fe1c11cfd67a08c6_43108_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/20101112-0416331.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>!&lt;/p></description></item><item><title>WCF ServiceHost e Cross Domain Policy</title><link>https://codeandrun.it/posts/2010-11-08-wcf-servicehost-e-cross-domain-policy/</link><pubDate>Mon, 08 Nov 2010 22:54:49 +0000</pubDate><guid>https://codeandrun.it/posts/2010-11-08-wcf-servicehost-e-cross-domain-policy/</guid><description>&lt;p>A volte capita di dover accedere con un’applicazione web a servizi hostati in un dominio esterno. Questo si risolve nella maggioranza dei casi impostando in maniera corretta il file &lt;code>[clientaccesspolicy.xml](http://msdn.microsoft.com/en-us/library/cc197955(VS.95).aspx &amp;quot;clientaccesspolicy&amp;quot;).&lt;/code>&lt;/p>
@@ -468,47 +360,20 @@ loading="lazy"
 &lt;p>Abbiamo raggiunto Cannero e quindi Cannobio dove ci siamo fermati per una tappa, purtroppo l’unica, del nostro viaggio; durante la passeggiata per il paese, mentre mangiavamo un meritato gelato, siamo rimasti colpiti da quanto poco siano valorizzati alcuni luoghi di questi territori che, a nostro avviso, potrebbero avere un grosso fascino turistico. Un esempio sono i &lt;a href="http://www.castellidicannero.com/" title="castelli di cannero" target="_blank" rel="noreferrer">castelli di Cannero&lt;/a>: nonostante la bellezza del posto non si trova nemmeno un piccolo posteggio dove potersi fermare per ammirare il paesaggio o fare una foto.. mah.&lt;/p>
 &lt;p>Proseguendo abbiamo sconfinato in svizzera e siamo giunti fino a Brissago, Ascona e, infine, Locarno dove é iniziato il viaggio di ritorno verso casa sulla sponda lombarda.&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/03062007013_hu64104b491c8bc44bc1ac2a57094ae7ee_45681_330x0_resize_q75_box.jpg 330w,/images/2021/08/03062007013_hu64104b491c8bc44bc1ac2a57094ae7ee_45681_660x0_resize_q75_box.jpg 660w,/images/2021/08/03062007013_hu64104b491c8bc44bc1ac2a57094ae7ee_45681_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/03062007013_hu64104b491c8bc44bc1ac2a57094ae7ee_45681_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/03062007013_hu64104b491c8bc44bc1ac2a57094ae7ee_45681_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/03062007013.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Arrivati a Luino abbiamo trovato uno stupendo &lt;a href="http://www3.varesenews.it/varese/articolo.php?id=74141" title="Arcobaleno" target="_blank" rel="noreferrer">arcobaleno&lt;/a> a salutare il nostro ritorno :-).&lt;/p>
 &lt;p>Un altro bel pomeriggio per la serie: “&lt;em>la riscoperta delle bellezze del lago Maggiore&lt;/em>” :-D&lt;/p></description></item><item><title>Migrazione ADSL</title><link>https://codeandrun.it/posts/2007-06-02-migrazione-adsl/</link><pubDate>Sat, 02 Jun 2007 18:31:14 +0000</pubDate><guid>https://codeandrun.it/posts/2007-06-02-migrazione-adsl/</guid><description>&lt;p>Ebbene si&amp;rsquo;, dopo mille peripezie il mio rapporto conflittuale con Tele2 è finalmente chiuso. Ora non resta che aspettare il momento in cui mamma Telecom si deciderà a ridarmi la mia amata portante…. dicono metà settmana prossima, speriamo!&lt;/p>
 &lt;p>Per il momento: viva il semiterno 56K!! ;-)&lt;/p></description></item><item><title>E la Mery si sposaaaa....</title><link>https://codeandrun.it/posts/2007-05-25-e-la-mery-si-sposaaaa/</link><pubDate>Fri, 25 May 2007 00:17:23 +0000</pubDate><guid>https://codeandrun.it/posts/2007-05-25-e-la-mery-si-sposaaaa/</guid><description>&lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/19052007002_hu0e722c0fe61e8b4045c6eb9017e9c239_57102_330x0_resize_q75_box.jpg 330w,/images/2021/08/19052007002_hu0e722c0fe61e8b4045c6eb9017e9c239_57102_660x0_resize_q75_box.jpg 660w,/images/2021/08/19052007002_hu0e722c0fe61e8b4045c6eb9017e9c239_57102_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/19052007002_hu0e722c0fe61e8b4045c6eb9017e9c239_57102_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/19052007002_hu0e722c0fe61e8b4045c6eb9017e9c239_57102_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/19052007002.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>:-) Un po&amp;rsquo; in ritardo, come sempre, ecco le immagini del matrimonio della &lt;em>nostra&lt;/em> Mery!&lt;/p>
 &lt;p>Tutti presenti, tranne gli impossibilitati per cause di forza maggiore (leggi “ballerine brasiliane” :-) ), tutti eleganti e tutti pronti a ricoprire gli sposi di riso… non avranno davvero pensato che ci saremmo accontentati di quei coni microscopici con dentro 3 chicchi!! Per fortuna hanno rimediato all’incresciosa situazione Teo e Fabio: 3 Kg di riso (di cui 1 versato direttamente nel coppino della sposa) sono stati un’ottima soluzione! ;-)&lt;/p>
 &lt;p>Ora il Davidino pensa di avercela portata via ma é tutta una facciata :-), ormai é una di noi…… ha pure bevuto lo spumante sui gradini della chiesa… non c’é più speranza: grandissima Mery!!&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/19052007007_huddc54adefb742937cfac7b6793e51c2b_84006_330x0_resize_q75_box.jpg 330w,/images/2021/08/19052007007_huddc54adefb742937cfac7b6793e51c2b_84006_660x0_resize_q75_box.jpg 660w,/images/2021/08/19052007007_huddc54adefb742937cfac7b6793e51c2b_84006_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/19052007007_huddc54adefb742937cfac7b6793e51c2b_84006_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/19052007007_huddc54adefb742937cfac7b6793e51c2b_84006_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/19052007007.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>A parte gli scherzi, tantissimi auguri alla Santa Donna e al Davidino!!&lt;/p></description></item><item><title>The long tail</title><link>https://codeandrun.it/posts/2007-05-05-the-long-tail/</link><pubDate>Sat, 05 May 2007 16:09:09 +0000</pubDate><guid>https://codeandrun.it/posts/2007-05-05-the-long-tail/</guid><description>&lt;p>… &lt;a href="http://www.amazon.com/Long-Tail-Future-Business-Selling/dp/1401302378" title="The long tail" target="_blank" rel="noreferrer">Why the Future of Business Is Selling Less of More&lt;/a>.&lt;/p>
@@ -523,16 +388,7 @@ loading="lazy"
 &lt;p>Letto su &lt;a href="http://www.downloadblog.it/post/3856/google-vs-dio" target="_blank" rel="noreferrer">downloadblog&lt;/a>&lt;/p></description></item><item><title>Pomeriggio sulla sponda ricca</title><link>https://codeandrun.it/posts/2007-04-24-pomeriggio-sulla-sponda-ricca/</link><pubDate>Tue, 24 Apr 2007 01:38:48 +0000</pubDate><guid>https://codeandrun.it/posts/2007-04-24-pomeriggio-sulla-sponda-ricca/</guid><description>&lt;p>Domenica pomeriggio siamo andati a fare un giro sulla sponda ovest; del Lago Maggiore ovviamente :-) . Dicono sia la sponda ricca ed in effetti, vedendo le mega ville, i parchi e le spiagge private, non stento a crederci. Devo proprio dire che sono dei bellissimi posti che, nonostante siano a due passi da casa mia, ho sempre visitato poco.&lt;/p>
 &lt;p>Siamo partiti da Arona e abbiamo fatto una breve tappa, con salita, al &lt;a href="http://it.wikipedia.org/wiki/Colosso_di_San_Carlo_Borromeo" title="San Carlone" target="_blank" rel="noreferrer">San Carlone&lt;/a>. Non ero mai arrivato prima d’ora fino in cima… bello, strano, un po&amp;rsquo; claustrofobico; vi metto una foto anche se non rende molto la sensazione di stare li&amp;rsquo; dentro (soprattutto il caldo con il sole in una statua di metallo nero!)&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/22042007003_hud91351a0725bc39fd356395fca09164e_37968_330x0_resize_q75_box.jpg 330w,/images/2021/08/22042007003_hud91351a0725bc39fd356395fca09164e_37968_660x0_resize_q75_box.jpg 660w,/images/2021/08/22042007003_hud91351a0725bc39fd356395fca09164e_37968_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/22042007003_hud91351a0725bc39fd356395fca09164e_37968_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/22042007003_hud91351a0725bc39fd356395fca09164e_37968_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/22042007003.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Abbiamo poi continuato la passeggiata lungo la strada che costeggia il lago fino a Stresa. Sulla costa ci sono delle ville veramente stupende, con parchi che in questo periodo hanno dei colori fantastici… dei posti davvero da favola; ma chissà quanto costa una casa lì?? Peccato non aver fatto nemmeno una foto… la macchina digitale scalcinata ha deciso di fare un po&amp;rsquo; i capricci :-(&lt;/p>
@@ -541,30 +397,12 @@ loading="lazy"
 &lt;p>Proprio un bel giro che, sicuramente, si puo&amp;rsquo; riproporre altre volte con piu&amp;rsquo; tempo a disposizione, magari fermandosi a visitare &lt;a href="http://www.villataranto.it" title="Villa Taranto" target="_blank" rel="noreferrer">villa Taranto&lt;/a> o &lt;a href="http://www.parcozoopallavicino.it/" title="Villa Pallavicino" target="_blank" rel="noreferrer">villa Pallavicino&lt;/a> .&lt;/p></description></item><item><title>12 chilometri in amicizia</title><link>https://codeandrun.it/posts/2007-04-22-12-chilometri-in-amicizia/</link><pubDate>Sun, 22 Apr 2007 23:27:47 +0000</pubDate><guid>https://codeandrun.it/posts/2007-04-22-12-chilometri-in-amicizia/</guid><description>&lt;p>Dopo un lungo periodo di assenza da questo blog, eccomi a raccontare la &lt;em>camminata dell’amicizia 2007.&lt;/em>&lt;/p>
 &lt;p>Come ogni anno a Bosisio Parini (non preoccupatevi se non lo conoscete, non l’avevo mai sentito nemmeno io… :-) ) viene organizzata l’ormai famosa camminata dell’amicizia per raccogliere fondi in favore dell’associazione &lt;a href="http://www.lanostrafamiglia.it/" title="La nostra famiglia" target="_blank" rel="noreferrer">La Nostra Famiglia&lt;/a>. Come potevamo non partecipare?? Non me l’aspettavo proprio… una folla incredibile di persone!! Si parla di 30.000 partecipanti ed in effetti sembravano davvero tanti!&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/15042007_huc6e4f512fc8301cb8c075e5e92e6dc88_85450_330x0_resize_q75_box.jpg 330w,/images/2021/08/15042007_huc6e4f512fc8301cb8c075e5e92e6dc88_85450_660x0_resize_q75_box.jpg 660w,/images/2021/08/15042007_huc6e4f512fc8301cb8c075e5e92e6dc88_85450_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/15042007_huc6e4f512fc8301cb8c075e5e92e6dc88_85450_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/15042007_huc6e4f512fc8301cb8c075e5e92e6dc88_85450_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/15042007.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>A parte la “levataccia” domenicale che non prendo mai di buon grado :-P é stata proprio una bella mattinata. Avendo preso alla lettera la denominazione “camminata” abbiamo percorso i 12 chilometri in poco meno di 3 ore ;-) (a dire il vero con qualche sosta a salutare parenti e conoscenti e con il tratto agiuntivo dalla partenza fin nei meandri di Rogeno a casa di Laura); il vincitore invece ha impiegato 40 minuti… ma non era una camminata???? Se ce l’avessero detto prima… :-P&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/15042007003_hu1ea160cd0c22d4ee7652990f3f32c138_91406_330x0_resize_q75_box.jpg 330w,/images/2021/08/15042007003_hu1ea160cd0c22d4ee7652990f3f32c138_91406_660x0_resize_q75_box.jpg 660w,/images/2021/08/15042007003_hu1ea160cd0c22d4ee7652990f3f32c138_91406_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/15042007003_hu1ea160cd0c22d4ee7652990f3f32c138_91406_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/15042007003_hu1ea160cd0c22d4ee7652990f3f32c138_91406_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/15042007003.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Come vedete non eravamo particolarmente affaticati.. anzi, c’é stato pure tempo per fare qualche sfilata di moda con gli occhiali fashion!!&lt;/p>
@@ -576,77 +414,32 @@ loading="lazy"
 &lt;p>N.B. fare un backup dei propri bookmark prima di eseguire lo script è da ritenersi obbligatorio soprattutto perché lo script non ha la pretesa di effettuare un’integrazione tra i link locali e quelli di simpy ma unicamente di creare i dati per un file html contenente i SOLI bookamrk provenienti da simpy.&lt;/p></description></item><item><title>I miei primi 3000</title><link>https://codeandrun.it/posts/2006-10-29-i-miei-primi-3000/</link><pubDate>Sun, 29 Oct 2006 01:37:22 +0000</pubDate><guid>https://codeandrun.it/posts/2006-10-29-i-miei-primi-3000/</guid><description>&lt;p>Con un po&amp;rsquo; di ritardo eccomi a raccontarvi della mia “impresa sportiva”: la salita sulla cima del monte Blinnenhorn (3374 metri), in val Formazza.&lt;/p>
 &lt;p>La comitiva (cinque persone: Io, Laura, Sara, Sara-2, Davide) è partita sabato mattina dal lago Morasco (1850 metri). Zaino in spalla abbiamo iniziato la salita;&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="933"
-srcset="https://codeandrun.it/images/2021/08/Blinnenhorn-010_hu6e287be426117ef6f906a7afc2a151f1_102850_330x0_resize_q75_box.jpg 330w,/images/2021/08/Blinnenhorn-010_hu6e287be426117ef6f906a7afc2a151f1_102850_660x0_resize_q75_box.jpg 660w,/images/2021/08/Blinnenhorn-010_hu6e287be426117ef6f906a7afc2a151f1_102850_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/Blinnenhorn-010_hu6e287be426117ef6f906a7afc2a151f1_102850_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/Blinnenhorn-010_hu6e287be426117ef6f906a7afc2a151f1_102850_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/Blinnenhorn-010.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>destinazione: rifugio Claudio e bruno, quota 2710 dove avremmo passato la notte. La salita, dopo uno strappo iniziale, non è stata particolarmente faticosa e, tra un avvistamento di marmotte e l’altro siamo arrivati fino al lago Sabbione dove abbiamo fatto una breve sosta mangereccia :-).&lt;/p>
 &lt;p>Ripresa la salita, dopo 3 ore circa di cammino, siamo giunti al rifugio giusto in tempo per fare qualche foto prima dei cena. Dopo l’abbondante polenta con spezzatino e il terrificante budino (che NESSUNO ha ancora capito cosa contenesse) siamo stati intrattenuti da alcuni simpatici signori che hanno rallegrato la nostra serata con le più varie canzoni: da “bella ciao” a “il ragazzo della via gluch”, passando per Battisti e Modugno: un vero e proprio concerto! Finita la performance canora, tutti a letto in vista della levataccia del giorno dopo. Peccato che nessuno avesse fatto i conti con un simpatico topastro che nel bel mezzo della notte ha deciso di passeggiare allegramente nell’intercapedine tra le perline della nostra stanza gettando nel panico la povera Sara-2 che, giustamente, ha voluto condividere il suo terrore con tutti noi!!&lt;/p>
 &lt;p>6:00 - sveglia, colazione e… pronti a partire per la rampa finale! La salita è più impegnativa del giorno precedente e si passa molto vicino al ghiacciaio; veramente spettacolare trovarsi lì in mezzo, tra montagne e neve!&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/Blinnenhorn-030_hu09dc6b2b3afe98c0bc0ca00c4b4629e3_21100_330x0_resize_q75_box.jpg 330w,/images/2021/08/Blinnenhorn-030_hu09dc6b2b3afe98c0bc0ca00c4b4629e3_21100_660x0_resize_q75_box.jpg 660w,/images/2021/08/Blinnenhorn-030_hu09dc6b2b3afe98c0bc0ca00c4b4629e3_21100_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/Blinnenhorn-030_hu09dc6b2b3afe98c0bc0ca00c4b4629e3_21100_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/Blinnenhorn-030_hu09dc6b2b3afe98c0bc0ca00c4b4629e3_21100_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/Blinnenhorn-030.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>L’ultimo tratto è davvero ripido e infatti il gruppo si allunga un po&amp;rsquo; ma alla fine tutti arriviamo in vetta!!&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="933"
-srcset="https://codeandrun.it/images/2021/08/blinnenhorn-095_hu651a81718079eb6db747fef087b0d5a2_66698_330x0_resize_q75_box.jpg 330w,/images/2021/08/blinnenhorn-095_hu651a81718079eb6db747fef087b0d5a2_66698_660x0_resize_q75_box.jpg 660w,/images/2021/08/blinnenhorn-095_hu651a81718079eb6db747fef087b0d5a2_66698_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/blinnenhorn-095_hu651a81718079eb6db747fef087b0d5a2_66698_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/blinnenhorn-095_hu651a81718079eb6db747fef087b0d5a2_66698_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/blinnenhorn-095.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Un panorama mozzafiato a 360°: montagne ovunque, ma noi siamo sulla più alta ;-)!! Giusto il tempo delle foto di rito e di sgranocchiare qualcosa che ci tuffiamo in discesa; ci aspetta un dislivello notevole: 1500 metri.&lt;/p>
 &lt;p>Già un po&amp;rsquo; stanchi per la salita, la discesa sembra non finire mai. Scegliamo di non fare la stessa strada dell’andata e passiamo per il rifugio 3A dove ci fermiamo per un brave sosta. Ripartiamo e subito ci infiliamo in un canalone che si rivela in realtà parecchio insidioso con grossi ciottoli e fondo ghiacciato nel centro. Con non pochi patimenti arriviamo sul Piano dei camosci dove tiriamo un po&amp;rsquo; il fiato e facciamo riposare le ginocchia che ormai risentono un pochino dei 1000 metri di discesa passati. Ultimo sforzo ed eccoci in vista del lago Morasco e delle nostre auto! Alla fine siamo tutti (bè, tranne Davide, la “guida”) stanchi ma contenti. Un giro davvero bello e poi… il primo 3000 non si scorda mai ;-)!!&lt;/p></description></item><item><title>Di ritorno dalle vacanze</title><link>https://codeandrun.it/posts/2006-08-26-di-ritorno-dalle-vacanze/</link><pubDate>Sat, 26 Aug 2006 03:56:05 +0000</pubDate><guid>https://codeandrun.it/posts/2006-08-26-di-ritorno-dalle-vacanze/</guid><description>&lt;p>Purtroppo anche quest’anno le vacanze sono finite; non che adesso io debba lavorare, sono ancora senza un’occupazione :-(, però l’essere lontani da casa, bè, è tutta un’altra cosa. Anche perché qui alla fine c’è sempre qualcosa da fare!&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/sardegna-121_huaec21bee26ce50978d12611ad942c186_70832_330x0_resize_q75_box.jpg 330w,/images/2021/08/sardegna-121_huaec21bee26ce50978d12611ad942c186_70832_660x0_resize_q75_box.jpg 660w,/images/2021/08/sardegna-121_huaec21bee26ce50978d12611ad942c186_70832_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/sardegna-121_huaec21bee26ce50978d12611ad942c186_70832_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/sardegna-121_huaec21bee26ce50978d12611ad942c186_70832_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/sardegna-121.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Ma parliamo di queste ferie… bellissime!! Sono stato in sardegna, più precisamente sulla costa orientale, due settimane. La prima settimana è stata faticosa… ci siamo avventurati sul supramonte di baunei in trekking! Partendo da Santa Maria Navarrese, con una quindicina di chilometri e circa 800 metri di dislivello, siamo arrivati fino ad un ovile che è stato il nostro accampamento per i primi tre giorni. Da qui ogni giorno, camminando sempre per una decina di chilometri, si è raggiunta una cala diversa: Cala Goloritzè, Cala Mariolu fino ad arrivare a Cala Sisine dove abbiamo pernottato per il quarto giorno. Il giorno successivo ci siamo spostati verso Cala Luna pernottando anche lì all’interno di una grotta. Infine l’ultimo giorno (una tappa leggera…. vero Paolo?!?!) siamo arrivati alla nostra destinazione: Cala Gonone!!&lt;/p>
 &lt;p>La seconda settimana invece in campeggio a Tortolì: puro relax, condito da qualche escursione “nuragica” :-)&lt;/p>
 &lt;p>Ho fatto l’upload di qualche foto aspettando di avere quelle di tutti i compagni di avventura così potrò fare un resoconto migliore ;-)!!&lt;/p></description></item><item><title>Laurea!!!</title><link>https://codeandrun.it/posts/2006-08-01-laurea/</link><pubDate>Tue, 01 Aug 2006 16:47:07 +0000</pubDate><guid>https://codeandrun.it/posts/2006-08-01-laurea/</guid><description>&lt;p>[&lt;/p>
 &lt;p>
-&lt;figure>
-&lt;img
-class="mx-auto my-0 rounded-md"
-width="700"
-height="525"
-srcset="https://codeandrun.it/images/2021/08/alex_tesi_huc71b40eef537ee5735e8b06ecbe94979_78197_330x0_resize_q75_box.jpg 330w,/images/2021/08/alex_tesi_huc71b40eef537ee5735e8b06ecbe94979_78197_660x0_resize_q75_box.jpg 660w,/images/2021/08/alex_tesi_huc71b40eef537ee5735e8b06ecbe94979_78197_1024x0_resize_q75_box.jpg 1024w,/images/2021/08/alex_tesi_huc71b40eef537ee5735e8b06ecbe94979_78197_1320x0_resize_q75_box.jpg 2x"
-src="https://codeandrun.it/images/2021/08/alex_tesi_huc71b40eef537ee5735e8b06ecbe94979_78197_660x0_resize_q75_box.jpg"
-alt="image"
-loading="lazy"
-/>
+&lt;figure>&lt;img src="https://codeandrun.it/images/2021/08/alex_tesi.jpg" alt="image" class="mx-auto my-0 rounded-md"/>
 &lt;/figure>
 &lt;/p>
 &lt;p>Dottore… dottore… dottore del buco del …. :-D&lt;/p>
