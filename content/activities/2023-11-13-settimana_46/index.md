@@ -1,5 +1,5 @@
 ---
-title: Settimana 47
+title: Settimana 46
 topics: ['sport', 'running']
 categories:
   - Sport
