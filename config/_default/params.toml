@@ -18,8 +18,8 @@ timeout      = 300000
 # robots = ""
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, custom
-
+  layout = "hybrid" # valid options: basic, hamburger, custom
+  showTitle = false
 [footer]
   showCopyright = true
   showThemeAttribution = true
@@ -44,7 +44,7 @@ timeout      = 300000
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = true
   showWordCount = false
   showComments = true
