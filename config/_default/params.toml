@@ -9,6 +9,8 @@ colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
+showBreadcrumbs = true
+
 enableSearch = true
 enableCodeCopy = false
 
@@ -20,6 +22,7 @@ timeout      = 300000
 [header]
   layout = "hybrid" # valid options: basic, hamburger, custom
   showTitle = false
+
 [footer]
   showCopyright = true
   showThemeAttribution = true
@@ -51,7 +54,7 @@ timeout      = 300000
   sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = true
   showTableOfContents = false
   groupByYear = true
