@@ -6,9 +6,8 @@ categories:
 date: 2023-12-11 17:15:48
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟢,🔴,🟢]
-trainingFeelings: [🫤,🙂,😀]
-draft: true
+trainingTypes: [🟢,🔴,🟢,🟡]
+trainingFeelings: [🫤,🙂,😀,😀]
 ---
 Settimana dopo le ferie!
 <!--more--> 
@@ -42,3 +41,13 @@ Primo rosso con il nuovo VDOT e dopo le ferie. Abbastanza intenso ma mi sembra d
 {{< figure src="20231215-activity-map.png" title="map" >}}
 
 {{< strava id=10384023466 embedId=546e49c6d0c9b74a117223a5e940bc02d5243f7c >}}
+
+## Quarta uscita
+10x(500Z3 + 500Z2).
+Mi è piaciuto molto questo allenamento e credo che con il nuovo VDOT i passi siano molto meglio di prima. Son riuscito avere anche la frequenza in Z3 abbastanza costantemente nella parte veloce e a tornare in Z2 in quella lenta.
+C'è stato un super picco di frequenza nel riscaldamento che non so a cosa sia dovuto.
+Ma davvero la Z3 sarebbe il ritmo maratona?? Se così fosse ci sarebbe da festeggiare!!
+
+{{< figure src="20231217-activity-map.png" title="map" >}}
+
+{{< strava id=10393175802 embedId=9938669578d9be20d979643a7e147b5d44a4b44c >}}
