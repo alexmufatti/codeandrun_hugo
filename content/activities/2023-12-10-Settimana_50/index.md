@@ -3,7 +3,7 @@ title: Settimana 50
 topics: ['sport', 'running']
 categories:
   - Sport
-date: 2023-12-11 17:15:48
+date: 2023-12-10 17:15:48
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
 trainingTypes: [🟢,🔴,🟢,🟡]
