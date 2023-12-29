@@ -7,7 +7,7 @@
 
 colorScheme = "codeandrun"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 showBreadcrumbs = true
 
@@ -26,7 +26,7 @@ timeout      = 300000
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
