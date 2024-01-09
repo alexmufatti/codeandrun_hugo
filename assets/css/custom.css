@@ -37,3 +37,11 @@ header > h1:hover {
     display: flex;
     justify-content: center;
 }
+
+article .feature img {
+    border: rgba(var(--color-neutral),1) 2px solid;
+}
+
+article:hover .feature img {
+    border-color: rgba(var(--color-primary-500),1);
+}
