@@ -25,4 +25,8 @@ googleAnalytics = "G-2LGG1T7GGB"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[params]
+# Enable the darkmode toggle in header
+  darkModeToggle = true
+  ascentColor = "bg-amber-200"
 
