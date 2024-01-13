@@ -6,8 +6,8 @@ categories:
 date: 2024-01-01 18:31:21
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟡,🟡,🟡,🟡]
-trainingFeelings: [😭,😭,😭,😭]
+trainingTypes: [🟢,🔴,🟢,🟡]
+trainingFeelings: [🙂,🙂,🙂,😭]
 ---
 Ultima settimana di vacanza in Italia!
 <!--more--> 
