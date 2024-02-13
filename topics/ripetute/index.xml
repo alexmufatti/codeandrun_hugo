@@ -4,17 +4,17 @@ on Code And Run</description><generator>Hugo -- gohugo.io</generator><language>i
 &lt;picture
 >
 &lt;source
-srcset="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_330x0_resize_q75_h2_box.webp 330w,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_660x0_resize_q75_h2_box.webp 660w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1024x0_resize_q75_h2_box.webp 1024w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1320x0_resize_q75_h2_box.webp 2x "
-src="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_660x0_resize_q75_h2_box.webp"
+srcset="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_330x0_resize_q75_h2_box.webp 330w,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_660x0_resize_q75_h2_box.webp 660w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1024x0_resize_q75_h2_box.webp 1024w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1320x0_resize_q75_h2_box.webp 1320w "
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596.jpg"
 width="1920"
 height="842"
 loading="lazy" decoding="async"
-srcset="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_330x0_resize_q75_box.jpg 330w,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_660x0_resize_q75_box.jpg 660w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1024x0_resize_q75_box.jpg 1024w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1320x0_resize_q75_box.jpg 2x "
 src="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_660x0_resize_q75_box.jpg"
+srcset="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_330x0_resize_q75_box.jpg 330w,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_660x0_resize_q75_box.jpg 660w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1024x0_resize_q75_box.jpg 1024w ,/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa639c41fd4c3b09302994_462611_1320x0_resize_q75_box.jpg 1320w "
+sizes="100vw"
 />
 &lt;/picture>
 &lt;/figure>
@@ -24,11 +24,11 @@ src="https://codeandrun.it/activities/2022-03-22-3x3000/IMG_5596_hu697ad7ad16aa6
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-22-3x3000/20220322-activity-map_featured_hu82ec3fc9453895a7c5472682d49998b4_75973_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-22-3x3000/20220322-activity-map_featured_hu82ec3fc9453895a7c5472682d49998b4_75973_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-22-3x3000/20220322-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"
@@ -44,11 +44,11 @@ src="https://codeandrun.it/activities/2022-03-22-3x3000/20220322-activity-map_fe
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-20-3x5000_rec_1000/20220320-activity-map_featured_hu216bc5162134257ff318707a9e43373e_92298_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-20-3x5000_rec_1000/20220320-activity-map_featured_hu216bc5162134257ff318707a9e43373e_92298_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-20-3x5000_rec_1000/20220320-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"
@@ -62,17 +62,17 @@ src="https://codeandrun.it/activities/2022-03-20-3x5000_rec_1000/20220320-activi
 &lt;picture
 >
 &lt;source
-srcset="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_330x0_resize_q75_h2_box.webp 330w,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_660x0_resize_q75_h2_box.webp 660w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1024x0_resize_q75_h2_box.webp 1024w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1320x0_resize_q75_h2_box.webp 2x "
-src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_660x0_resize_q75_h2_box.webp"
+srcset="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_330x0_resize_q75_h2_box.webp 330w,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_660x0_resize_q75_h2_box.webp 660w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1024x0_resize_q75_h2_box.webp 1024w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1320x0_resize_q75_h2_box.webp 1320w "
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584.jpg"
 width="1440"
 height="1080"
 loading="lazy" decoding="async"
-srcset="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_330x0_resize_q75_box.jpg 330w,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_660x0_resize_q75_box.jpg 660w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1024x0_resize_q75_box.jpg 1024w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1320x0_resize_q75_box.jpg 2x "
 src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_660x0_resize_q75_box.jpg"
+srcset="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_330x0_resize_q75_box.jpg 330w,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_660x0_resize_q75_box.jpg 660w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1024x0_resize_q75_box.jpg 1024w ,/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/IMG_5584_huf327929f691e80be63f0fd80214f679d_424006_1320x0_resize_q75_box.jpg 1320w "
+sizes="100vw"
 />
 &lt;/picture>
 &lt;/figure>
@@ -80,11 +80,11 @@ src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/20220315-activity-map_featured_hu1c5a92a9097b203021a727f1b19f6f54_73823_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/20220315-activity-map_featured_hu1c5a92a9097b203021a727f1b19f6f54_73823_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_e_abortito/20220315-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"
@@ -98,11 +98,11 @@ src="https://codeandrun.it/activities/2022-03-15-10x200_2x2000_4x500_accorciato_
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-08-2000_6x1000_recupero_attivo/20220308-activity-map_featured_hua796c922c0006d813f91a104321e69d3_66286_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-08-2000_6x1000_recupero_attivo/20220308-activity-map_featured_hua796c922c0006d813f91a104321e69d3_66286_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-08-2000_6x1000_recupero_attivo/20220308-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"
@@ -116,11 +116,11 @@ src="https://codeandrun.it/activities/2022-03-08-2000_6x1000_recupero_attivo/202
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-01-3x600_3x400_3x200_recupero_attivo/20220301-activity-map_featured_hu35796b5a0738e61ad6168bc4e92d5066_76527_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-01-3x600_3x400_3x200_recupero_attivo/20220301-activity-map_featured_hu35796b5a0738e61ad6168bc4e92d5066_76527_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-01-3x600_3x400_3x200_recupero_attivo/20220301-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"

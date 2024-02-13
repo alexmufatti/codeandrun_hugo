@@ -4,11 +4,11 @@ on Code And Run</description><generator>Hugo -- gohugo.io</generator><language>i
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-04-test_5k_21_04/20220304-activity-map_featured_hu19654454dcce64f8a7fdc9e3f93eaec3_75217_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-04-test_5k_21_04/20220304-activity-map_featured_hu19654454dcce64f8a7fdc9e3f93eaec3_75217_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-04-test_5k_21_04/20220304-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"

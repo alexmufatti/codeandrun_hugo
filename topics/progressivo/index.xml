@@ -6,11 +6,11 @@ on Code And Run</description><generator>Hugo -- gohugo.io</generator><language>i
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-23-6_6_con_fatica/20220323-activity-map_featured_hu4df15b843769598f776c116bf0da5ba6_77233_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-23-6_6_con_fatica/20220323-activity-map_featured_hu4df15b843769598f776c116bf0da5ba6_77233_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-23-6_6_con_fatica/20220323-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"
@@ -24,11 +24,11 @@ src="https://codeandrun.it/activities/2022-03-23-6_6_con_fatica/20220323-activit
 &lt;picture
 >
 &lt;source
-src="https://codeandrun.it/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_640x600_resize_q75_h2_box_3.webp"
+srcset="https://codeandrun.it/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured_hu9e99eb618aebb18caea45fef58b07a51_91337_640x600_resize_q75_h2_box_3.webp"
+sizes="100vw"
 type="image/webp"
 />
 &lt;img
-src="https://codeandrun.it/activities/2022-03-14-lungo_progressivo/20220314-activity-map_featured.png"
 width="640"
 height="600"
 loading="lazy" decoding="async"
