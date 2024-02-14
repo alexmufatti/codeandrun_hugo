@@ -1,5 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Code and run on Code And Run</title><link>https://codeandrun.it/</link><description>Recent content in Code and run
-on Code And Run</description><generator>Hugo -- gohugo.io</generator><language>it</language><copyright>&lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />&lt;/a>&lt;br />This work is licensed under a &lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a>.</copyright><lastBuildDate>Mon, 05 Feb 2024 18:22:17 +0000</lastBuildDate><atom:link href="https://codeandrun.it/index.xml" rel="self" type="application/rss+xml"/><item><title>Running</title><link>https://codeandrun.it/running/</link><pubDate>Tue, 13 Feb 2024 16:10:40 +0200</pubDate><guid>https://codeandrun.it/running/</guid><description/></item><item><title>Settimana 6</title><link>https://codeandrun.it/activities/2024-02-11-settimana_6/</link><pubDate>Mon, 05 Feb 2024 18:22:17 +0000</pubDate><guid>https://codeandrun.it/activities/2024-02-11-settimana_6/</guid><description>&lt;p>Settimana di &lt;em>tapering&lt;/em> pre Mezza di Barcellona!!&lt;/p>
+on Code And Run</description><generator>Hugo -- gohugo.io</generator><language>it</language><copyright>&lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />&lt;/a>&lt;br />This work is licensed under a &lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a>.</copyright><lastBuildDate>Mon, 05 Feb 2024 18:22:17 +0000</lastBuildDate><atom:link href="https://codeandrun.it/index.xml" rel="self" type="application/rss+xml"/><item><title>Running</title><link>https://codeandrun.it/running/</link><pubDate>Tue, 13 Feb 2024 16:10:40 +0200</pubDate><guid>https://codeandrun.it/running/</guid><description>&lt;h1 id="statistiche" class="relative group">Statistiche &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#statistiche" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Anno&lt;/th>
+&lt;th style="text-align:right">Km. Anno&lt;/th>
+&lt;th style="text-align:right">D+&lt;/th>
+&lt;th style="text-align:right">Num&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2024&lt;/td>
+&lt;td style="text-align:right">342,05 km&lt;/td>
+&lt;td style="text-align:right">998 m&lt;/td>
+&lt;td style="text-align:right">27&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2023&lt;/td>
+&lt;td style="text-align:right">1815,09 km&lt;/td>
+&lt;td style="text-align:right">6657 m&lt;/td>
+&lt;td style="text-align:right">159&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022&lt;/td>
+&lt;td style="text-align:right">1928,13 km&lt;/td>
+&lt;td style="text-align:right">6106 m&lt;/td>
+&lt;td style="text-align:right">163&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2021&lt;/td>
+&lt;td style="text-align:right">1237,63 km&lt;/td>
+&lt;td style="text-align:right">24230 m&lt;/td>
+&lt;td style="text-align:right">106&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td style="text-align:right">1757,70 km&lt;/td>
+&lt;td style="text-align:right">21511 m&lt;/td>
+&lt;td style="text-align:right">146&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2019&lt;/td>
+&lt;td style="text-align:right">1804,75 km&lt;/td>
+&lt;td style="text-align:right">27469 m&lt;/td>
+&lt;td style="text-align:right">158&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2018&lt;/td>
+&lt;td style="text-align:right">2036,92 km&lt;/td>
+&lt;td style="text-align:right">21367 m&lt;/td>
+&lt;td style="text-align:right">162&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="record-personali" class="relative group">Record personali &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#record-personali" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Distanza&lt;/th>
+&lt;th style="text-align:right">Tempo&lt;/th>
+&lt;th>Dove&lt;/th>
+&lt;th>Anno&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>5K&lt;/td>
+&lt;td style="text-align:right">19:20&lt;/td>
+&lt;td>Jean Bouin&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10K&lt;/td>
+&lt;td style="text-align:right">39:33&lt;/td>
+&lt;td>Jean Bouin&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mezza Maratona&lt;/td>
+&lt;td style="text-align:right">1:25:54&lt;/td>
+&lt;td>Mitja Marató Barcelona&lt;/td>
+&lt;td>2024&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Maratona&lt;/td>
+&lt;td style="text-align:right">3:29:40&lt;/td>
+&lt;td>Maraton Valencia Trinidad Alfonso&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Settimana 6</title><link>https://codeandrun.it/activities/2024-02-11-settimana_6/</link><pubDate>Mon, 05 Feb 2024 18:22:17 +0000</pubDate><guid>https://codeandrun.it/activities/2024-02-11-settimana_6/</guid><description>&lt;p>Settimana di &lt;em>tapering&lt;/em> pre Mezza di Barcellona!!&lt;/p>
 &lt;h2 id="prima-uscita" class="relative group">Prima uscita &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#prima-uscita" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h2>&lt;p>10km Z2. Tutto tranquillo, una buona Z2 nonostante la stanchezza un po&amp;rsquo; latente degli ultimi giorni.&lt;/p>
 &lt;figure>
 &lt;picture
