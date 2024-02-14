@@ -16,6 +16,11 @@
   weight = 5
 
 [[main]]
+name = "Running"
+pageRef = "running"
+weight = 7
+
+[[main]]
   name = "Attività"
   pageRef = "activities"
   weight = 10
