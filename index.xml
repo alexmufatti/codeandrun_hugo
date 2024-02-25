@@ -167,140 +167,110 @@ Link all’attività&lt;/a>
 &lt;thead>
 &lt;tr>
 &lt;th>Anno&lt;/th>
-&lt;th style="text-align:right">Distanza&lt;/th>
-&lt;th style="text-align:right">Dislivello&lt;/th>
-&lt;th style="text-align:right">Attività&lt;/th>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
+&lt;th>Distanza&lt;/th>
+&lt;th>Dislivello&lt;/th>
+&lt;th>Attività&lt;/th>
+&lt;th>Tempo&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
 &lt;td>2024&lt;/td>
-&lt;td style="text-align:right">342 km&lt;/td>
-&lt;td style="text-align:right">1474 m&lt;/td>
-&lt;td style="text-align:right">27&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>447 km&lt;/td>
+&lt;td>1756 m&lt;/td>
+&lt;td>34&lt;/td>
+&lt;td>35h 38m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2023&lt;/td>
-&lt;td style="text-align:right">1815 km&lt;/td>
-&lt;td style="text-align:right">8891 m&lt;/td>
-&lt;td style="text-align:right">159&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>1815 km&lt;/td>
+&lt;td>8891 m&lt;/td>
+&lt;td>159&lt;/td>
+&lt;td>154h 5m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2022&lt;/td>
-&lt;td style="text-align:right">1928 km&lt;/td>
-&lt;td style="text-align:right">7633 m&lt;/td>
-&lt;td style="text-align:right">163&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>1928 km&lt;/td>
+&lt;td>7633 m&lt;/td>
+&lt;td>163&lt;/td>
+&lt;td>157h 50m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2021&lt;/td>
-&lt;td style="text-align:right">1237 km&lt;/td>
-&lt;td style="text-align:right">25031 m&lt;/td>
-&lt;td style="text-align:right">106&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>1245 km&lt;/td>
+&lt;td>25031 m&lt;/td>
+&lt;td>107&lt;/td>
+&lt;td>116h 28m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2020&lt;/td>
-&lt;td style="text-align:right">1757 km&lt;/td>
-&lt;td style="text-align:right">19463 m&lt;/td>
-&lt;td style="text-align:right">146&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>1758 km&lt;/td>
+&lt;td>19463 m&lt;/td>
+&lt;td>146&lt;/td>
+&lt;td>144h 44m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2019&lt;/td>
-&lt;td style="text-align:right">1804 km&lt;/td>
-&lt;td style="text-align:right">20483 m&lt;/td>
-&lt;td style="text-align:right">158&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>1826 km&lt;/td>
+&lt;td>20483 m&lt;/td>
+&lt;td>158&lt;/td>
+&lt;td>155h 43m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2018&lt;/td>
-&lt;td style="text-align:right">2036 km&lt;/td>
-&lt;td style="text-align:right">21312 m&lt;/td>
-&lt;td style="text-align:right">172&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>2159 km&lt;/td>
+&lt;td>21312 m&lt;/td>
+&lt;td>172&lt;/td>
+&lt;td>183h 30m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2017&lt;/td>
-&lt;td style="text-align:right">1288 km&lt;/td>
-&lt;td style="text-align:right">17322 m&lt;/td>
-&lt;td style="text-align:right">131&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>1288 km&lt;/td>
+&lt;td>17322 m&lt;/td>
+&lt;td>131&lt;/td>
+&lt;td>115h 33m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2016&lt;/td>
-&lt;td style="text-align:right">802 km&lt;/td>
-&lt;td style="text-align:right">7935 m&lt;/td>
-&lt;td style="text-align:right">88&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>802 km&lt;/td>
+&lt;td>7935 m&lt;/td>
+&lt;td>88&lt;/td>
+&lt;td>72h 17m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2015&lt;/td>
-&lt;td style="text-align:right">681 km&lt;/td>
-&lt;td style="text-align:right">6427 m&lt;/td>
-&lt;td style="text-align:right">74&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>681 km&lt;/td>
+&lt;td>6427 m&lt;/td>
+&lt;td>74&lt;/td>
+&lt;td>59h 46m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2014&lt;/td>
-&lt;td style="text-align:right">618 km&lt;/td>
-&lt;td style="text-align:right">4048 m&lt;/td>
-&lt;td style="text-align:right">83&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>618 km&lt;/td>
+&lt;td>4048 m&lt;/td>
+&lt;td>83&lt;/td>
+&lt;td>55h 32m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2013&lt;/td>
-&lt;td style="text-align:right">210 km&lt;/td>
-&lt;td style="text-align:right">868 m&lt;/td>
-&lt;td style="text-align:right">32&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>210 km&lt;/td>
+&lt;td>868 m&lt;/td>
+&lt;td>32&lt;/td>
+&lt;td>21h 53m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2012&lt;/td>
-&lt;td style="text-align:right">233 km&lt;/td>
-&lt;td style="text-align:right">976 m&lt;/td>
-&lt;td style="text-align:right">31&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>233 km&lt;/td>
+&lt;td>976 m&lt;/td>
+&lt;td>31&lt;/td>
+&lt;td>23h 23m&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>2011&lt;/td>
-&lt;td style="text-align:right">10 km&lt;/td>
-&lt;td style="text-align:right">216 m&lt;/td>
-&lt;td style="text-align:right">2&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>10 km&lt;/td>
+&lt;td>216 m&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1h 3m&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
