@@ -9,6 +9,7 @@ places: []
 trainingTypes: [🟢,🔴,🟢,🟢,🟡]
 trainingFeelings: [🙂,🙂,🙂,🙂,😀]
 ---
+Settimana del primo lunghissimo della preparazione!
 <!--more--> 
 
 
