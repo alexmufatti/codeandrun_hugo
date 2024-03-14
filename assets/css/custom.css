@@ -44,6 +44,13 @@ article .feature img {
 
 article:hover .feature img {
     border-color: rgba(var(--color-primary-500),1);
+    transform: scale(105%);
 }
 
+.zoom {
+    transition: transform 0.5s;
+}
 
+.zoom:hover {
+
+}
