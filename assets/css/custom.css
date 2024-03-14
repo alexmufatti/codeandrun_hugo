@@ -38,19 +38,19 @@ header > h1:hover {
     justify-content: center;
 }
 
-article .feature img {
+article .feature {
     border: rgba(var(--color-neutral),1) 2px solid;
 }
 
-article:hover .feature img {
+article:hover .feature {
     border-color: rgba(var(--color-primary-500),1);
-    transform: scale(105%);
+}
+
+article:hover .feature img {
+    transform: scale(120%);
 }
 
 .zoom {
     transition: transform 0.5s;
 }
 
-.zoom:hover {
-
-}
