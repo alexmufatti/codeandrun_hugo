@@ -711,10 +711,10 @@ Link all’attività&lt;/a>
 &lt;/tbody>
 &lt;/table>
 &lt;div class="chart">
-&lt;canvas id="256413987">&lt;/canvas>
+&lt;canvas id="387951246">&lt;/canvas>
 &lt;script type="text/javascript">
 window.addEventListener("DOMContentLoaded", (event) => {
-const ctx = document.getElementById("256413987");
+const ctx = document.getElementById("387951246");
 const chart = new Chart(ctx, {
 type: 'line',
 data: {
