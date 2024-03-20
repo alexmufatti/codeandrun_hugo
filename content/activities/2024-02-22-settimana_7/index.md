@@ -9,6 +9,7 @@ places: []
 trainingTypes: [🟢,🟢,🟢]
 trainingFeelings: [🙂,🙂,🙂]
 ---
+Settimana tranquilla.
 <!--more--> 
 
 
