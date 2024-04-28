@@ -26,12 +26,12 @@ _Aggiornato il 28/04/2024 alle 15:26:17_
 
 # Record personali
 
-| Distanza       |   Tempo | Dove                              | Anno |   |
-|----------------|--------:|-----------------------------------|------|---|
-| 5K             |   18:20 | Test VDOT                         | 2024 |   |
-| 10K            |   39:33 | Jean Bouin                        | 2023 |   |
-| Mezza Maratona | 1:25:54 | Mitja Marató Barcelona            | 2024 |   |
-| Maratona       | 3:29:40 | Maraton Valencia Trinidad Alfonso | 2023 |   |
+| Distanza       |   Tempo | Dove                   | Anno |   |
+|----------------|--------:|------------------------|------|---|
+| 5K             |   18:20 | Test VDOT              | 2024 |   |
+| 10K            |   39:33 | Jean Bouin             | 2023 |   |
+| Mezza Maratona | 1:25:54 | Mitja Marató Barcelona | 2024 |   |
+| Maratona       | 3:06:11 | TCS London Marathon    | 2024 |   |
 
 {{< chart >}}
 type: 'line',
