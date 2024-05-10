@@ -36,6 +36,8 @@ header > h1:hover {
 .embed {
     display: flex;
     justify-content: center;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
 }
 
 article .feature {
