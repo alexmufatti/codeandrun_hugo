@@ -10,7 +10,7 @@ languageCode = 'it-it'
 
 enableRobotsTXT = true
 
-paginate = 10
+paginate = 12
 summaryLength = 100
 
 canonifyURLs = true
@@ -25,8 +25,4 @@ googleAnalytics = "G-2LGG1T7GGB"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[params]
-# Enable the darkmode toggle in header
-  darkModeToggle = true
-  ascentColor = "bg-amber-200"
 
