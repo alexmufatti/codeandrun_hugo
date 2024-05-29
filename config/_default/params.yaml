@@ -1,0 +1,60 @@
+darkModeToggle: true
+colorScheme: codeandrun
+defaultAppearance: light
+autoSwitchAppearance: false
+showBreadcrumbs: true
+enableSearch: true
+enableCodeCopy: false
+mainSections:
+  - posts
+  - activities
+timeout: 300000
+header:
+  layout: hybrid
+  showTitle: false
+footer:
+  showCopyright: true
+  showThemeAttribution: true
+  showAppearanceSwitcher: true
+  showScrollToTop: true
+homepage:
+  layout: profile
+  showRecent: true
+  recentLimit: 12
+article:
+  showDate: true
+  showDateUpdated: false
+  showAuthor: true
+  showBreadcrumbs: true
+  showDraftLabel: true
+  showEdit: true
+  editURL: https://github.com/alexmufatti/codeandrun_hugo/tree/master/content/
+  editAppendPath: true
+  showHeadingAnchors: true
+  showPagination: true
+  invertPagination: false
+  showReadingTime: true
+  showTableOfContents: false
+  showTaxonomies: true
+  showWordCount: false
+  showComments: true
+  sharingLinks:
+    - facebook
+    - twitter
+    - pinterest
+    - reddit
+    - linkedin
+    - email
+list:
+  showBreadcrumbs: true
+  showSummary: true
+  showTableOfContents: false
+  groupByYear: true
+sitemap:
+  excludedKinds:
+    - taxonomy
+    - term
+taxonomy:
+  showTermCount: true
+fathomAnalytics: {}
+verification: {}

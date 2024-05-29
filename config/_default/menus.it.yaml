@@ -1,0 +1,32 @@
+main:
+  - name: Home
+    pageRef: /
+    weight: 5
+  - name: Running
+    pageRef: running
+    weight: 7
+  - name: Attività
+    pageRef: activities
+    weight: 10
+  - name: Posts
+    pageRef: posts
+    weight: 20
+  - name: Argomenti
+    pageRef: tags
+    weight: 30
+  - name: Uses
+    pageRef: uses
+    weight: 40
+  - name: About
+    pageRef: about
+    weight: 50
+  - identifier: search
+    weight: 99
+    params:
+      action: search
+      icon: search
+footer:
+  - name: Privacy
+    url: https://www.iubenda.com/privacy-policy/14439811
+  - name: Cookies
+    url: https://www.iubenda.com/privacy-policy/14439811/cookie-policy
