@@ -1,6 +1,6 @@
 ---
 title: FL 10km
-topics:
+tags:
 - sport
 - running
 categories:

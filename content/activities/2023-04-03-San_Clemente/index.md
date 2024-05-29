@@ -1,6 +1,6 @@
 ---
 title: San Clemente
-topics:
+tags:
 - sport
 - running
 categories:

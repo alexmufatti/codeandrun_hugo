@@ -32,7 +32,7 @@ weight = 7
 
 [[main]]
   name = "Argomenti"
-  pageRef = "topics"
+  pageRef = "tags"
   weight = 30
 
 [[main]]

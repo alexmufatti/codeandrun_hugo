@@ -1,6 +1,6 @@
 ---
 title: Settimana 30
-topics:
+tags:
 - sport
 - running
 categories:

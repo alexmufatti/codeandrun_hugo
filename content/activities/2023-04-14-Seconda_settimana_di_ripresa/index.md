@@ -1,7 +1,7 @@
 ---
 title: "Seconda settimana di ripresa"
 date: 2023-04-14T20:59:34+02:00
-topics:
+tags:
   - sport
   - running
 categories:

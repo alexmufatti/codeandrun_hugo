@@ -1,6 +1,6 @@
 ---
 title: Settimana 28
-topics:
+tags:
 - sport
 - running
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Collinare
-topics:
+tags:
 - sport
 - running
 categories:

@@ -1,6 +1,6 @@
 ---
 title: FL 12km
-topics:
+tags:
 - sport
 - running
 categories:

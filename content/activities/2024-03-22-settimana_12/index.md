@@ -1,6 +1,6 @@
 ---
 title: Settimana 12
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-03-18 18:06:39

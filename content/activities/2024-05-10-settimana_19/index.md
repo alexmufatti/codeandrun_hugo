@@ -1,6 +1,6 @@
 ---
 title: Settimana 19
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-05-06 14:54:47

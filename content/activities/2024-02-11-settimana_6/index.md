@@ -1,6 +1,6 @@
 ---
 title: Settimana 6
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-02-05 18:22:17

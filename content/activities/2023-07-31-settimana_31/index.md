@@ -1,6 +1,6 @@
 ---
 title: Settimana 31
-topics:
+tags:
 - sport
 - running
 categories:

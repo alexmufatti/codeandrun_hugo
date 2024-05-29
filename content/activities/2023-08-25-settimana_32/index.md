@@ -1,6 +1,6 @@
 ---
 title: Settimana 32
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-08-07 17:41:34

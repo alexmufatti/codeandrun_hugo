@@ -1,6 +1,6 @@
 ---
 title: 4x(800+600) Z4
-topics:
+tags:
 - sport
 - running
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 5x5’ Z4
-topics:
+tags:
 - sport
 - running
 categories:

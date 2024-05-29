@@ -1,6 +1,6 @@
 ---
 title: Settimana 10
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-03-04 16:05:44

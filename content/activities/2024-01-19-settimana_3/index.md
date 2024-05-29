@@ -1,6 +1,6 @@
 ---
 title: Settimana 3
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-01-15 16:49:00

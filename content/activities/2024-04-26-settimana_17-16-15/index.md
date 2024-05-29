@@ -1,6 +1,6 @@
 ---
 title: Settimana 17-16-15
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-04-22 17:22:46

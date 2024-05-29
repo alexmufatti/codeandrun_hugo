@@ -1,6 +1,6 @@
 ---
 title: Settimana 29
-topics:
+tags:
 - sport
 - running
 categories:

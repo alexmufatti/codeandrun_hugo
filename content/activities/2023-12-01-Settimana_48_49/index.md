@@ -1,6 +1,6 @@
 ---
 title: Settimana 48-49
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-12-04 17:15:35

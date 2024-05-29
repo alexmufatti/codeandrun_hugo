@@ -1,6 +1,6 @@
 ---
 title: Settimana 7
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-02-12 13:00:44

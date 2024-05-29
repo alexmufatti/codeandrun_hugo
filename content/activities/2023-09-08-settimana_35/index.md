@@ -1,6 +1,6 @@
 ---
 title: Settimana 35
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-08-28 18:47:11

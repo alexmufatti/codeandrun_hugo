@@ -1,6 +1,6 @@
 ---
 title: Salomon Run 2023
-topics:
+tags:
 - sport
 - running
 categories:

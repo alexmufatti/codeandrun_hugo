@@ -1,6 +1,6 @@
 ---
 title: Settimana 11
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-03-11 12:44:52

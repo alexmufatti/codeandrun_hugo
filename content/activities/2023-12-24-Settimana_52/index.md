@@ -1,6 +1,6 @@
 ---
 title: Settimana 52
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-12-25 18:52:22

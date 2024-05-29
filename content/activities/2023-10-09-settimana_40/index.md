@@ -1,6 +1,6 @@
 ---
 title: Settimana 40
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-10-02 18:14:08

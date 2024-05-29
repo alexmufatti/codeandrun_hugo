@@ -1,6 +1,6 @@
 ---
 title: Settimana 34
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-08-28 16:37:02

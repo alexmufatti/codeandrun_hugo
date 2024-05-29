@@ -1,6 +1,6 @@
 ---
 title: Cursa diagonal 10K
-topics:
+tags:
 - sport
 - running
 categories:

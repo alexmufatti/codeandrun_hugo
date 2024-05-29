@@ -1,6 +1,6 @@
 ---
 title: 10x200
-topics:
+tags:
 - sport
 - running
 categories:

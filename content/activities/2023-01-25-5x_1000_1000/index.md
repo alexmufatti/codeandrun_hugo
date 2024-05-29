@@ -1,6 +1,6 @@
 ---
 title: 5x(1000+1000)
-topics:
+tags:
 - sport
 - running
 categories:

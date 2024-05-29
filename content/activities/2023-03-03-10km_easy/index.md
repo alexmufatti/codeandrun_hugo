@@ -1,6 +1,6 @@
 ---
 title: 10km easy
-topics:
+tags:
 - sport
 - running
 categories:

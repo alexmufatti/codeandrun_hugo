@@ -1,6 +1,6 @@
 ---
 title: Settimana 41
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-10-09 15:39:04

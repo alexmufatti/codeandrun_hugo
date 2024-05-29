@@ -1,6 +1,6 @@
 ---
 title: Settimana 4
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-01-22 18:20:49

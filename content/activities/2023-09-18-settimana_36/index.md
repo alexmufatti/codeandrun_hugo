@@ -1,6 +1,6 @@
 ---
 title: Settimana 36
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-09-04 18:31:33

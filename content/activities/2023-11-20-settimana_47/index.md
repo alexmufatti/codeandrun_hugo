@@ -1,6 +1,6 @@
 ---
 title: Settimana 47
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-11-26 16:03:38

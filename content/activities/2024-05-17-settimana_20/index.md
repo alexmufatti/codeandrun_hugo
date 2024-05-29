@@ -1,6 +1,6 @@
 ---
 title: Settimana 20
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-05-13 18:03:24

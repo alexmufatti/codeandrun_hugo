@@ -1,6 +1,6 @@
 ---
 title: Corsa mattutina
-topics:
+tags:
 - sport
 - running
 categories:

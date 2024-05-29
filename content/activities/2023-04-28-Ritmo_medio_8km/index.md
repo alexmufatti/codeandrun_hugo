@@ -1,6 +1,6 @@
 ---
 title: Ritmo medio 8km
-topics:
+tags:
 - sport
 - running
 categories:

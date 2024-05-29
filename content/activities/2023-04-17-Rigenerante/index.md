@@ -1,6 +1,6 @@
 ---
 title: Rigenerante
-topics:
+tags:
 - sport
 - running
 categories:

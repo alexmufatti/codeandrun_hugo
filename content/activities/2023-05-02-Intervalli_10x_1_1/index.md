@@ -1,6 +1,6 @@
 ---
 title: Intervalli 10x(1'+1')
-topics:
+tags:
 - sport
 - running
 categories:

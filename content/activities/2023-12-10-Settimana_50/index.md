@@ -1,6 +1,6 @@
 ---
 title: Settimana 50
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-12-10 17:15:48

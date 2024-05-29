@@ -1,6 +1,6 @@
 ---
 title: 3x(3’+2’+1’)
-topics:
+tags:
 - sport
 - running
 categories:

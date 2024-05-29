@@ -1,6 +1,6 @@
 ---
 title: Settimana 1
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-01-01 18:31:21

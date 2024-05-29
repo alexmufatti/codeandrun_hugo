@@ -1,6 +1,6 @@
 ---
 title: Birthday FL 20km
-topics:
+tags:
 - sport
 - running
 categories:

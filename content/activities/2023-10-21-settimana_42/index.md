@@ -1,6 +1,6 @@
 ---
 title: Settimana 42
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-10-16 10:32:47

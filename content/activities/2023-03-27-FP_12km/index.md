@@ -1,6 +1,6 @@
 ---
 title: FP 12km
-topics:
+tags:
 - sport
 - running
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Settimana 5
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-01-29 18:21:56

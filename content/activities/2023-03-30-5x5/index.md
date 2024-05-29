@@ -1,6 +1,6 @@
 ---
 title: 5x5'
-topics:
+tags:
 - sport
 - running
 categories:

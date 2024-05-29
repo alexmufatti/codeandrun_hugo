@@ -1,6 +1,6 @@
 ---
 title: 4x300 + 4x400
-topics:
+tags:
 - sport
 - running
 categories:

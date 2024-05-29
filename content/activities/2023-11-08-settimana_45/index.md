@@ -1,6 +1,6 @@
 ---
 title: Settimana 45
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-11-10 16:03:13

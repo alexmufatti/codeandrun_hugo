@@ -1,6 +1,6 @@
 ---
 title: 6km Z2 + allunghi
-topics:
+tags:
 - sport
 - running
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 8km Z1 + andature + allunghi
-topics:
+tags:
 - sport
 - running
 categories:

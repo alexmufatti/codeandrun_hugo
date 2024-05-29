@@ -1,6 +1,6 @@
 ---
 title: 12km Z2
-topics:
+tags:
 - sport
 - running
 categories:

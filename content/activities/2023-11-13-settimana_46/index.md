@@ -1,6 +1,6 @@
 ---
 title: Settimana 46
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-11-19 16:03:24

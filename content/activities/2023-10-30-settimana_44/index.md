@@ -1,6 +1,6 @@
 ---
 title: Settimana 44
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2023-11-05 16:03:00

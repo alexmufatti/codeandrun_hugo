@@ -1,6 +1,6 @@
 ---
 title: 10km progressivo
-topics:
+tags:
 - sport
 - running
 categories:

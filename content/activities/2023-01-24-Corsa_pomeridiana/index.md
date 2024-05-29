@@ -1,6 +1,6 @@
 ---
 title: Corsa pomeridiana
-topics:
+tags:
 - sport
 - running
 categories:

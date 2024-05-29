@@ -1,6 +1,6 @@
 ---
 title: Lunghetto con un po’ di progressione ma più fatica del previsto
-topics:
+tags:
 - sport
 - running
 categories:

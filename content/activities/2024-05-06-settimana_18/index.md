@@ -1,6 +1,6 @@
 ---
 title: Settimana 18
-topics: ['sport', 'running']
+tags: ['sport', 'running']
 categories:
   - Sport
 date: 2024-04-29 12:38:08

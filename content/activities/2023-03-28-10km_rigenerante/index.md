@@ -1,6 +1,6 @@
 ---
 title: 10km rigenerante 
-topics:
+tags:
 - sport
 - running
 categories:
