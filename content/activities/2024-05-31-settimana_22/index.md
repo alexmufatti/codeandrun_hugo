@@ -24,7 +24,7 @@ Corsetta defaticante dopo la gara di domenica. Tutto ok.
 ## Seconda uscita
 10km Z1 + allunghi.
 
-{{< figure src="IMG_3273.jpg" >}}
+{{< figure src="IMG_3273-feature.jpg" >}}
 
 Oggi battiti a caso (come spesso succede il giorno dopo il potenziamento) ma sensazioni ok.
 🏃🏻‍♂️
