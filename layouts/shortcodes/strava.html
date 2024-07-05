@@ -1,7 +1,8 @@
-
+  {{ $noEmbed := .Get "noEmbed" | default false }}
   {{ $id := .Get "id" }}
   {{ $embedId := .Get "embedId" }}
   {{ if and ($id) ($embedId) }}
+  {{ if not $noEmbed }}
   <div class="embed">
     <iframe loading="lazy"
             style="height: 360px; width: 100%; min-width: 360px; max-width: 590px; border: none;"
@@ -9,6 +10,7 @@
             scrolling="no"
             src="https://www.strava.com/activities/{{ $id }}/embed/{{ $embedId }}"></iframe>
   </div>
+  {{ end }}
   <div>
     <a href="https://strava.com/activities/{{ $id }}" target="_blank" rel="noreferrer noopener">
       {{ $icon := resources.Get "icons/strava.svg" }}
