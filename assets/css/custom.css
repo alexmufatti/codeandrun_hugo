@@ -2,25 +2,25 @@ html {
     font-family: 'Open Sans', sans-serif;
 }
 
-header > img {
+.header > img {
     transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
     transition-timing-function: cubic-bezier(.4,0,.2,1);
     transition-duration: 500ms;
 }
 
-header > img:hover {
+.header > img:hover {
     border-color: rgba(var(--color-primary-500),1);
 }
 
-header > img {
+.header > img {
     border: rgba(var(--color-neutral-800),var(--tw-bg-opacity)) 3px solid;
 }
 
-header > h1 {
+.header > h1 {
     border-bottom: rgba(var(--color-neutral-800),var(--tw-bg-opacity)) 2px solid;
 }
 
-header > h1:hover {
+.header > h1:hover {
     border-color: rgba(var(--color-primary-500),1);
 }
 
