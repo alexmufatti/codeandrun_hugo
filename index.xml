@@ -4603,111 +4603,111 @@ Link all’attività&lt;/a>
 &lt;/div></description></item><item><title>Running</title><link>https://codeandrun.it/running/</link><pubDate>Tue, 13 Feb 2024 16:10:40 +0200</pubDate><guid>https://codeandrun.it/running/</guid><description>&lt;h1 id="statistiche" class="relative group">Statistiche &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#statistiche" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Anno&lt;/th>
-&lt;th>Distanza&lt;/th>
-&lt;th>Dislivello&lt;/th>
-&lt;th>Attività&lt;/th>
-&lt;th>Tempo&lt;/th>
+&lt;th style="text-align: left">Anno&lt;/th>
+&lt;th style="text-align: left">Distanza&lt;/th>
+&lt;th style="text-align: left">Dislivello&lt;/th>
+&lt;th style="text-align: left">Attività&lt;/th>
+&lt;th style="text-align: left">Tempo&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>2024&lt;/td>
-&lt;td>1554 km&lt;/td>
-&lt;td>7286 m&lt;/td>
-&lt;td>116&lt;/td>
-&lt;td>126h 17m&lt;/td>
+&lt;td style="text-align: left">2024&lt;/td>
+&lt;td style="text-align: left">1554 km&lt;/td>
+&lt;td style="text-align: left">7286 m&lt;/td>
+&lt;td style="text-align: left">116&lt;/td>
+&lt;td style="text-align: left">126h 17m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2023&lt;/td>
-&lt;td>1815 km&lt;/td>
-&lt;td>8891 m&lt;/td>
-&lt;td>159&lt;/td>
-&lt;td>154h 5m&lt;/td>
+&lt;td style="text-align: left">2023&lt;/td>
+&lt;td style="text-align: left">1815 km&lt;/td>
+&lt;td style="text-align: left">8891 m&lt;/td>
+&lt;td style="text-align: left">159&lt;/td>
+&lt;td style="text-align: left">154h 5m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2022&lt;/td>
-&lt;td>1928 km&lt;/td>
-&lt;td>7633 m&lt;/td>
-&lt;td>163&lt;/td>
-&lt;td>157h 50m&lt;/td>
+&lt;td style="text-align: left">2022&lt;/td>
+&lt;td style="text-align: left">1928 km&lt;/td>
+&lt;td style="text-align: left">7633 m&lt;/td>
+&lt;td style="text-align: left">163&lt;/td>
+&lt;td style="text-align: left">157h 50m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2021&lt;/td>
-&lt;td>1245 km&lt;/td>
-&lt;td>25031 m&lt;/td>
-&lt;td>107&lt;/td>
-&lt;td>116h 28m&lt;/td>
+&lt;td style="text-align: left">2021&lt;/td>
+&lt;td style="text-align: left">1245 km&lt;/td>
+&lt;td style="text-align: left">25031 m&lt;/td>
+&lt;td style="text-align: left">107&lt;/td>
+&lt;td style="text-align: left">116h 28m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2020&lt;/td>
-&lt;td>1758 km&lt;/td>
-&lt;td>19463 m&lt;/td>
-&lt;td>146&lt;/td>
-&lt;td>144h 44m&lt;/td>
+&lt;td style="text-align: left">2020&lt;/td>
+&lt;td style="text-align: left">1758 km&lt;/td>
+&lt;td style="text-align: left">19463 m&lt;/td>
+&lt;td style="text-align: left">146&lt;/td>
+&lt;td style="text-align: left">144h 44m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2019&lt;/td>
-&lt;td>1826 km&lt;/td>
-&lt;td>20483 m&lt;/td>
-&lt;td>158&lt;/td>
-&lt;td>155h 43m&lt;/td>
+&lt;td style="text-align: left">2019&lt;/td>
+&lt;td style="text-align: left">1826 km&lt;/td>
+&lt;td style="text-align: left">20483 m&lt;/td>
+&lt;td style="text-align: left">158&lt;/td>
+&lt;td style="text-align: left">155h 43m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2018&lt;/td>
-&lt;td>2159 km&lt;/td>
-&lt;td>21312 m&lt;/td>
-&lt;td>172&lt;/td>
-&lt;td>183h 30m&lt;/td>
+&lt;td style="text-align: left">2018&lt;/td>
+&lt;td style="text-align: left">2159 km&lt;/td>
+&lt;td style="text-align: left">21312 m&lt;/td>
+&lt;td style="text-align: left">172&lt;/td>
+&lt;td style="text-align: left">183h 30m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2017&lt;/td>
-&lt;td>1288 km&lt;/td>
-&lt;td>17322 m&lt;/td>
-&lt;td>131&lt;/td>
-&lt;td>115h 33m&lt;/td>
+&lt;td style="text-align: left">2017&lt;/td>
+&lt;td style="text-align: left">1288 km&lt;/td>
+&lt;td style="text-align: left">17322 m&lt;/td>
+&lt;td style="text-align: left">131&lt;/td>
+&lt;td style="text-align: left">115h 33m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2016&lt;/td>
-&lt;td>802 km&lt;/td>
-&lt;td>7935 m&lt;/td>
-&lt;td>88&lt;/td>
-&lt;td>72h 17m&lt;/td>
+&lt;td style="text-align: left">2016&lt;/td>
+&lt;td style="text-align: left">802 km&lt;/td>
+&lt;td style="text-align: left">7935 m&lt;/td>
+&lt;td style="text-align: left">88&lt;/td>
+&lt;td style="text-align: left">72h 17m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2015&lt;/td>
-&lt;td>681 km&lt;/td>
-&lt;td>6427 m&lt;/td>
-&lt;td>74&lt;/td>
-&lt;td>59h 46m&lt;/td>
+&lt;td style="text-align: left">2015&lt;/td>
+&lt;td style="text-align: left">681 km&lt;/td>
+&lt;td style="text-align: left">6427 m&lt;/td>
+&lt;td style="text-align: left">74&lt;/td>
+&lt;td style="text-align: left">59h 46m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2014&lt;/td>
-&lt;td>618 km&lt;/td>
-&lt;td>4048 m&lt;/td>
-&lt;td>83&lt;/td>
-&lt;td>55h 32m&lt;/td>
+&lt;td style="text-align: left">2014&lt;/td>
+&lt;td style="text-align: left">618 km&lt;/td>
+&lt;td style="text-align: left">4048 m&lt;/td>
+&lt;td style="text-align: left">83&lt;/td>
+&lt;td style="text-align: left">55h 32m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2013&lt;/td>
-&lt;td>210 km&lt;/td>
-&lt;td>868 m&lt;/td>
-&lt;td>32&lt;/td>
-&lt;td>21h 53m&lt;/td>
+&lt;td style="text-align: left">2013&lt;/td>
+&lt;td style="text-align: left">210 km&lt;/td>
+&lt;td style="text-align: left">868 m&lt;/td>
+&lt;td style="text-align: left">32&lt;/td>
+&lt;td style="text-align: left">21h 53m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2012&lt;/td>
-&lt;td>233 km&lt;/td>
-&lt;td>976 m&lt;/td>
-&lt;td>31&lt;/td>
-&lt;td>23h 23m&lt;/td>
+&lt;td style="text-align: left">2012&lt;/td>
+&lt;td style="text-align: left">233 km&lt;/td>
+&lt;td style="text-align: left">976 m&lt;/td>
+&lt;td style="text-align: left">31&lt;/td>
+&lt;td style="text-align: left">23h 23m&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>2011&lt;/td>
-&lt;td>10 km&lt;/td>
-&lt;td>216 m&lt;/td>
-&lt;td>2&lt;/td>
-&lt;td>1h 3m&lt;/td>
+&lt;td style="text-align: left">2011&lt;/td>
+&lt;td style="text-align: left">10 km&lt;/td>
+&lt;td style="text-align: left">216 m&lt;/td>
+&lt;td style="text-align: left">2&lt;/td>
+&lt;td style="text-align: left">1h 3m&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -4715,49 +4715,49 @@ Link all’attività&lt;/a>
 &lt;h1 id="record-personali" class="relative group">Record personali &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#record-personali" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Distanza&lt;/th>
-&lt;th style="text-align:right">Tempo&lt;/th>
-&lt;th>Passo&lt;/th>
-&lt;th>Dove&lt;/th>
-&lt;th>Anno&lt;/th>
+&lt;th style="text-align: left">Distanza&lt;/th>
+&lt;th style="text-align: right">Tempo&lt;/th>
+&lt;th style="text-align: left">Passo&lt;/th>
+&lt;th style="text-align: left">Dove&lt;/th>
+&lt;th style="text-align: left">Anno&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>5K&lt;/td>
-&lt;td style="text-align:right">18:20&lt;/td>
-&lt;td>3:40 min/km&lt;/td>
-&lt;td>Test VDOT&lt;/td>
-&lt;td>2024&lt;/td>
+&lt;td style="text-align: left">5K&lt;/td>
+&lt;td style="text-align: right">18:20&lt;/td>
+&lt;td style="text-align: left">3:40 min/km&lt;/td>
+&lt;td style="text-align: left">Test VDOT&lt;/td>
+&lt;td style="text-align: left">2024&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>10K&lt;/td>
-&lt;td style="text-align:right">38:37&lt;/td>
-&lt;td>3:52 min/km&lt;/td>
-&lt;td>Cursa Diagonal&lt;/td>
-&lt;td>2024&lt;/td>
+&lt;td style="text-align: left">10K&lt;/td>
+&lt;td style="text-align: right">38:37&lt;/td>
+&lt;td style="text-align: left">3:52 min/km&lt;/td>
+&lt;td style="text-align: left">Cursa Diagonal&lt;/td>
+&lt;td style="text-align: left">2024&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Mezza Maratona&lt;/td>
-&lt;td style="text-align:right">1:25:54&lt;/td>
-&lt;td>4:04 min/km&lt;/td>
-&lt;td>Mitja Marató Barcelona&lt;/td>
-&lt;td>2024&lt;/td>
+&lt;td style="text-align: left">Mezza Maratona&lt;/td>
+&lt;td style="text-align: right">1:25:54&lt;/td>
+&lt;td style="text-align: left">4:04 min/km&lt;/td>
+&lt;td style="text-align: left">Mitja Marató Barcelona&lt;/td>
+&lt;td style="text-align: left">2024&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Maratona&lt;/td>
-&lt;td style="text-align:right">3:06:11&lt;/td>
-&lt;td>4:25 min/km&lt;/td>
-&lt;td>TCS London Marathon&lt;/td>
-&lt;td>2024&lt;/td>
+&lt;td style="text-align: left">Maratona&lt;/td>
+&lt;td style="text-align: right">3:06:11&lt;/td>
+&lt;td style="text-align: left">4:25 min/km&lt;/td>
+&lt;td style="text-align: left">TCS London Marathon&lt;/td>
+&lt;td style="text-align: left">2024&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;div class="chart">
-&lt;canvas id="984573126">&lt;/canvas>
+&lt;canvas id="785264931">&lt;/canvas>
 &lt;script type="text/javascript">
 window.addEventListener("DOMContentLoaded", (event) => {
-const ctx = document.getElementById("984573126");
+const ctx = document.getElementById("785264931");
 const chart = new Chart(ctx, {
 type: 'line',
 data: {"labels":["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],"datasets":[{"label":"2011","data":[0,0,0,9.6,9.6,9.6,9.6,9.6,9.6,9.6,9.6,9.6],"fill":false,"borderWidth":1,"borderColor":"#FFFFFF","backgroundColor":"#FFFFFF"},{"label":"2012","data":[6.7,6.7,6.7,6.7,6.7,6.7,6.7,21.7,123.4,178.5,226.5,233.5],"fill":false,"borderWidth":1,"borderColor":"#C0C0C0","backgroundColor":"#C0C0C0"},{"label":"2013","data":[78.6,118.1,161,168.9,174.9,174.9,181.9,181.9,202.8,209.9,209.9,209.9],"fill":false,"borderWidth":1,"borderColor":"#808080","backgroundColor":"#808080"},{"label":"2014","data":[0,14.1,65.4,75.2,116.9,199.5,292.1,383.5,464.5,549.7,604,618.2],"fill":false,"borderWidth":1,"borderColor":"#000000","backgroundColor":"#000000"},{"label":"2015","data":[50.8,50.8,50.8,50.8,66.1,147.3,240.3,340.9,409.1,509.9,599.2,680.7],"fill":false,"borderWidth":1,"borderColor":"#000080","backgroundColor":"#000080"},{"label":"2016","data":[22.6,38.2,92.6,166.5,236.1,268.3,341.1,458.5,551.4,656.7,751.4,802.5],"fill":false,"borderWidth":1,"borderColor":"#0000FF","backgroundColor":"#0000FF"},{"label":"2017","data":[108.5,229.2,310.3,427.1,576.6,642.3,716.2,817.9,856.1,1009.2,1178.3,1288.4],"fill":false,"borderWidth":1,"borderColor":"#00FFFF","backgroundColor":"#00FFFF"},{"label":"2018","data":[233.6,441.2,736,930.9,1052.9,1184.3,1285.4,1461,1603.9,1806.4,1966.9,2159],"fill":false,"borderWidth":1,"borderColor":"#008080","backgroundColor":"#008080"},{"label":"2019","data":[189,244.7,372.9,514.7,673.6,788.6,988.2,1146.2,1281.5,1499.6,1699.7,1826.1],"fill":false,"borderWidth":1,"borderColor":"#00FF00","backgroundColor":"#00FF00"},{"label":"2020","data":[211.9,503.4,672.6,772,873.1,916.9,1051,1191.3,1295.2,1446.7,1592.4,1757.5],"fill":false,"borderWidth":1,"borderColor":"#FF00FF","backgroundColor":"#FF00FF"},{"label":"2021","data":[171.7,312,460,575.9,702.5,859,1008.6,1140.2,1195,1236.6,1244.6,1244.6],"fill":false,"borderWidth":1,"borderColor":"#800080","backgroundColor":"#800080"},{"label":"2022","data":[30.3,177.5,370.8,555,727.6,858.6,1019.6,1131.7,1372.9,1574.9,1815.3,1927.8],"fill":false,"borderWidth":1,"borderColor":"#008000","backgroundColor":"#008000"},{"label":"2023","data":[136.6,167.2,285.1,413.6,605.7,670,861,1064.6,1243.1,1459.9,1627,1815.2],"fill":false,"borderWidth":1,"borderColor":"#808000","backgroundColor":"#808000"},{"label":"2024","data":[247.7,493.8,800.1,1037.1,1255.5,1518.6,1554.4,null,null,null,null,null],"fill":false,"borderWidth":5,"borderColor":"red","backgroundColor":"red"}]}
@@ -12096,158 +12096,158 @@ Link all’attività&lt;/a>
 &lt;h1 id="hardware-" class="relative group">Hardware 💻 &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#hardware-" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Laptop&lt;/td>
-&lt;td>MacBook Pro M1 Max 14-inch 2021&lt;/td>
+&lt;td style="text-align: left">Laptop&lt;/td>
+&lt;td style="text-align: left">MacBook Pro M1 Max 14-inch 2021&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Monitor&lt;/td>
-&lt;td>Samsund UHD 28-inch&lt;/td>
+&lt;td style="text-align: left">Monitor&lt;/td>
+&lt;td style="text-align: left">Samsund UHD 28-inch&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Keyboards&lt;/td>
-&lt;td>Apple magic Keyboard / &lt;a href="https://vortexgear.store/products/cypher-single-spacebar-us1" target="_blank" rel="noreferrer">Vortex Cypher&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Keyboards&lt;/td>
+&lt;td style="text-align: left">Apple magic Keyboard / &lt;a href="https://vortexgear.store/products/cypher-single-spacebar-us1" target="_blank" rel="noreferrer">Vortex Cypher&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Smartphone&lt;/td>
-&lt;td>IPhone XS&lt;/td>
+&lt;td style="text-align: left">Smartphone&lt;/td>
+&lt;td style="text-align: left">IPhone XS&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Headphone (BT)&lt;/td>
-&lt;td>Bose QC25&lt;/td>
+&lt;td style="text-align: left">Headphone (BT)&lt;/td>
+&lt;td style="text-align: left">Bose QC25&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Headphone (Wired)&lt;/td>
-&lt;td>&lt;a href="https://www.poly.com/us/en/support/products/usb-headsets/blackwire/blackwire-3300" target="_blank" rel="noreferrer">Poly blackwire 3300&lt;/a>&lt;/td>
+&lt;td style="text-align: left">Headphone (Wired)&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.poly.com/us/en/support/products/usb-headsets/blackwire/blackwire-3300" target="_blank" rel="noreferrer">Poly blackwire 3300&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Earphones&lt;/td>
-&lt;td>AirPods 3rd gen&lt;/td>
+&lt;td style="text-align: left">Earphones&lt;/td>
+&lt;td style="text-align: left">AirPods 3rd gen&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>KeyChain&lt;/td>
-&lt;td>&lt;a href="https://www.orbitkey.eu/collections/key-organiser/products/orbitkey-2-0-leather?variant=45990252806" target="_blank" rel="noreferrer">OrbitKey&lt;/a>&lt;/td>
+&lt;td style="text-align: left">KeyChain&lt;/td>
+&lt;td style="text-align: left">&lt;a href="https://www.orbitkey.eu/collections/key-organiser/products/orbitkey-2-0-leather?variant=45990252806" target="_blank" rel="noreferrer">OrbitKey&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>E-reader&lt;/td>
-&lt;td>Kindle Paperwhite 10th gen&lt;/td>
+&lt;td style="text-align: left">E-reader&lt;/td>
+&lt;td style="text-align: left">Kindle Paperwhite 10th gen&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h1 id="software-" class="relative group">Software 📀 &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#software-" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Operating System&lt;/td>
-&lt;td>MacOs, iOS, Linux (Arch)&lt;/td>
+&lt;td style="text-align: left">Operating System&lt;/td>
+&lt;td style="text-align: left">MacOs, iOS, Linux (Arch)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Browser&lt;/td>
-&lt;td>Chrome, Arc&lt;/td>
+&lt;td style="text-align: left">Browser&lt;/td>
+&lt;td style="text-align: left">Chrome, Arc&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>IDE&lt;/td>
-&lt;td>IntelliJ&lt;/td>
+&lt;td style="text-align: left">IDE&lt;/td>
+&lt;td style="text-align: left">IntelliJ&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Terminal&lt;/td>
-&lt;td>iTerm2 with zsh and oh-my-zsh&lt;/td>
+&lt;td style="text-align: left">Terminal&lt;/td>
+&lt;td style="text-align: left">iTerm2 with zsh and oh-my-zsh&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Email Provider&lt;/td>
-&lt;td>Fastmail&lt;/td>
+&lt;td style="text-align: left">Email Provider&lt;/td>
+&lt;td style="text-align: left">Fastmail&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Password Manager&lt;/td>
-&lt;td>1password&lt;/td>
+&lt;td style="text-align: left">Password Manager&lt;/td>
+&lt;td style="text-align: left">1password&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>VPN&lt;/td>
-&lt;td>OpenVpn&lt;/td>
+&lt;td style="text-align: left">VPN&lt;/td>
+&lt;td style="text-align: left">OpenVpn&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Cloud Storage&lt;/td>
-&lt;td>AWS S3&lt;/td>
+&lt;td style="text-align: left">Cloud Storage&lt;/td>
+&lt;td style="text-align: left">AWS S3&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Notes&lt;/td>
-&lt;td>Obsidian&lt;/td>
+&lt;td style="text-align: left">Notes&lt;/td>
+&lt;td style="text-align: left">Obsidian&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Calendar&lt;/td>
-&lt;td>Fantastical&lt;/td>
+&lt;td style="text-align: left">Calendar&lt;/td>
+&lt;td style="text-align: left">Fantastical&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Music&lt;/td>
-&lt;td>Spotify&lt;/td>
+&lt;td style="text-align: left">Music&lt;/td>
+&lt;td style="text-align: left">Spotify&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Podcast&lt;/td>
-&lt;td>Overcast&lt;/td>
+&lt;td style="text-align: left">Podcast&lt;/td>
+&lt;td style="text-align: left">Overcast&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Feed Reader&lt;/td>
-&lt;td>Reeder&lt;/td>
+&lt;td style="text-align: left">Feed Reader&lt;/td>
+&lt;td style="text-align: left">Reeder&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Editor&lt;/td>
-&lt;td>Vim&lt;/td>
+&lt;td style="text-align: left">Editor&lt;/td>
+&lt;td style="text-align: left">Vim&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Screenshot&lt;/td>
-&lt;td>Shottr&lt;/td>
+&lt;td style="text-align: left">Screenshot&lt;/td>
+&lt;td style="text-align: left">Shottr&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Windows Management&lt;/td>
-&lt;td>Magnet / AltTab&lt;/td>
+&lt;td style="text-align: left">Windows Management&lt;/td>
+&lt;td style="text-align: left">Magnet / AltTab&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Launcher&lt;/td>
-&lt;td>Alfred&lt;/td>
+&lt;td style="text-align: left">Launcher&lt;/td>
+&lt;td style="text-align: left">Alfred&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h1 id="running-" class="relative group">Running 👟 &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100">&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#running-" aria-label="Ancora">#&lt;/a>&lt;/span>&lt;/h1>&lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Shoes 1&lt;/td>
-&lt;td>Asics GT-2000&lt;/td>
+&lt;td style="text-align: left">Shoes 1&lt;/td>
+&lt;td style="text-align: left">Asics GT-2000&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Shoes 2&lt;/td>
-&lt;td>Asics Kayano 29&lt;/td>
+&lt;td style="text-align: left">Shoes 2&lt;/td>
+&lt;td style="text-align: left">Asics Kayano 29&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Shoes 3&lt;/td>
-&lt;td>Asics Glideride 3&lt;/td>
+&lt;td style="text-align: left">Shoes 3&lt;/td>
+&lt;td style="text-align: left">Asics Glideride 3&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Watch&lt;/td>
-&lt;td>Garmin Forerunner 955&lt;/td>
+&lt;td style="text-align: left">Watch&lt;/td>
+&lt;td style="text-align: left">Garmin Forerunner 955&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Tracker&lt;/td>
-&lt;td>Strava&lt;/td>
+&lt;td style="text-align: left">Tracker&lt;/td>
+&lt;td style="text-align: left">Strava&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>HR tracker&lt;/td>
-&lt;td>Garmin HRM Pro&lt;/td>
+&lt;td style="text-align: left">HR tracker&lt;/td>
+&lt;td style="text-align: left">Garmin HRM Pro&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>8km ritmo medio</title><link>https://codeandrun.it/activities/2023-05-26-8km_ritmo_medio/</link><pubDate>Fri, 26 May 2023 13:18:45 +0000</pubDate><guid>https://codeandrun.it/activities/2023-05-26-8km_ritmo_medio/</guid><description>&lt;p>Ritmo medio 8km.&lt;/p>
