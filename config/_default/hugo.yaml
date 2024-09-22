@@ -4,7 +4,8 @@ disableLanguages:
   - en
 languageCode: it-it
 enableRobotsTXT: true
-paginate: 12
+pagination:
+  paginate: 12
 summaryLength: 100
 theme: congo
 timeout: 300s
