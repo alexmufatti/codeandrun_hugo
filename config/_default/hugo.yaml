@@ -9,7 +9,7 @@ pagination:
 summaryLength: 100
 theme: congo
 timeout: 300s
-rssLimit: 100
+rssLimit: 1000
 disqusShortname: alexmufatti
 googleAnalytics: G-2LGG1T7GGB
 outputs:
