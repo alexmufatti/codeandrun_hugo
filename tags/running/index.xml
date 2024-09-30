@@ -6097,9 +6097,6 @@ Link all’attività&lt;/a>
 Mi è piaciuto molto questo allenamento e credo che con il nuovo VDOT i passi siano molto meglio di prima. Son riuscito avere anche la frequenza in Z3 abbastanza costantemente nella parte veloce e a tornare in Z2 in quella lenta.
 C&amp;rsquo;è stato un super picco di frequenza nel riscaldamento che non so a cosa sia dovuto.
 Ma davvero la Z3 sarebbe il ritmo maratona?? Se così fosse ci sarebbe da festeggiare!!&lt;/p>
-&lt;figure class="mx-auto my-0 rounded-md">
-&lt;img src="20231217-activity-map.png" alt="" class="mx-auto my-0 rounded-md"/>
-&lt;/figure>
 &lt;div class="embed">
 &lt;iframe loading="lazy"
 style="height: 360px; width: 100%; min-width: 360px; max-width: 590px; border: none;"
@@ -8164,9 +8161,6 @@ sizes="100vw"
 &lt;/picture>
 &lt;/figure>
 &lt;p>La vista dalla torbiera è stata proprio un toccasana!&lt;/p>
-&lt;figure class="mx-auto my-0 rounded-md">
-&lt;img src="IMG_2416.jpg" alt="" class="mx-auto my-0 rounded-md"/>
-&lt;/figure>
 &lt;p>Gli strascichi di questa Z3 li ho sentiti per diversi giorni 😢&lt;/p>
 &lt;figure class="mx-auto my-0 rounded-md">
 &lt;picture
@@ -17353,7 +17347,24 @@ src="https://www.strava.com/activities/7563908669/embed/6c3ac462f448a08028e46bbc
 Link all’attività&lt;/a>
 &lt;/div></description></item><item><title>Fondo lento</title><link>https://codeandrun.it/activities/2022-07-29-fondo_lento/</link><pubDate>Fri, 29 Jul 2022 13:21:50 +0000</pubDate><guid>https://codeandrun.it/activities/2022-07-29-fondo_lento/</guid><description>&lt;p>Nubi sparse, 29°C, Percepito 34°C, Umidità 78%, Vento 7m/s da E&lt;/p>
 &lt;figure class="mx-auto my-0 rounded-md">
-&lt;img src="IMG_0015_featured.jpg" alt="" class="mx-auto my-0 rounded-md"/>
+&lt;picture
+class="mx-auto my-0 rounded-md"
+>
+&lt;source
+srcset="https://codeandrun.it/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu13049232987915485759.webp 330w,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu12472494785234932402.webp 660w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu5984055078678436082.webp 1024w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu7442437961345745593.webp 1320w "
+sizes="100vw"
+type="image/webp"
+/>
+&lt;img
+width="1440"
+height="1080"
+class="mx-auto my-0 rounded-md"
+loading="lazy" decoding="async"
+src="https://codeandrun.it/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu11601683897656194526.jpg"
+srcset="https://codeandrun.it/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu14999494629064673677.jpg 330w,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu11601683897656194526.jpg 660w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu7190556499754048716.jpg 1024w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu4322903585744651979.jpg 1320w "
+sizes="100vw"
+/>
+&lt;/picture>
 &lt;/figure>
 &lt;p>Dormito poco, mangiato troppo: quello che doveva essere un lungo lento è diventato solo un lento.&lt;/p>
 &lt;figure class="mx-auto my-0 rounded-md">

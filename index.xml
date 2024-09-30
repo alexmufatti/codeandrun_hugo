@@ -6308,10 +6308,10 @@ Link all’attività&lt;/a>
 &lt;/tbody>
 &lt;/table>
 &lt;div class="chart">
-&lt;canvas id="793241658">&lt;/canvas>
+&lt;canvas id="457839612">&lt;/canvas>
 &lt;script type="text/javascript">
 window.addEventListener("DOMContentLoaded", (event) => {
-const ctx = document.getElementById("793241658");
+const ctx = document.getElementById("457839612");
 const chart = new Chart(ctx, {
 type: 'line',
 data: {"labels":["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],"datasets":[{"label":"2011","data":[0,0,0,9.6,9.6,9.6,9.6,9.6,9.6,9.6,9.6,9.6],"fill":false,"borderWidth":1,"borderColor":"#FFFFFF","backgroundColor":"#FFFFFF"},{"label":"2012","data":[6.7,6.7,6.7,6.7,6.7,6.7,6.7,21.7,123.4,178.5,226.5,233.5],"fill":false,"borderWidth":1,"borderColor":"#C0C0C0","backgroundColor":"#C0C0C0"},{"label":"2013","data":[78.6,118.1,161,168.9,174.9,174.9,181.9,181.9,202.8,209.9,209.9,209.9],"fill":false,"borderWidth":1,"borderColor":"#808080","backgroundColor":"#808080"},{"label":"2014","data":[0,14.1,65.4,75.2,116.9,199.5,292.1,383.5,464.5,549.7,604,618.2],"fill":false,"borderWidth":1,"borderColor":"#000000","backgroundColor":"#000000"},{"label":"2015","data":[50.8,50.8,50.8,50.8,66.1,147.3,240.3,340.9,409.1,509.9,599.2,680.7],"fill":false,"borderWidth":1,"borderColor":"#000080","backgroundColor":"#000080"},{"label":"2016","data":[22.6,38.2,92.6,166.5,236.1,268.3,341.1,458.5,551.4,656.7,751.4,802.5],"fill":false,"borderWidth":1,"borderColor":"#0000FF","backgroundColor":"#0000FF"},{"label":"2017","data":[108.5,229.2,310.3,427.1,576.6,642.3,716.2,817.9,856.1,1009.2,1178.3,1288.4],"fill":false,"borderWidth":1,"borderColor":"#00FFFF","backgroundColor":"#00FFFF"},{"label":"2018","data":[233.6,441.2,736,930.9,1052.9,1184.3,1285.4,1461,1603.9,1806.4,1966.9,2159],"fill":false,"borderWidth":1,"borderColor":"#008080","backgroundColor":"#008080"},{"label":"2019","data":[189,244.7,372.9,514.7,673.6,788.6,988.2,1146.2,1281.5,1499.6,1699.7,1826.1],"fill":false,"borderWidth":1,"borderColor":"#00FF00","backgroundColor":"#00FF00"},{"label":"2020","data":[211.9,503.4,672.6,772,873.1,916.9,1051,1191.3,1295.2,1446.7,1592.4,1757.5],"fill":false,"borderWidth":1,"borderColor":"#FF00FF","backgroundColor":"#FF00FF"},{"label":"2021","data":[171.7,312,460,575.9,702.5,859,1008.6,1140.2,1195,1236.6,1244.6,1244.6],"fill":false,"borderWidth":1,"borderColor":"#800080","backgroundColor":"#800080"},{"label":"2022","data":[30.3,177.5,370.8,555,727.6,858.6,1019.6,1131.7,1372.9,1574.9,1815.3,1927.8],"fill":false,"borderWidth":1,"borderColor":"#008000","backgroundColor":"#008000"},{"label":"2023","data":[136.6,167.2,285.1,413.6,605.7,670,861,1064.6,1243.1,1459.9,1627,1815.2],"fill":false,"borderWidth":1,"borderColor":"#808000","backgroundColor":"#808000"},{"label":"2024","data":[247.7,493.8,800.1,1037.1,1255.5,1518.6,1816.1,2075.7,2299.9,null,null,null],"fill":false,"borderWidth":5,"borderColor":"red","backgroundColor":"red"}]}
@@ -8183,9 +8183,6 @@ Link all’attività&lt;/a>
 Mi è piaciuto molto questo allenamento e credo che con il nuovo VDOT i passi siano molto meglio di prima. Son riuscito avere anche la frequenza in Z3 abbastanza costantemente nella parte veloce e a tornare in Z2 in quella lenta.
 C&amp;rsquo;è stato un super picco di frequenza nel riscaldamento che non so a cosa sia dovuto.
 Ma davvero la Z3 sarebbe il ritmo maratona?? Se così fosse ci sarebbe da festeggiare!!&lt;/p>
-&lt;figure class="mx-auto my-0 rounded-md">
-&lt;img src="20231217-activity-map.png" alt="" class="mx-auto my-0 rounded-md"/>
-&lt;/figure>
 &lt;div class="embed">
 &lt;iframe loading="lazy"
 style="height: 360px; width: 100%; min-width: 360px; max-width: 590px; border: none;"
@@ -10250,9 +10247,6 @@ sizes="100vw"
 &lt;/picture>
 &lt;/figure>
 &lt;p>La vista dalla torbiera è stata proprio un toccasana!&lt;/p>
-&lt;figure class="mx-auto my-0 rounded-md">
-&lt;img src="IMG_2416.jpg" alt="" class="mx-auto my-0 rounded-md"/>
-&lt;/figure>
 &lt;p>Gli strascichi di questa Z3 li ho sentiti per diversi giorni 😢&lt;/p>
 &lt;figure class="mx-auto my-0 rounded-md">
 &lt;picture
@@ -19702,7 +19696,24 @@ src="https://www.strava.com/activities/7563908669/embed/6c3ac462f448a08028e46bbc
 Link all’attività&lt;/a>
 &lt;/div></description></item><item><title>Fondo lento</title><link>https://codeandrun.it/activities/2022-07-29-fondo_lento/</link><pubDate>Fri, 29 Jul 2022 13:21:50 +0000</pubDate><guid>https://codeandrun.it/activities/2022-07-29-fondo_lento/</guid><description>&lt;p>Nubi sparse, 29°C, Percepito 34°C, Umidità 78%, Vento 7m/s da E&lt;/p>
 &lt;figure class="mx-auto my-0 rounded-md">
-&lt;img src="IMG_0015_featured.jpg" alt="" class="mx-auto my-0 rounded-md"/>
+&lt;picture
+class="mx-auto my-0 rounded-md"
+>
+&lt;source
+srcset="https://codeandrun.it/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu13049232987915485759.webp 330w,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu12472494785234932402.webp 660w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu5984055078678436082.webp 1024w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu7442437961345745593.webp 1320w "
+sizes="100vw"
+type="image/webp"
+/>
+&lt;img
+width="1440"
+height="1080"
+class="mx-auto my-0 rounded-md"
+loading="lazy" decoding="async"
+src="https://codeandrun.it/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu11601683897656194526.jpg"
+srcset="https://codeandrun.it/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu14999494629064673677.jpg 330w,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu11601683897656194526.jpg 660w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu7190556499754048716.jpg 1024w ,/activities/2022-07-29-fondo_lento/IMG_0015_featured_hu4322903585744651979.jpg 1320w "
+sizes="100vw"
+/>
+&lt;/picture>
 &lt;/figure>
 &lt;p>Dormito poco, mangiato troppo: quello che doveva essere un lungo lento è diventato solo un lento.&lt;/p>
 &lt;figure class="mx-auto my-0 rounded-md">
@@ -23374,13 +23385,13 @@ src="https://codeandrun.it/activities/2022-02-07-test_3k/20220207-activity-map_f
 &lt;p>&lt;a href="https://strava.com/activities/6644819899" target="_blank" rel="noreferrer">Link all&amp;rsquo;attività&lt;/a>.&lt;/p></description></item><item><title>30 min with 5x1'+1'</title><link>https://codeandrun.it/activities/2022-02-02-30min_with_5x1_1/</link><pubDate>Wed, 02 Feb 2022 10:36:00 +0000</pubDate><guid>https://codeandrun.it/activities/2022-02-02-30min_with_5x1_1/</guid><description>&lt;p>Primo tentativo di velocità dopo tanto tempo. Grandissima fatica a reggere il ritmo e anche a tenere un minimo durante la parte lenta.&lt;/p>
 &lt;!-- more -->
 &lt;p>
-&lt;figure>&lt;img src="https://codeandrun.it/images/2022/02/IMG_5434-1.jpg" alt="Image" class="mx-auto my-0 rounded-md" />
+&lt;figure>&lt;img src="https://codeandrun.it/images/2022/02/IMG_5434-1-1024x557.jpg" alt="Image" class="mx-auto my-0 rounded-md" />
 &lt;/figure>
 &lt;/p></description></item><item><title>Some time ago it would have been easy</title><link>https://codeandrun.it/activities/2022-01-31-some_time_ago_it_would_have_been_easy/</link><pubDate>Mon, 31 Jan 2022 12:52:32 +0000</pubDate><guid>https://codeandrun.it/activities/2022-01-31-some_time_ago_it_would_have_been_easy/</guid><description>&lt;p>Poche nuvole, 14°C, Percepito 13°C, Umidità 66%, Vento 2m/s da E&lt;/p>
 &lt;p>&lt;a href="https://strava.com/activities/6609565042" target="_blank" rel="noreferrer">Link all&amp;rsquo;attività&lt;/a>.&lt;/p></description></item><item><title>Reboot</title><link>https://codeandrun.it/activities/2022-01-28-reboot/</link><pubDate>Fri, 28 Jan 2022 15:41:00 +0000</pubDate><guid>https://codeandrun.it/activities/2022-01-28-reboot/</guid><description>&lt;p>Cielo sereno, 16°C, Percepito 14°C, Umidità 38%, Vento 3m/s da NO&lt;/p>
 &lt;!-- more -->
 &lt;p>
-&lt;figure>&lt;img src="https://codeandrun.it/images/2022/02/IMG_5395.jpg" alt="Image" class="mx-auto my-0 rounded-md" />
+&lt;figure>&lt;img src="https://codeandrun.it/images/2022/02/IMG_5395-1024x768.jpg" alt="Image" class="mx-auto my-0 rounded-md" />
 &lt;/figure>
 &lt;/p>
 &lt;p>
@@ -26389,7 +26400,7 @@ src="https://codeandrun.it/activities/2022-02-07-test_3k/20220207-activity-map_f
 &lt;p>[gallery]&lt;/p>
 &lt;p>Rincuorati dalle sagge parole e con un po&amp;rsquo; di sana incoscienza i biker partono a cavallo dei mezzi (in perfette condizioni) durante la prima spiovuta. La discesa molto divertente, la strada abbastanza larga, i panorami sempre bellissimi e il tempo che sembra tenereconvincono i nostri discesisti di aver fatto la scelta giusta. I più veloci ( non si fanno nomi .. 🆒 ) hanno tempo anche per soffermarsi a fotografare gli scorci e gli altri membri del gruppone…&lt;/p>
 &lt;p>I nostri stupefatti gitanti riprendono dunque il treninio (in quresto tratto quasi una metropolitana) diretto a &lt;a href="http://www.locarno.ch" title="Locarno" target="_blank" rel="noreferrer">Locarno&lt;/a> dove, con un certo anticipo, riescono a prenotarsi per la corsa in Aliscafo (la gentilissima signora del chiosco dice che sono gli ultimi 6 posti disponibili… ma sull’aliscafo in realtà ci sono un sacco di posti liberi). Una breve passeggiata sul lungo lago (giusto il tempo per ammirare un altro nome di quelli che si possono trovare solo altralpe: il gelato “&lt;strong>pirulo&lt;/strong>”!! :shock: ) a via, a cavalcare le onde verso Stresa dove li attende la chiusura del cerchio: il treno verso casa!Arrivati in fondo alla discesa i nostri amici depositano le bici nell’apposito vagone merci; queste cose possono davvero succedere solo in svizzera, nessuno controlla chi lascia o chi prende, tutto é affidato unicamente alla correttezza degli utilizzatori: davvero complimenti, un esempioi di civiltà..&lt;/p>
-&lt;p>Proprio bello questo giro, una commistione di generi: treno, bici, aliscafo, lago, montagna, città… i nostri protagonisti sono stanchi ma soddisfatti e felici si dirigono verso il tramonto… su un treno delle FS..&lt;/p></description></item><item><title>Arcobaleno</title><link>https://codeandrun.it/posts/2007-06-20-arcobaleno/</link><pubDate>Wed, 20 Jun 2007 01:13:49 +0000</pubDate><guid>https://codeandrun.it/posts/2007-06-20-arcobaleno/</guid><description>&lt;p>Un paio di settimane fa (apprezzate come sempre la solerzia nello scrivere..) abbiamo concluso il nostro giro del Lago Maggiore. Dopo la &lt;a href="https://alexmufatti.it/2007/04/23/pomeriggio-sulla-sponda-ricca/" target="_blank" rel="noreferrer">prima parte&lt;/a> fatta il mese scorso abbiamo proseguito con la seconda tappa: partenza da Intra e prima parte del percorso lungo la parte alta del lago, sponda piemontese.&lt;/p>
+&lt;p>Proprio bello questo giro, una commistione di generi: treno, bici, aliscafo, lago, montagna, città… i nostri protagonisti sono stanchi ma soddisfatti e felici si dirigono verso il tramonto… su un treno delle FS..&lt;/p></description></item><item><title>Arcobaleno</title><link>https://codeandrun.it/posts/2007-06-20-arcobaleno/</link><pubDate>Wed, 20 Jun 2007 01:13:49 +0000</pubDate><guid>https://codeandrun.it/posts/2007-06-20-arcobaleno/</guid><description>&lt;p>Un paio di settimane fa (apprezzate come sempre la solerzia nello scrivere..) abbiamo concluso il nostro giro del Lago Maggiore. Dopo la &lt;a href="https://codeandrun.it/posts/2007-04-24-pomeriggio-sulla-sponda-ricca/" target="_blank" rel="noreferrer">prima parte&lt;/a> fatta il mese scorso abbiamo proseguito con la seconda tappa: partenza da Intra e prima parte del percorso lungo la parte alta del lago, sponda piemontese.&lt;/p>
 &lt;p>Abbiamo raggiunto Cannero e quindi Cannobio dove ci siamo fermati per una tappa, purtroppo l’unica, del nostro viaggio; durante la passeggiata per il paese, mentre mangiavamo un meritato gelato, siamo rimasti colpiti da quanto poco siano valorizzati alcuni luoghi di questi territori che, a nostro avviso, potrebbero avere un grosso fascino turistico. Un esempio sono i &lt;a href="http://www.castellidicannero.com/" title="castelli di cannero" target="_blank" rel="noreferrer">castelli di Cannero&lt;/a>: nonostante la bellezza del posto non si trova nemmeno un piccolo posteggio dove potersi fermare per ammirare il paesaggio o fare una foto.. mah.&lt;/p>
 &lt;p>Proseguendo abbiamo sconfinato in svizzera e siamo giunti fino a Brissago, Ascona e, infine, Locarno dove é iniziato il viaggio di ritorno verso casa sulla sponda lombarda.&lt;/p>
 &lt;p>
