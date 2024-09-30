@@ -48,6 +48,4 @@ Mi è piaciuto molto questo allenamento e credo che con il nuovo VDOT i passi si
 C'è stato un super picco di frequenza nel riscaldamento che non so a cosa sia dovuto.
 Ma davvero la Z3 sarebbe il ritmo maratona?? Se così fosse ci sarebbe da festeggiare!!
 
-{{< figure src="20231217-activity-map.png" title="map" >}}
-
 {{< strava id=10393175802 embedId=9938669578d9be20d979643a7e147b5d44a4b44c >}}

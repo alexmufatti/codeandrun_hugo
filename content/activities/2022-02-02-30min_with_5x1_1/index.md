@@ -8,6 +8,6 @@ date: 2022-02-02 10:36:00
 
 Primo tentativo di velocità dopo tanto tempo. Grandissima fatica a reggere il ritmo e anche a tenere un minimo durante la parte lenta.
 <!-- more -->
-![Image](/images/2022/02/IMG_5434-1.jpg)
+![Image](/images/2022/02/IMG_5434-1-1024x557.jpg)
 
  

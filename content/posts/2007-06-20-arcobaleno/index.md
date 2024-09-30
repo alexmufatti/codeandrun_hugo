@@ -6,7 +6,7 @@ categories:
 date: 2007-06-20 01:13:49
 ---
 
-Un paio di settimane fa (apprezzate come sempre la solerzia nello scrivere..) abbiamo concluso il nostro giro del Lago Maggiore. Dopo la [prima parte](https://alexmufatti.it/2007/04/23/pomeriggio-sulla-sponda-ricca/) fatta il mese scorso abbiamo proseguito con la seconda tappa: partenza da Intra e prima parte del percorso lungo la parte alta del lago, sponda piemontese.
+Un paio di settimane fa (apprezzate come sempre la solerzia nello scrivere..) abbiamo concluso il nostro giro del Lago Maggiore. Dopo la [prima parte](https://codeandrun.it/posts/2007-04-24-pomeriggio-sulla-sponda-ricca/) fatta il mese scorso abbiamo proseguito con la seconda tappa: partenza da Intra e prima parte del percorso lungo la parte alta del lago, sponda piemontese.
 
 Abbiamo raggiunto Cannero e quindi Cannobio dove ci siamo fermati per una tappa, purtroppo l’unica, del nostro viaggio; durante la passeggiata per il paese, mentre mangiavamo un meritato gelato, siamo rimasti colpiti da quanto poco siano valorizzati alcuni luoghi di questi territori che, a nostro avviso, potrebbero avere un grosso fascino turistico. Un esempio sono i [castelli di Cannero](http://www.castellidicannero.com/ "castelli di cannero"): nonostante la bellezza del posto non si trova nemmeno un piccolo posteggio dove potersi fermare per ammirare il paesaggio o fare una foto.. mah.
 

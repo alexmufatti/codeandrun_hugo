@@ -35,8 +35,6 @@ Bellissima uscita che doveva essere una Z2 ma, visto il poco tempo è stata più
 
 La vista dalla torbiera è stata proprio un toccasana!
 
-{{< figure src="IMG_2416.jpg" >}}
-
 Gli strascichi di questa Z3 li ho sentiti per diversi giorni 😢
 
 {{< figure src="IMG_2417.jpg" >}}
