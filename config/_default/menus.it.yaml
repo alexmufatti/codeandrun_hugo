@@ -21,10 +21,14 @@ main:
     pageRef: about
     weight: 50
   - identifier: search
-    weight: 99
+    weight: 98
     params:
       action: search
       icon: search
+  - identifier: appearance
+    weight: 99
+    params:
+      action: appearance
 footer:
   - name: Privacy
     url: https://www.iubenda.com/privacy-policy/14439811
