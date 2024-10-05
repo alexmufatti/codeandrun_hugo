@@ -45,7 +45,7 @@ article .feature {
 }
 
 article:hover .feature {
-    border-color: rgba(var(--color-primary-500),1);
+    border-color: rgba(var(--color-primary-900),1);
 }
 
 article:hover .feature img {
