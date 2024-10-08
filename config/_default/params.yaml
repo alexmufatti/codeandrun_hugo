@@ -58,4 +58,7 @@ sitemap:
 taxonomy:
   showTermCount: true
 fathomAnalytics: {}
+umamiAnalytics:
+  url: https://analytics.alexmufatti.it
+  site: 6f9a3439-f0ec-4a2d-9939-1ac2372deaf4
 verification: {}
