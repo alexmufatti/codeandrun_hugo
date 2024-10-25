@@ -10,6 +10,7 @@ trainingTypes: [🟢,🔴,🟢,🟢]
 trainingFeelings: [🫤,😀,🫤,🫤]
 draft: true
 ---
+Settimana con meno carico ma ancora un po' di qualità!
 <!--more--> 
 
 
