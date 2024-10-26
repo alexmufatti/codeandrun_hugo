@@ -6,9 +6,8 @@ categories:
 date: 2024-10-21 19:41:46
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟢,🔴,🟢,🟢]
-trainingFeelings: [🫤,😀,🫤,🫤]
-draft: true
+trainingTypes: [🟢,🔴,🟢,🟢,🟡]
+trainingFeelings: [🫤,😀,🫤,🫤,😀]
 ---
 Settimana con meno carico ma ancora un po' di qualità!
 <!--more--> 
@@ -29,7 +28,9 @@ L'ansietta per la gara inizia a farsi sentire! 🤪
 
 4x2000 Z4.
 Partito un po' stanco (non mi sento proprio in formissima e anche HRV è in picchiata) ma ho recuperato bene e l'allenamento mi sembra andato bene.
+
 {{< youtube id="y4rUiM9RBas" >}}
+
 Una pausa tra le prime 2 e le ultime per rispondere a un messaggio di lavoro 🤬!
 
 Le prime 2 ripetute erano con un bel vento contro e ho faticato non poco. Le ultime 2, già stanco ma con il vento a favore, son andate meglio!
@@ -57,3 +58,23 @@ Bimbe son state malaticce e, come al solito, il garmin inizia a predire qualche 
 {{< figure src="20241024-activity-map.png" title="map" >}}
 
 {{< strava id=12731282450 embedId=d123f02624d13b3cd06ab80d91b39cf9ef87f54d >}}
+
+## Quinta uscita
+16km Z3. 
+E anche l'ultimo giallo è andato! 
+
+{{< youtube id="Kd7KWSZzyU0" >}}
+
+Corsa andata bene, senza troppa fatica sotto un bel diluvio. 
+Sono uscito di corsa, senza gel e con un po' di colazione appena fatta e pensavo di vere qualche problema invece tutto bene. 
+Mi son stupido di vedere che su garmin dica 33% di Z4 perchè ho tenuto monitorato tutto il tempo e mi pareva di aver sforato solo poche volte in corrispondenza dei cavalcavia. Non capisco. Infatti su strava da solo un 18%. Probabilmente son stato un po' sui 152bpm che è proprio il limite tra le due.
+
+{{< figure src="IMG_3769.jpg" >}}
+
+A parte questo direi le migliori sensazioni delle ultime settimane!
+
+E giovedì si parte! 🛫🏃🏻‍♂️
+
+{{< figure src="20241026-activity-map.png" title="map" >}}
+
+{{< strava id=12746582524 embedId=1833a2eb19d1d154bc92120e1611107dc5bb7f7d >}}
