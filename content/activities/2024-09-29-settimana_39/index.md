@@ -17,9 +17,9 @@ Settimana della mezza in preparazione per NY!
 
 10km Z2. Altra Z2 in cui il cuore è andato allegramente in Z3 nonostante lo sforzo fosse assolutamente sotto controllo. Mah
 
-{{< figure src="20240929-activity-map.png" title="map" >}}
+{{< figure src="20240923-activity-map.png" title="map" >}}
 
-{{< strava id=12529397876 embedId=4e118a58d9fae85888513964de73913f3c41d423 >}}
+{{< strava id=12482911355 embedId=d266b374ac5858d31773d39b623e2ef80c0c91c0 >}}
 
 ## Seconda uscita
 8x500 Z3.
@@ -43,6 +43,6 @@ Se non avessi dovuto andare con un amico forse non sarei nemmeno partito!
 
 E invece.... gran bella gara, pure in leggera progressione (gli split dei 5k 20:33, 20:24, 20:23, 20:08); sono veramente stupito!
 
-{{< figure src="20240923-activity-map.png" title="map" >}}
+{{< figure src="20240929-activity-map.png" title="map" >}}
 
-{{< strava id=12482911355 embedId=d266b374ac5858d31773d39b623e2ef80c0c91c0 >}}
+{{< strava id=12529397876 embedId=4e118a58d9fae85888513964de73913f3c41d423 >}}
