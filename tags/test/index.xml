@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on Code And Run</title><link>https://codeandrun.it/tags/test/</link><description>Recent content in Test
 on Code And Run</description><generator>Hugo -- gohugo.io</generator><language>it</language><copyright>&lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />&lt;/a>&lt;br />This work is licensed under a &lt;a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a>.</copyright><lastBuildDate>Fri, 04 Mar 2022 12:49:41 +0000</lastBuildDate><atom:link href="https://codeandrun.it/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>Test 5k 21:04</title><link>https://codeandrun.it/activities/2022-03-04-test_5k_21_04/</link><pubDate>Fri, 04 Mar 2022 12:49:41 +0000</pubDate><guid>https://codeandrun.it/activities/2022-03-04-test_5k_21_04/</guid><description>&lt;p>Poche nuvole, 16°C, Percepito 16°C, Umidità 64%, Vento 3m/s da NNO&lt;/p>
-&lt;figure class="mx-auto my-0 rounded-md">
+&lt;figure class="mx-auto my-0 rounded-md mb-5">
 &lt;picture
-class="mx-auto my-0 rounded-md"
+class="mx-auto my-0 rounded-md mb-5"
 >
 &lt;source
 srcset="https://codeandrun.it/activities/2022-03-04-test_5k_21_04/20220304-activity-map_featured_hu498535016228948677.webp"
@@ -12,7 +12,7 @@ type="image/webp"
 &lt;img
 width="640"
 height="600"
-class="mx-auto my-0 rounded-md"
+class="mx-auto my-0 rounded-md mb-5"
 loading="lazy" decoding="async"
 src="https://codeandrun.it/activities/2022-03-04-test_5k_21_04/20220304-activity-map_featured.png"
 />
