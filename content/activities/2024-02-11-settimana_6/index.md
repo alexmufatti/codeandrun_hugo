@@ -24,7 +24,7 @@ Settimana di _tapering_ pre Mezza di Barcellona!!
 {{< strava id=10699377040 embedId=1ce3c85cd737e6996410fa221aa37d074c459c07 >}}
 
 ## Seconda uscita
-7x(2'Z3+1'Z2) VDOT(4:20). Tutto tranquillo, un po' troppo forti le parti in Z3 ma la fc non ne voleva sapere di salire
+7x(2'Z3+1'Z2). Tutto tranquillo, un po' troppo forti le parti in Z3 ma la fc non ne voleva sapere di salire
 {{< figure src="20240206-activity-map.png" title="map" >}}
 
 {{< strava id=10707520527 embedId=e6ffc535270b349f285b3cbab7e89a894b028860 >}}

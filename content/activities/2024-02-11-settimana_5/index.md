@@ -20,7 +20,7 @@ Settimana di trasferta: inizia la stanchezza che mi porterò dietro per un po'.
 {{< strava id=10654719319 embedId=9a5d432690cdb47d8bbf00b3393d407702a09790 >}}
 
 ## Seconda uscita
-2x3x1200Z4 (VDOT 4:05) il rosso della settimana l'ho fatto oggi al posto di ieri (dove non ho fatto niente tra viaggio e impegni). Andato abbastanza bene anche se era un po' cotto dall'aver dormito poco. Ho camminato un po' nel recupero tra le serie. In generale mi pare di essere andato abbastanza bene in Z4 anche con la FC.
+2x3x1200Z4 il rosso della settimana l'ho fatto oggi al posto di ieri (dove non ho fatto niente tra viaggio e impegni). Andato abbastanza bene anche se era un po' cotto dall'aver dormito poco. Ho camminato un po' nel recupero tra le serie. In generale mi pare di essere andato abbastanza bene in Z4 anche con la FC.
 {{< figure src="20240131-activity-map.png" title="map" >}}
 
 {{< strava id=10667242110 embedId=f7489b676cada343ccfc9c71f06df7db00b5f935 >}}
@@ -36,7 +36,7 @@ Fc abbastanza buona ma sensazioni non troppo: stanchezza (non solo nella corsa) 
 {{< strava id=10673900523 embedId=3bc0404fff6370e689ec9cddab82776ecb1c35f5 >}}
 
 ## Quarta uscita
-14km Z3 (VDOT 4:20). Finiamo la settimana con un bel medio. Nonostante ancora un po’ di stanchezza residua l’uscita è andata bene: fc ok e passo anche. Fatica sotto controllo per tutto il percorso.
+14km Z3. Finiamo la settimana con un bel medio. Nonostante ancora un po’ di stanchezza residua l’uscita è andata bene: fc ok e passo anche. Fatica sotto controllo per tutto il percorso.
 {{< figure src="20240203-activity-map.png" title="map" >}}
 
 {{< strava id=10685290095 embedId=3bfe5f4cbd8d10a773bffb09470a4b6343ca975a >}}

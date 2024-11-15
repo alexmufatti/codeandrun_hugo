@@ -26,7 +26,7 @@ FC abbastanza buona e gambe OK.
 {{< strava id=11343404873 embedId=4640c7d149a9cbe7e77e46aed863cad96451a1e7 >}}
 
 ## Seconda uscita
-2x5x400 Z5 (VDOT 3:26) rec. da fermo.
+2x5x400 Z5 rec. da fermo.
 
 {{< figure src="IMG_3174.jpg" >}}
 

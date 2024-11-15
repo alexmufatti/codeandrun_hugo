@@ -43,7 +43,7 @@ Oggi avrò i 4x2000 e lì sì che sarà dura! 😅
 {{< strava id=11050067060 embedId=33f768316d691a00049ded0129a2e6f597cca28a >}}
 
 ## Quinta uscita
-3x5000 + 4x2000 Z3 (VDOT 4:10/4:30).
+3x5000 + 4x2000 Z3.
 Non so proprio come interpretare questo allenamento.
 Attenzione, post lungo e piangina 😆
 🛣️ Il percorso: Alla fine ho corso su un percorso che non avevo mai fatto e ho dovuto tenere quasi sempre la mappa sull'orologio per orientarmi. Un sacco di su e giù che non mi hanno mai fatto prendere il ritmo e una bella salita nella seconda ripetuta da 2000 che mi ha distrutto.

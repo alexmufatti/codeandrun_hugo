@@ -31,7 +31,7 @@ Oggi invece allenamento bello impegnativo ma finito bene.
 
 {{< strava id=11141129269 embedId=e8242f15712b6911bc9378c26d4b4c8c24ecb3e4 >}}
 
-- 16km Z3 (VDOT 4:15/4:20).
+- 16km Z3.
 Ultima uscita impegnativa prima della gara: da oggi tapering!
 Già prima di uscire non avevo grandi sensazioni e infatti non è andata molto bene. Passo buono ma FC alla deriva fin da subito. Fino agli ultimi 2 km in Z4 ma solo di qualche battito (forse anche dovuto al gran caldo di oggi a cui non son abituato), poi in piena Z4.
 Ovviamente per il morale non è il massimo un'ultima uscita così. Ora la questione è: a che passo si parte Domenica prossima? (se dovessi dirlo ora, partirei camminando 😞) E fino a che punto si tiene il passo senza rischiare di scoppiare??
@@ -53,7 +53,7 @@ Sono un paio di giorni però che ho un dolore all’arco plantare nella parte in
 
 {{< strava id=11187063835 embedId=66ce021d1a59cfca7a73c4148163e632cc0c81ce >}}
 
-- 5x1000 Z3 (VDOT 4:15/4:20) rec 200m.
+- 5x1000 Z3 rec 200m.
 Andata abbastanza bene, non particolarmente brillante nonostante lo scarico.
 Un po' di dolorini qui e là ma potrebbe anche essere l'ansia pre-gara
 

@@ -24,7 +24,7 @@ Tutto tranquillo, gambe ancora un po' rigide, soprattutto dopo la corsa più che
 {{< strava id=11089777682 embedId=0a2655ccdb64d7931db0367660c3c1a654551af9 >}}
 
 ## Seconda uscita
-10x400 Z5 (VDOT 3:26). Eccoci con un altro bell'allenamento di quelli che piacciono al coach ☠️!
+10x400 Z5. Eccoci con un altro bell'allenamento di quelli che piacciono al coach ☠️!
 Nella prima metà avevo i quadricipiti ancora un po' pesanti dal lungo ma poi si son sciolti un po'.
 Mi pare andato abbastanza bene.
 {{< figure src="20240403-activity-map.png" title="map" >}}
@@ -40,7 +40,7 @@ Mi pare andato abbastanza bene.
 {{< strava id=11104375524 embedId=d4c9820bfb7ea4f3ccd1250733b1d41f6b270594 >}}
 
 ## Quarta uscita
-5x2000 Z3 (VDOT 4:15) rec 1000 Z2.
+5x2000 Z3 rec 1000 Z2.
 Come al solito i 4:15 del VDOT per la Z3 son un po' ottimisti e ho puntato da subito a stare sui 4:20 monitorando anche la FC.
 Andato direi bene, FC sempre in Z3 e, a parte la seconda parte controvento, anche nei recuperi la FC scendeva bene.
 {{< figure src="20240405-activity-map.png" title="map" >}}

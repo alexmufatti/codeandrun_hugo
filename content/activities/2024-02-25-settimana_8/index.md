@@ -24,7 +24,7 @@ Cuore un po' ballerino, forse aver spostato i 16 di venerdì a ieri non ha aiuta
 
 ## Seconda uscita
 
-🔴 2x1,5km + 2x1,2km + 2x1km Z4 (VDOT 4:01). Allenamento bello tosto. Nelle ultime 2 ripetute gambe un po' stanche ma in generale bene nonostante il vento contrario da metà in poi.
+🔴 2x1,5km + 2x1,2km + 2x1km Z4. Allenamento bello tosto. Nelle ultime 2 ripetute gambe un po' stanche ma in generale bene nonostante il vento contrario da metà in poi.
 
 {{< figure src="20240220-activity-map.png" title="map" >}}
 
@@ -49,7 +49,7 @@ Tutto tranquillo. Un po' di vento contrario al ritorno che mi ha fatto rallentar
 
 ## Quinta uscita
 
-🟡 5x3000 Z3 (VDOT 4:15).
+🟡 5x3000 Z3.
 Ieri un bel lungo da 30km con ripetute in Z3.
 Premessa 1: 4:15 è il vdot nuovo dopo l'ultima mezza, prima era 4:20 e secondo me per la Z3 è più realistico, forse ancora un po' veloce.
 Premessa 2: ho aggiornato le zone cardio abbassando di 5 battiti la FCMax come concordato. Con le zone vecchie sarei stato sempre in Z3 credo.

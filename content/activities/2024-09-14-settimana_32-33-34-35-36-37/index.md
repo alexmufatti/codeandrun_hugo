@@ -170,7 +170,7 @@ Primi due allenaemnti della settimana:
 
 {{< figure src="IMG_3642.jpg" >}}
 
-3x2,5km Z4 (VDOT 4:01min/km). Allenamento bello tosto. Son partito con le gambe un po' rigide ma devo dire che mi pare andato bene. Ho sofferto un po' l'ultima ripetuta ma ho tenuto bene passo e fc. 😜
+3x2,5km Z4. Allenamento bello tosto. Son partito con le gambe un po' rigide ma devo dire che mi pare andato bene. Ho sofferto un po' l'ultima ripetuta ma ho tenuto bene passo e fc. 😜
 
 {{< figure src="20240903-activity-map.png" title="map" >}}
 
