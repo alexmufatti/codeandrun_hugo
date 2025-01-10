@@ -3,7 +3,7 @@ title: Settimana 52
 tags: ['sport', 'running']
 categories:
   - Sport
-date: 2024-12-31 15:18:15
+date: 2024-12-29 15:18:15
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
 trainingTypes: [🟢,🔴,🟢,🟡]
