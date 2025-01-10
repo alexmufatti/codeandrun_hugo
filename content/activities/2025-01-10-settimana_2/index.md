@@ -9,7 +9,7 @@ places: []
 trainingTypes: [🟢,🔴,🟢,🟢]
 trainingFeelings: [😭,😭,😭,😭]
 ---
-Eccoci di ritorno a casa. Settimana FULL!
+Eccoci di ritorno a casa. Settimana FULL! 💥
 
 <!--more--> 
 
