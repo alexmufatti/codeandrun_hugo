@@ -7,7 +7,7 @@ date: 2025-01-06 17:29:46
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
 trainingTypes: [🟢,🔴,🟢,🟢,🟢]
-trainingFeelings: [😭,😭,😭,😭,😭]
+trainingFeelings: [🫤,🫤,😀,🙂,😀]
 ---
 Eccoci di ritorno a casa. Settimana FULL! 💥
 
