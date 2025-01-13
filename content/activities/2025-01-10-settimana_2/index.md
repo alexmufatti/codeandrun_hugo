@@ -6,8 +6,8 @@ categories:
 date: 2025-01-06 17:29:46
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟢,🔴,🟢,🟢]
-trainingFeelings: [😭,😭,😭,😭]
+trainingTypes: [🟢,🔴,🟢,🟢,🟢]
+trainingFeelings: [😭,😭,😭,😭,😭]
 ---
 Eccoci di ritorno a casa. Settimana FULL! 💥
 
@@ -67,3 +67,16 @@ Tutto tranquillo, una buona Z2 anche se i kg di panettone son ancora tutti lì!
 {{< figure src="20250110-activity-map.png" title="map" >}}
 
 {{< strava id=13314018628 embedId=8dc62757f91a3167889d86689a551b0ca64b9f89 >}}
+
+## Quinta uscita
+
+5km Z1 + 20km Z2.
+Un bel lungo tranquillo. 
+
+{{< youtube id="yfql1lvKBZ0" >}}
+
+Non sono molto abituato a correre di sera ma è andato bene, sforzo e Fc sotto controllo. Gambe un po’ affaticate ma sono ancora un po’ appesantito dalle feste 😀
+
+{{< figure src="20250112-activity-map.png" title="map" >}}
+
+{{< strava id=13337365829 embedId=cd3c3b81f4d6e5e548b7b33aa8eff8078984f826 >}}
