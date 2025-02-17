@@ -9,11 +9,8 @@ places: []
 trainingTypes: [🟢,🟡,🟢,🏁]
 trainingFeelings: [🙂,🙂,🙂,😀]
 ---
-Metta maratona di Barcellona: PB!
-<!--more--> 
-
-
-
+Mezza maratona di Barcellona: PB!
+<!--more-->
 
 ## Prima uscita
 
