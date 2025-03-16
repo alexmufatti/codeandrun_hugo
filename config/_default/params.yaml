@@ -11,7 +11,7 @@ mainSections:
 timeout: 300000
 header:
   layout: hybrid
-  logo: avatar.png
+  logo: avatar4.png
   showTitle: false
 footer:
   showCopyright: true
