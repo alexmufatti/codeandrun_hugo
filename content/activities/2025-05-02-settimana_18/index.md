@@ -6,10 +6,10 @@ categories:
 date: 2025-04-28 14:18:29
 places: []
 # 🔴,🟢,🟡,😀,🙁,🫤,🙂,😐,😭,☠️
-trainingTypes: [🟢,🔴,🟢,🟢,🟢]
-trainingFeelings: [😭,😭,😭,😭,😭]
-draft: true
+trainingTypes: []
+trainingFeelings: []
 ---
+Ritorno a Barcellona!
 <!--more--> 
 
 {{< figure src="IMG_4755.jpg" >}}
