@@ -13,7 +13,6 @@ Ritorno a Barcellona!
 <!--more--> 
 
 {{< figure src="IMG_4755.jpg" >}}
-{{< figure src="IMG_4756.jpg" >}}
 {{< figure src="IMG_4759.jpg" >}}
 
 ## Prima uscita
@@ -46,6 +45,14 @@ Pensavo andasse molto peggio ma alla fine le sensazioni non son state così male
 {{< strava id=14343431453 embedId=85d832ad80d42c5869600a40715826e8ac131ff1 >}}
 
 ## Quinta uscita
+
+3km Z3 + 2x1km Z3 + 4x500 Z3 + 1km Z4.
+
+{{< youtube id="zD1d1ZY9fOw" >}}
+
+Ho fatto un casino in questo allenamento. Prima mi son dimenticato il riposo dopo i primi 3km e l'ho fatto stoppando l'orologio a occhio. Poi ero convito che fossero 4x1km e non 2 e quindi quando ho visto il primo 500 ho fatto lap pensando di aver sbagliato, mi son fermato e mi son accorto dell'errore. Allora son ripartito.
+Le ripetute ci sono tutte ma non seguono l'allenamento del garmin!
+A parte questo mi pare sia andato bene, a parte i primi 3k gli altri sono stati abbastanza facili, anche l'ultimo in z4.
 
 {{< figure src="20250502-activity-map.png" title="map" >}}
 
